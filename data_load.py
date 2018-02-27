@@ -83,7 +83,7 @@ def get_batch_data():
             
     # create batch queues
     x, y = tf.train.shuffle_batch(input_queues,
-                                num_threads=8,
+                                num_threads=2,
                                 batch_size=hp.batch_size, 
                                 capacity=hp.batch_size*64,   
                                 min_after_dequeue=hp.batch_size*32, 

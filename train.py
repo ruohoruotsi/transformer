@@ -154,19 +154,26 @@ class Graph():
                 tf.summary.scalar('mean_loss', self.mean_loss)
                 self.merged = tf.summary.merge_all()
 
-if __name__ == '__main__':                
+if __name__ == '__main__':
+
     # Load vocabulary    
     de2idx, idx2de = load_de_vocab()
+    print("Loaded source vocab")
     en2idx, idx2en = load_en_vocab()
-    
+    print("Loaded target vocab")
+
     # Construct graph
-    g = Graph("train"); print("Graph loaded")
-    
+    g = Graph("train"); print("TF Graph loaded")
+
+    config = tf.ConfigProto(intra_op_parallelism_threads=2,
+                            inter_op_parallelism_threads=2,
+                            allow_soft_placement=True,
+                            device_count={'CPU': 2})
     # Start session
     sv = tf.train.Supervisor(graph=g.graph, 
                              logdir=hp.logdir,
                              save_model_secs=0)
-    with sv.managed_session() as sess:
+    with sv.managed_session(config=config) as sess:
         for epoch in range(1, hp.num_epochs+1): 
             if sv.should_stop(): break
             for step in tqdm(range(g.num_batch), total=g.num_batch, ncols=70, leave=False, unit='b'):

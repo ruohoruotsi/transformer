@@ -8,10 +8,10 @@ https://www.github.com/kyubyong/transformer
 class Hyperparams:
     '''Hyperparameters'''
     # data
-    source_train = 'corpora/train.tags.de-en.de'
-    target_train = 'corpora/train.tags.de-en.en'
-    source_test = 'corpora/IWSLT16.TED.tst2014.de-en.de.xml'
-    target_test = 'corpora/IWSLT16.TED.tst2014.de-en.en.xml'
+    source_train = '/Users/iorife/github/yoruba_asr/automatic_diacritization/seq2seq/nmt_data/yoruba_diacritics/train/sources.txt'
+    target_train = '/Users/iorife/github/yoruba_asr/automatic_diacritization/seq2seq/nmt_data/yoruba_diacritics/train/targets.txt'
+    source_test = '/Users/iorife/github/yoruba_asr/automatic_diacritization/seq2seq/nmt_data/yoruba_diacritics/dev/sources.txt'
+    target_test = '/Users/iorife/github/yoruba_asr/automatic_diacritization/seq2seq/nmt_data/yoruba_diacritics/dev/targets.txt'
     
     # training
     batch_size = 32 # alias = N
