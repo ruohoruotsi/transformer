@@ -33,7 +33,13 @@ def eval():
     # Start session         
     with g.graph.as_default():    
         sv = tf.train.Supervisor()
-        with sv.managed_session(config=tf.ConfigProto(allow_soft_placement=True)) as sess:
+
+        config = tf.ConfigProto(intra_op_parallelism_threads=2,
+                                inter_op_parallelism_threads=2,
+                                allow_soft_placement=True,
+                                device_count={'CPU': 2})
+
+        with sv.managed_session(config=config) as sess:
             ## Restore parameters
             sv.saver.restore(sess, tf.train.latest_checkpoint(hp.logdir))
             print("Restored!")
@@ -43,7 +49,7 @@ def eval():
              
             ## Inference
             if not os.path.exists('results'): os.mkdir('results')
-            with codecs.open("results/" + mname, "w", "utf-8") as fout:
+            with codecs.open("results/" + mname + ".txt", "w", "utf-8") as fout:
                 list_of_refs, hypotheses = [], []
                 for i in range(len(X) // hp.batch_size):
                      
@@ -74,8 +80,8 @@ def eval():
                             hypotheses.append(hypothesis)
               
                 ## Calculate bleu score
-                score = corpus_bleu(list_of_refs, hypotheses)
-                fout.write("Bleu Score = " + str(100*score))
+                # score = corpus_bleu(list_of_refs, hypotheses)
+                # fout.write("Bleu Score = " + str(100*score))
                                           
 if __name__ == '__main__':
     eval()

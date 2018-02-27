@@ -60,10 +60,10 @@ def load_test_data():
         line = regex.sub("<[^>]+>", "", line)
         line = regex.sub("[^\s\p{Latin}']", "", line) 
         return line.strip()
-    
-    de_sents = [_refine(line) for line in codecs.open(hp.source_test, 'r', 'utf-8').read().split("\n") if line and line[:4] == "<seg"]
-    en_sents = [_refine(line) for line in codecs.open(hp.target_test, 'r', 'utf-8').read().split("\n") if line and line[:4] == "<seg"]
-        
+
+    de_sents = [line for line in codecs.open(hp.source_test, 'r', 'utf-8').read().split("\n")]
+    en_sents = [line for line in codecs.open(hp.target_test, 'r', 'utf-8').read().split("\n")]
+
     X, Y, Sources, Targets = create_data(de_sents, en_sents)
     return X, Sources, Targets # (1064, 150)
 
