@@ -6,6 +6,11 @@ kbpark.linguist@gmail.com.
 https://www.github.com/kyubyong/transformer
 '''
 from __future__ import print_function
+
+# CPU
+#import os
+#os.environ["CUDA_VISIBLE_DEVICES"]="-1"
+
 import tensorflow as tf
 
 from hyperparams import Hyperparams as hp
@@ -165,10 +170,16 @@ if __name__ == '__main__':
     # Construct graph
     g = Graph("train"); print("TF Graph loaded")
 
-    config = tf.ConfigProto(intra_op_parallelism_threads=2,
-                            inter_op_parallelism_threads=2,
-                            allow_soft_placement=True,
-                            device_count={'CPU': 2})
+    # CPU
+    #config = tf.ConfigProto(intra_op_parallelism_threads=16,
+    #                       inter_op_parallelism_threads=16,
+    #                       allow_soft_placement=True,
+    #                       device_count={'CPU': 16})
+
+    # GPU
+    gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.63)
+    config = tf.ConfigProto(gpu_options=gpu_options)
+
     # Start session
     sv = tf.train.Supervisor(graph=g.graph, 
                              logdir=hp.logdir,
