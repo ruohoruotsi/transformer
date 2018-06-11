@@ -1,0 +1,6144 @@
+- source: o lugo ni buba ninu panti
+- expected: o lúgọ ní bùba nínú pàǹtí
+- got: ó <UNK> ni <UNK> nínú <UNK>
+
+- source: o lugo ni buba lati mu awon alaini iranwo
+- expected: ó lúgọ ní bùba làti mú àwọn aláìní ìrànwọ
+- got: ó <UNK> ní <UNK> láti mú àwọn aláìní <UNK>
+
+- source: o wi fun ara re olorun ti gbagbe
+- expected: ó wí fún ara rẹ ọlọrun ti gbàgbé
+- got: ó wí fún ara rẹ <UNK> ti gbàgbé
+
+- source: dide oluwa  gbe owo re soke olorun
+- expected: dìde olúwa  gbé ọwọ rẹ sókè ọlọrun
+- got: dìde olúwa gbé <UNK> rẹ sókè <UNK>
+
+- source: ma se gbagbe awon oluponju
+- expected: má ṣe gbàgbé àwọn olùpọnjú
+- got: má ṣe gbàgbé àwọn <UNK>
+
+- source: eese ti eniyan buburu se n kegan olorun
+- expected: èeṣe tí ènìyàn búburú ṣe ń kẹgàn ọlọrun
+- got: èéṣe tí ènìyàn búburú ṣe ń <UNK> <UNK>
+
+- source: sugbon iwo olorun ni o ri wahala ati irora
+- expected: ṣùgbọn ìwọ ọlọrun ni o ri wàhálà àti ìrora
+- got: <UNK> ìwọ <UNK> ni ó rí wàhálà wàhálà àti ìrora
+
+- source: iwo ro lati fi si owo re
+- expected: ìwọ rò láti fi sí ọwọ rẹ
+- got: ìwọ rọ láti fi <UNK> sí <UNK> rẹ
+
+- source: talaka fara re jin fun o
+- expected: talákà fara rẹ jin fún ọ
+- got: talákà ìdílé rẹ jìn fún ọ
+
+- source: iwo ni oluranlowo awon alaini baba
+- expected: ìwọ ni olùrànlọwọ àwọn aláìní baba
+- got: ìwọ ni <UNK> àwọn aláìní baba
+
+- source: se apa awon eniyan buburu ati eniyan ibi
+- expected: ṣẹ apá àwọn ènìyàn búburú àti ènìyàn ibi
+- got: ṣe apá àwọn ènìyàn búburú àti ènìyàn ibi
+
+- source: oluwa n joba lae ati laelae
+- expected: olúwa ń jọba láé àti láéláé
+- got: olúwa ń jọba láé àti láéláé
+
+- source: awon orile ede yoo ti ile re segbe
+- expected: àwọn orílẹ èdè yóò ti ilẹ rẹ ṣègbé
+- got: àwọn <UNK> èdè yóò ti ilé rẹ ṣègbé
+
+- source: iwo gbo oluwa ife awon ti a ni lara
+- expected: ìwọ gbọ olúwa ìfẹ àwọn tí a ni lára
+- got: ìwọ <UNK> olúwa <UNK> àwọn tí a ní lára
+
+- source: awa ni eniyan re ati aguntan papa re
+- expected: àwa ní ènìyàn rẹ àti àgùntàn pápá rẹ
+- got: àwa ni ènìyàn rẹ àti àgùntàn rẹ pápá
+
+- source: e fi ope ati iyin fun oruko re
+- expected: ẹ fi ọpẹ àti ìyìn fún orúkọ rẹ
+- got: ẹ fi <UNK> àti ìyìn fún orúkọ rẹ
+
+- source: ati otito re titi de gbogbo aye
+- expected: àti òtítọ rẹ títí dé gbogbo ayé
+- got: àti <UNK> rẹ títí dé gbogbo ayé
+
+- source: emi yoo korin ife ati ododo
+- expected: èmi yóò kọrin ìfẹ àti òdodo
+- got: èmi yóò kọrin <UNK> àti òdodo
+
+- source: si o oluwa emi yoo maa korin iyin
+- expected: sí ọ olúwa èmi yóò máa kọrin ìyìn
+- got: sí ọ olúwa èmi yóò máa kọrin ìyìn
+
+- source: emi ki yoo gbe ohun buburu si iwaju mi
+- expected: èmi kì yóò gbé ohun búburú sí iwájú mi
+- got: èmi kì yóò gbé ohun búburú <UNK> sí mi
+
+- source: de eti re si mi
+- expected: dẹ etí rẹ sí mi
+- got: dé etí rẹ sí mi
+
+- source: nigba ti mo ba pe dami lohun kiakia
+- expected: nígbà tí mo bá pè dámi lóhùn kíákíá
+- got: nígbà tí mo bá pé <UNK> lóhùn
+
+- source: nitori ti ojo ru bi eefin
+- expected: nítorí tí ọjọ rú bí èéfin
+- got: nítorí tí <UNK> ru bí èéfín
+
+- source: mo gbagbe lati je ounje mi
+- expected: mo gbàgbé láti jẹ oúnjẹ mi
+- got: mo gbàgbé láti jẹ oúnjẹ mi
+
+- source: emi da bi eye igun ni iju
+- expected: èmi dà bí ẹyẹ igún ni ijù
+- got: èmi dá bí ẹyẹ igun ní igun
+
+- source: emi dabi owiwi ibi ahoro
+- expected: èmi dàbí òwìwí ibi ahoro
+- got: èmi dàbí <UNK> ibi ahoro
+
+- source: emi dabi eye lori ile
+- expected: èmí dàbí ẹyẹ lórí ilé
+- got: èmi dàbí ẹyẹ lórí ilẹ
+
+- source: iranti re lati iran de iran
+- expected: ìrántí rẹ láti ìran dé ìran
+- got: ìrántí rẹ láti ìran dé ìran ìran
+
+- source: won si kaanu erupe re
+- expected: wọn sì káànú ẹrùpẹ rẹ
+- got: wọn sì <UNK> <UNK> rẹ
+
+- source: yoo dahun adura awon alaini
+- expected: yóò dáhùn àdúrà àwọn aláìní
+- got: yóò dáhùn àdúrà àwọn aláìní
+
+- source: ki yoo si gan ebe won
+- expected: kì yóò si gan ẹbẹ wọn
+- got: kì yóò sì gan <UNK> wọn
+
+- source: odun re n lo lati iran de iran
+- expected: ọdún rẹ ń lọ láti ìran dé ìran
+- got: ọdún rẹ ń lọ láti ìran dé ìran
+
+- source: gbogbo won ni yoo gbo bi aso
+- expected: gbogbo wọn ni yóò gbó bí aṣọ
+- got: gbogbo wọn ni yóò gbó bí aṣọ
+
+- source: yin oluwa iwo okan mi
+- expected: yin olúwa ìwọ ọkàn mi
+- got: yín olúwa ìwọ ọkàn mi
+
+- source: yin oluwa iwo okan mi
+- expected: yin olúwa ìwọ ọkàn mi
+- got: yín olúwa ìwọ ọkàn mi
+
+- source: yin oluwa iwo okan mi
+- expected: yin olúwa ìwọ ọkàn mi
+- got: yín olúwa ìwọ ọkàn mi
+
+- source: oluwa olorun mi iwo tobi jojo
+- expected: olúwa ọlọrun mi ìwọ tóbi jọjọ
+- got: olúwa <UNK> mi ìwọ tóbi jọjọ
+
+- source: ola ati ola nlani iwo wo ni aso
+- expected: ọlá àti ọlá ńláni ìwọ wọ ní aṣọ
+- got: ọlá àti ọlá <UNK> ìwọ wò ni aṣọ
+
+- source: iwo fi imole bo ara re gege bi aso
+- expected: ìwọ fi ìmọlẹ bo ara rẹ gẹgẹ bí aṣọ
+- got: ìwọ fi <UNK> bo ara rẹ <UNK> bí aṣọ
+
+- source: o fi aye gunle lori awon ipile
+- expected: o fi ayé gúnlẹ lórí àwọn ìpìlẹ
+- got: ó fi ayé <UNK> lórí àwọn <UNK>
+
+- source: ti a ko le e mi laelae
+- expected: tí a kò le è mi láéláé
+- got: tí a kò lè lé e mi
+
+- source: iwo fi ibu omi bo o mole bi aso
+- expected: ìwọ fi ibú omi bò ó mọlẹ bí aṣọ
+- got: ìwọ fi ibú omi bò ó <UNK> bí aṣọ
+
+- source: awon omi si duro lori awon oke nla
+- expected: àwọn omi sì dúró lórí àwọn òkè ńlá
+- got: àwọn omi sì dúró lórí àwọn òkè ńlá
+
+- source: iwo mu ki isun da omi si awon afonifoji
+- expected: ìwọ mú kí ìsun da omi sí àwọn àfonífojì
+- got: ìwọ mú kí ìsun omi sí àfonífojì àwọn àfonífojì
+
+- source: ti o n san laarin awon oke
+- expected: tí ó ń ṣàn láàrin àwọn òkè
+- got: tí ó ń sàn láàrin àwọn òkè
+
+- source: a te aye lorun nipa eso ise owo re
+- expected: a tẹ ayé lọrùn nípa èṣo iṣẹ ọwọ rẹ
+- got: a tẹ ayé <UNK> nípa èso <UNK> rẹ
+
+- source: awon oke giga ni aabo fun awon ewure igbo
+- expected: àwọn òkè gíga ni ààbò fún àwọn ewúrẹ igbó
+- got: àwọn òkè gíga ni ààbò fún àwọn <UNK> igbó
+
+- source: ati awon alapa je aabo fun awon ehoro
+- expected: àti àwọn àlàpà jẹ ààbò fún àwọn ehoro
+- got: àti àwọn <UNK> jẹ ààbò fún àwọn <UNK>
+
+- source: aye kun fun awon iseda a re
+- expected: ayé kún fún àwọn ìṣẹdá a rẹ
+- got: ayé kún fún àwọn <UNK> a rẹ
+
+- source: je ki ogo oluwa wa pe titi lae
+- expected: jẹ kí ògo olúwa wà pẹ títí láé
+- got: jẹ kí ògo olúwa wa títí láé
+
+- source: yin oluwa iwo okan mi
+- expected: yin olúwa ìwọ ọkàn mi
+- got: yín olúwa ìwọ ọkàn mi
+
+- source: e fi ope fun oluwa ke pe oruko re
+- expected: ẹ fi ọpẹ fún olúwa ké pe orukọ rẹ
+- got: ẹ fi <UNK> fún olúwa ké pe orúkọ rẹ
+
+- source: korin si i korin iyin si i
+- expected: kọrin sí i kọrin ìyìn sí i
+- got: kọrin sí i kọrin sí ìyìn sí i
+
+- source: so ti ise iyanu re gbogbo
+- expected: sọ ti iṣẹ ìyanu rẹ gbogbo
+- got: sọ tí <UNK> ìyanu rẹ gbogbo
+
+- source: sogo ninu oruko mimo re
+- expected: ṣògo nínú orúkọ mímọ rẹ
+- got: ṣògo nínú orúkọ <UNK> rẹ
+
+- source: wa oluwa ati ipa re
+- expected: wá olúwa àti ipá rẹ
+- got: wá olúwa àti ipa rẹ
+
+- source: wa oju re nigba gbogbo
+- expected: wa ojú rẹ nígbà gbogbo
+- got: wá ojú rẹ nígbà gbogbo
+
+- source: oun ni oluwa olorun wa
+- expected: òun ni olúwa ọlọrun wa
+- got: òun ni olúwa <UNK> wa
+
+- source: idajo re wa ni gbogbo aye
+- expected: ìdájọ rẹ wà ní gbogbo ayé
+- got: <UNK> rẹ wà ní gbogbo ayé
+
+- source: ko gba enikeni laaye lati pon won loju
+- expected: kò gba ẹnikẹni láàyè láti pọn wọn lójú
+- got: kò gba <UNK> láàyè láti <UNK> wọn lójú
+
+- source: o fi oba bu nitori ti won
+- expected: ó fi ọba bú nítorí tí wọn
+- got: ó fi ọba bú nítorí tí wọn
+
+- source: jakobu si se atipo ni ile amu
+- expected: jákọbù sì ṣe àtìpó ní ilé ámù
+- got: <UNK> sì ṣe àtìpó ni ilẹ <UNK>
+
+- source: o si la apata o si mu omi jade
+- expected: ó sì la àpáta ó sì mú omi jáde
+- got: ó sì la àpáta ó sì mú omi jáde
+
+- source: gege bi odo ti n san nibi gbigbe
+- expected: gẹgẹ bí odò tí ń ṣàn níbi gbígbẹ
+- got: <UNK> bí odò ti ń san níbi <UNK>
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: e fi ope fun oluwa nitori ti o seun
+- expected: ẹ fi ọpẹ fún olúwa nítorí tí ó ṣeun
+- got: ẹ fi <UNK> fún olúwa nítorí tí ó <UNK>
+
+- source: nitori ti ife re duro laelae
+- expected: nítorí tí ìfẹ rẹ dúró láéláé
+- got: nítorí tí <UNK> rẹ dúró láéláé
+
+- source: ibukun ni fun awon ti n pa idajo mo
+- expected: ìbùkún ni fún àwọn tí ń pa ìdájọ mọ
+- got: ìbùkún ni fún àwọn tí ń pa <UNK> mọ
+
+- source: ina jo awon eniyan buburu
+- expected: iná jo àwọn ènìyàn búburú
+- got: iná jó àwọn ènìyàn búburú
+
+- source: nitori ti won sote si emi olorun
+- expected: nítorí tí wọn ṣọtẹ sí ẹmí ọlọrun
+- got: nítorí tí wọn <UNK> sí èmi <UNK>
+
+- source: oro aidara si ti enu mose wa
+- expected: ọrọ àìdára sì ti ẹnu mósè wá
+- got: <UNK> <UNK> sí ti ẹnu mósè wá
+
+- source: won ta eje alaise sile
+- expected: wọn ta ẹjẹ aláìṣẹ sílẹ
+- got: wọn ta <UNK> <UNK> <UNK>
+
+- source: eje awon omokunrin ati awon omobinrin won
+- expected: ẹjẹ àwọn ọmọkùnrin àti àwọn ọmọbìnrin wọn
+- got: <UNK> àwọn ọmọkùnrin àti àwọn ọmọbìnrin wọn
+
+- source: e fi ope fun oluwa nitori ti o seun
+- expected: ẹ fi ọpẹ fún olúwa nítorí tí ó ṣeun
+- got: ẹ fi <UNK> fún olúwa nítorí tí ó <UNK>
+
+- source: nitori ife re duro laelae
+- expected: nítorí ìfẹ rẹ dúró láéláé
+- got: nítorí <UNK> rẹ dúró láéláé
+
+- source: ogbon won si de opin
+- expected: ọgbọn wọn sì dé òpin
+- got: <UNK> wọn sì dé òpin
+
+- source: mo dabi egan fun awon olufisun mi
+- expected: mo dàbí ẹgàn fún àwọn olùfisùn mi
+- got: mo dàbí <UNK> fún àwọn <UNK> mi
+
+- source: nigba ti won wo mi won gbon ori won
+- expected: nígbà tí wọn wò mí wọn gbọn orí wọn
+- got: nígbà tí wọn wo mi wọn <UNK> orí wọn
+
+- source: ran mi lowo oluwa olorun mi
+- expected: ràn mí lọwọ olúwa ọlọrun mi
+- got: rán mi <UNK> olúwa <UNK> mi
+
+- source: gba mi gege bi iseun ife re
+- expected: gbà mí gẹgẹ bí ìṣeun ìfẹ rẹ
+- got: gba mi <UNK> bí <UNK> <UNK> rẹ
+
+- source: won o maa gegunun sugbon iwo ma sure
+- expected: wọn o máa gégùnún ṣùgbọn ìwọ má súré
+- got: wọn ó máa <UNK> <UNK> ìwọ má súre
+
+- source: igbekele mi wa ninu oluwa
+- expected: ìgbẹkẹlé mí wà nínú olúwa
+- got: <UNK> mi wà nínú olúwa
+
+- source: fo gege bi eye lo si ori oke re
+- expected: fò gẹgẹ bi ẹyẹ lọ si orí òkè rẹ
+- got: fò <UNK> bí ẹyẹ lọ sí orí òkè rẹ
+
+- source: wo o nitori naa eniyan buburu fa ofa re
+- expected: wò ó nítorí náà ènìyàn búburú fa ọfà rẹ
+- got: wò ó nítorí náà ènìyàn búburú fà ọfà rẹ
+
+- source: oluwa n be ninu tempili mimo re
+- expected: olúwa ń bẹ nínú tẹḿpìlì mímọ rẹ
+- got: olúwa ń bẹ nínú <UNK> <UNK> rẹ
+
+- source: oluwa n be lori ite re ni orun
+- expected: olúwa ń bẹ lórí ìtẹ rẹ ní ọrun
+- got: olúwa ń bẹ lórí <UNK> rẹ ní ọrun
+
+- source: o n wo awon omo eniyan
+- expected: ó ń wo àwọn ọmọ ènìyàn
+- got: ó ń wo àwọn ọmọ ènìyàn
+
+- source: oju re n ye won wo
+- expected: ojú rẹ ń yẹ wọn wò
+- got: ojú rẹ ń yẹ wọn wò
+
+- source: ati iji gbigbona ni yoo je ipin won
+- expected: àti ìjì gbígbóná ní yóò jẹ ìpín wọn
+- got: àti ìjì <UNK> ni yóò jẹ ìpín wọn
+
+- source: nitori olododo ni oluwa o feran ododo
+- expected: nítorí olódodo ní olúwa o fẹràn òdodo
+- got: nítorí olódodo ni olúwa ó <UNK> òdodo
+
+- source: eni idurosinsin yoo si ri i
+- expected: ẹni ìdúróṣinṣin yóò sì rí i
+- got: ẹni <UNK> yóò sì rí i
+
+- source: yoo mu ninu odo sisan ni ona
+- expected: yóò mú nínú òdò ṣíṣàn ní ọnà
+- got: yóò mú nínú <UNK> <UNK> ní ọnà
+
+- source: nitori naa ni yoo se gbe ori soke
+- expected: nítorí náà ni yóò ṣe gbe orí sókè
+- got: nítorí náà ni yóò ṣe gbé orí sókè
+
+- source: ise re ni ola nla ati ogo
+- expected: iṣẹ rẹ ní ọlá ńlá àti ògo
+- got: ìṣe rẹ ni ọlá ńlá àti ògo
+
+- source: ati ododo re duro laelae
+- expected: àti òdodo rẹ dúró láéláé
+- got: àti òdodo rẹ dúró láéláé
+
+- source: o ti se ise iyanu re lati maa ranti
+- expected: ó ti ṣe iṣẹ ìyanu rẹ láti máa rántí
+- got: ó ti ṣe <UNK> ìyanu rẹ láti máa <UNK>
+
+- source: oun n ranti majemu re
+- expected: oun ń rántí májẹmú rẹ
+- got: òun ń rántí <UNK> rẹ
+
+- source: gbogbo ofin re si daju
+- expected: gbogbo òfin rẹ sì dájú
+- got: gbogbo òfin rẹ sì dájú
+
+- source: o ran irapada si awon eniyan re
+- expected: ó rán ìràpadà sí àwọn ènìyàn rẹ
+- got: ó rán <UNK> sí àwọn ènìyàn rẹ
+
+- source: o pase majemu re titi lae
+- expected: ó pàṣẹ májẹmú rẹ títí láé
+- got: ó pàṣẹ <UNK> rẹ títí láé
+
+- source: mimo ati owo ni oruko re
+- expected: mímọ àti ọwọ ní orúkọ rẹ
+- got: <UNK> àti <UNK> ni orúkọ rẹ
+
+- source: iberu olorun ni ipilese ogbon
+- expected: ìbẹrù ọlọrun ni ìpilẹṣẹ ọgbọn
+- got: <UNK> <UNK> ni <UNK> <UNK>
+
+- source: oye daradara ni yoo maa se ofin re
+- expected: òye dáradára ni yóò máa ṣe òfin rẹ
+- got: òye dáradára ni yóò máa ṣe òfin rẹ
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: iru omo re yoo je alagbara ni aye
+- expected: iru ọmọ rẹ yóò jẹ alágbára ní ayé
+- got: irú ọmọ rẹ yóò jẹ alágbára ní ayé
+
+- source: ododo re si duro lae
+- expected: òdodo rẹ sì dúró láé
+- got: òdodo rẹ sì dúró láé
+
+- source: fun oloooto ni imole yoo tan fun ni okunkun
+- expected: fún olóòótọ ni ìmọlẹ yóò tàn fún ni òkùnkùn
+- got: fún <UNK> ni <UNK> yóò tàn fún òkùnkùn ní òkùnkùn
+
+- source: oloore ofe ati alaaanu ati ododo
+- expected: olóore ọfẹ àti aláàánú àti òdodo
+- got: <UNK> <UNK> àti <UNK> àti òdodo
+
+- source: dajudaju ki yoo le yi ni ipo pada laelae
+- expected: dájúdájú kì yóò le yí ni ìpo padà láéláé
+- got: dájúdájú kì yóò lè yí <UNK> ni láéláé láéláé
+
+- source: olododo ni a o maa se iranti ni ayeraye
+- expected: olódodo ni a ó máa ṣe ìrántí ní ayérayé
+- got: olódodo ni a ó máa ṣe ìrántí ni ayérayé
+
+- source: oun ki yoo beere iyin buburu
+- expected: òun kì yóò bèèrè ìyìn búburú
+- got: òun kì yóò béèrè ìyìn búburú
+
+- source: okan re ti duro o ni igbekele ninu oluwa
+- expected: ọkàn rẹ ti dúró ó ní ìgbẹkẹlé nínú olúwa
+- got: ọkàn rẹ ti dúró ó ní <UNK> nínú olúwa
+
+- source: nitori ododo re duro lae
+- expected: nítorí òdodo rẹ dúró láé
+- got: nítorí òdodo rẹ dúró láé
+
+- source: iwo re ni a o gbe soke pelu ola
+- expected: ìwọ rẹ ní a ó gbé sókè pẹlú ọlá
+- got: ìwọ rẹ ni a ó gbé sókè <UNK> ọlá
+
+- source: erongba okan eniyan buburu ni yoo segbe
+- expected: èròngbà ọkàn ènìyàn búburú ni yóò ṣègbé
+- got: <UNK> ọkàn ènìyàn búburú ni yóò ṣègbé
+
+- source: okun si ri i o si wariri
+- expected: òkun sì rí i ó sì wárìrì
+- got: òkun sì rí i ó sì wárìrì
+
+- source: iwo jodani ti iwo fi pada seyin
+- expected: ìwọ jódánì tí ìwọ fi padà sẹyìn
+- got: ìwọ <UNK> tí ìwọ fi padà <UNK>
+
+- source: wariri iwo ile niwaju oluwa
+- expected: wárìrì ìwọ ilẹ níwájú olúwa
+- got: wárìrì wárìrì ìwọ níwájú olúwa
+
+- source: sugbon olorun wa wa lorun
+- expected: ṣùgbọn ọlọrun wa wà lọrun
+- got: <UNK> <UNK> wá wà <UNK>
+
+- source: ti o n se eyi ti o wu u
+- expected: tí ó ń ṣe èyí tí ó wù ú
+- got: tí ó ń ṣe èyí tí ó wù ú
+
+- source: won ni eti sugbon won ko gboran
+- expected: wọn ní etí ṣùgbọn wọn kò gbọràn
+- got: wọn ní etí <UNK> wọn kò <UNK>
+
+- source: bee ni won ko soro ninu ofin won
+- expected: bẹẹ ni wọn kò sọrọ nínú òfin wọn
+- got: <UNK> ni wọn kò <UNK> nínú òfin wọn
+
+- source: awon ti n se won dabi won
+- expected: àwọn tí ń ṣe wọn dàbí wọn
+- got: àwọn tí ń ṣe dàbí wọn
+
+- source: oun ni iranwo ati aabo won
+- expected: oun ní ìrànwọ àti ààbò wọn
+- got: òun ni <UNK> àti ààbò wọn
+
+- source: oluwa ti n se iranti wa
+- expected: olúwa tí ń ṣe ìrántí wa
+- got: olúwa tí ń ṣe ìrántí wa
+
+- source: orun ani orun ni ti oluwa
+- expected: ọrun àní ọrun ni ti olúwa
+- got: ọrun àní ọrun ni ti olúwa
+
+- source: sugbon aye lo fi fun omo eniyan
+- expected: ṣùgbọn ayé lo fi fún ọmọ ènìyàn
+- got: <UNK> ayé lọ fi fún ọmọ ènìyàn
+
+- source: emi feran oluwa nitori o gbo ohun mi
+- expected: èmi fẹràn olúwa nítorí ó gbọ ohùn mi
+- got: èmi <UNK> olúwa nítorí ọ <UNK> ohùn mi
+
+- source: o gbo ekun mi fun aanu
+- expected: ó gbọ ẹkún mi fún àánú
+- got: ó <UNK> ẹkún mi fún àánú
+
+- source: iyonu ati ibanuje bori mi
+- expected: ìyọnu àti ìbànújẹ borí mi
+- got: ìyọnu àti <UNK> borí mi
+
+- source: nigba naa ni mo ke pe oruko oluwa
+- expected: nígbà náà ni mo ké pé orúkọ olúwa
+- got: nígbà náà ni mo ké pe orúkọ olúwa
+
+- source: olorun wa kun fun aanu
+- expected: ọlọrun wa kún fún àánú
+- got: <UNK> wà kún fún àánú
+
+- source: nitori naa mo wi pe emi ri iponju pupo
+- expected: nítorí náà mo wí pé èmi rí ìpọnjú púpọ
+- got: nítorí náà mo wí pé èmi rí <UNK> <UNK>
+
+- source: oluwa ni tooto iranse re ni mo je
+- expected: olúwa ní tòótọ ìránṣẹ rẹ ni mo jẹ
+- got: olúwa ni <UNK> <UNK> rẹ ni mo jẹ mọ
+
+- source: emi ni iranse re omo iransebinrin re
+- expected: èmi ni ìránṣẹ rẹ ọmọ ìránṣẹbìnrin rẹ
+- got: èmi ni <UNK> rẹ ọmọ rẹ
+
+- source: o ti tu mi sile ninu ide mi
+- expected: ó ti tú mi sílẹ nínú ìdè mi
+- got: ó ti tú mi <UNK> nínú idẹ mi
+
+- source: e yin oluwa gbogbo eyin orile ede
+- expected: ẹ yin olúwa gbogbo ẹyin orílẹ èdè
+- got: ẹ yín olúwa gbogbo ẹyin <UNK> èdè
+
+- source: e pokiki re gbogbo eyin eniyan
+- expected: ẹ pòkìkí rẹ gbogbo ẹyin ènìyàn
+- got: ẹ <UNK> rẹ gbogbo ẹyin ènìyàn
+
+- source: e yin oluwa  saamu
+- expected: ẹ yin olúwa  sáàmù
+- got: ẹ yín olúwa <UNK>
+
+- source: e fi ope fun oluwa nitori ti o dara
+- expected: ẹ fi ọpẹ fún olúwa nítorí tí ó dára
+- got: ẹ fi <UNK> fún olúwa <UNK> tí ó dára
+
+- source: je ki isireli wi pe aanu re duro laelae
+- expected: jẹ kí ísírẹlì wí pé àánú rẹ dúró láéláé
+- got: jẹ kí <UNK> wí pé àánú rẹ dúró láéláé
+
+- source: je ki ile aroni wi pe
+- expected: jẹ kí ilé árónì wí pé
+- got: jẹ kí ilé árónì wí pé
+
+- source: je ki awon ti o beru oluwa wi pe
+- expected: jẹ kí àwọn tí ó bẹrù olúwa wí pé
+- got: jẹ kí àwọn tí ó <UNK> olúwa wí pé
+
+- source: oluwa n be fun emi
+- expected: olúwa ń bẹ fún èmi
+- got: olúwa ń bẹ fún <UNK>
+
+- source: ki ni eniyan le se si mi
+- expected: kí ni ènìyàn lè ṣe si mi
+- got: kí ni ènìyàn le ṣe sí mi
+
+- source: oluwa n be fun mi
+- expected: olúwa n bẹ fún mi
+- got: olúwa ń bẹ fún mi
+
+- source: ni oruko oluwa emi ke won danu
+- expected: ní orúkọ olúwa èmi ké wọn dànù
+- got: ni orúkọ olúwa èmi ké wọn dànù
+
+- source: oluwa ni agbara ati orin mi
+- expected: olúwa ni agbára àti orin mi
+- got: olúwa ni agbára àti orin mi
+
+- source: o si di igbala mi
+- expected: ó si di ìgbàlà mi
+- got: ó sì di ìgbàlà mi
+
+- source: si ilekun enu ona ododo fun mi
+- expected: ṣí ìlẹkùn ẹnu ọnà òdodo fún mi
+- got: sí <UNK> ẹnu ọnà òdodo fún mi
+
+- source: iwo si di igbala mi
+- expected: ìwọ sì di ìgbàlà mi
+- got: ìwọ sì di ìgbàlà mi
+
+- source: eyi ni ojo ti oluwa da
+- expected: èyí ni ọjọ tí olúwa dá
+- got: èyí ni <UNK> tí olúwa dá
+
+- source: oluwa fun wa ni alaafia
+- expected: olúwa fún wa ní àlàáfíà
+- got: olúwa fún wa ní àlàáfíà
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: won ko se ohun ti ko dara
+- expected: wọn kò ṣe ohun tí kò dára
+- got: wọn kò ṣe ohun tí kò dára
+
+- source: won rin ni ona re
+- expected: wọn rìn ní ọnà rẹ
+- got: wọn rìn ní ọnà rẹ
+
+- source: emi yoo gboran si ase re
+- expected: èmi yóò gbọràn sí asẹ rẹ
+- got: èmi yóò <UNK> sí àṣẹ rẹ
+
+- source: ma se ko mi sile patapata
+- expected: má ṣe kọ mí sílẹ pátapáta
+- got: má ṣe kọ mi <UNK> pátapáta
+
+- source: lati maa gbe ni ibamu si oro re
+- expected: láti máa gbé ní ìbámu sí ọrọ rẹ
+- got: láti máa gbé ní <UNK> sí <UNK> rẹ
+
+- source: ko mi ni ase re
+- expected: kọ mi ní àsẹ rẹ
+- got: kò mi ní àṣẹ rẹ
+
+- source: emi ki yoo gbagbe ona re
+- expected: èmi kì yóò gbàgbé ọnà rẹ
+- got: èmi kì yóò gbàgbé ọnà rẹ
+
+- source: emi yoo se igboran si oro re
+- expected: èmi yóò ṣe ìgbọràn sí ọrọ rẹ
+- got: èmi yóò ṣe <UNK> sí <UNK> rẹ
+
+- source: alejo ni emi je laye
+- expected: àlejò ní èmi jẹ láyé
+- got: àlejò ni èmi jẹ <UNK>
+
+- source: ma se pa ase re mo fun mi
+- expected: má ṣe pa àṣẹ rẹ mọ fún mi
+- got: má se pa àṣẹ rẹ mọ fún mi
+
+- source: ofin re ni didun inu mi
+- expected: òfin rẹ ni dídùn inú mi
+- got: òfin rẹ ní dídùn inú mi
+
+- source: emi te jeeje sinu erupe
+- expected: èmi tẹ jẹẹjẹ sínú erùpẹ
+- got: èmi tẹ <UNK> sínú <UNK>
+
+- source: pa aye mi mo si ipa oro re
+- expected: pa ayé mi mọ sí ipa ọrọ rẹ
+- got: pa ayé mi mọ sí ipa <UNK> rẹ
+
+- source: ko mi ni ase re
+- expected: kọ mi ní àṣẹ rẹ
+- got: kò mi ní àṣẹ rẹ
+
+- source: je ki n mo eko ilana re
+- expected: jẹ kí ń mọ ẹkọ ìlànà rẹ
+- got: jẹ kí ń mọ <UNK> ìlànà rẹ
+
+- source: okan mi n se aare pelu ibanuje
+- expected: ọkàn mi ń ṣe àárẹ pẹlú ìbànújẹ
+- got: ọkàn mi ń ṣe <UNK> <UNK> <UNK>
+
+- source: fi agbara fun mi gege bi oro re
+- expected: fi agbára fún mi gẹgẹ bí ọrọ rẹ
+- got: fi agbára fún mi <UNK> bí <UNK> rẹ
+
+- source: emi yara di ofin re mu
+- expected: èmi yára di òfin rẹ mú
+- got: èmi yára di òfin rẹ mú
+
+- source: ko mi oluwa lati tele ase re
+- expected: kọ mi olúwa láti tẹlé àṣẹ rẹ
+- got: kò mi olúwa láti <UNK> àṣẹ rẹ
+
+- source: pa aye mi mo gege bi oro re
+- expected: pa ayé mí mọ gẹgẹ bí ọrọ rẹ
+- got: pa ayé mi mọ <UNK> bí <UNK> rẹ
+
+- source: itunu mi ninu iponju mi ni eyi
+- expected: ìtùnú mi nínú ìpọnjú mi ni èyí
+- got: ìtùnú mi nínú <UNK> mi ni èyí
+
+- source: ipinu re pa aye mi mo
+- expected: ìpinu rẹ pa ayé mi mọ
+- got: <UNK> rẹ pa ayé mi mọ
+
+- source: iwo ni ipin mi oluwa
+- expected: ìwọ ni ìpín mi olúwa
+- got: ìwọ ni ìpín mi olúwa
+
+- source: emi ti pinnu lati teriba si oro re
+- expected: èmi ti pinnu láti tẹríba sí ọrọ rẹ
+- got: èmi ti mú láti tẹríba sí <UNK> rẹ
+
+- source: emi ti wa oju re pelu gbogbo okan mi
+- expected: èmi ti wá ojú rẹ pẹlú gbogbo ọkàn mi
+- got: èmi ti wá ojú rẹ <UNK> gbogbo ọkàn mi
+
+- source: fun mi ni oore ofe gege bi ipinnu re
+- expected: fún mi ní oore ọfẹ gẹgẹ bí ìpinnu rẹ
+- got: fún mi ní oore <UNK> bí <UNK> rẹ bi
+
+- source: ko mi ni ilana re
+- expected: kọ mi ní ìlànà rẹ
+- got: kò mi ní ìlànà rẹ
+
+- source: fun mi ni oye lati ko ase re
+- expected: fún mi ní òye láti kọ àṣẹ rẹ
+- got: fún mi ní òye láti kọ àṣẹ rẹ
+
+- source: oju mi kuna pelu wi wo ipinu re
+- expected: ojú mi kùnà pẹlú wí wo ìpinu rẹ
+- got: ojú mi <UNK> <UNK> wí wò <UNK> rẹ
+
+- source: bawo ni iranse re yoo se duro pe to
+- expected: báwo ni ìránṣẹ rẹ yóò ṣe dúró pẹ tó
+- got: báwo ni <UNK> rẹ yóò ṣe dúró tó pé
+
+- source: gbogbo ase re ye ni igbekele
+- expected: gbogbo àsẹ rẹ yẹ ní ìgbẹkẹlé
+- got: gbogbo àṣẹ rẹ yẹ ní <UNK>
+
+- source: oro re oluwa titi lae ni
+- expected: ọrọ rẹ olúwa títí láé ni
+- got: <UNK> rẹ olúwa títí láé ni
+
+- source: iwo ti da aye o si duro sinsin
+- expected: ìwọ ti dá ayé ó sì dúró ṣinṣin
+- got: ìwọ ti dá ayé ó sì dúró ṣinṣin
+
+- source: si ohun pipe gbogbo emi ti ri opin
+- expected: sí ohun pípé gbogbo èmi ti rí òpin
+- got: sí ohun <UNK> gbogbo èmi ti rí òpin
+
+- source: sugbon ase re alailopin ni
+- expected: ṣùgbọn àṣẹ rẹ aláìlópin ni
+- got: <UNK> àṣẹ rẹ <UNK> ni
+
+- source: nitori naa emi koriira gbogbo ona ti ko to
+- expected: nítorí náà èmi kórìíra gbogbo ọnà tí kò tọ
+- got: nítorí náà èmi kórìíra gbogbo ọnà tí kò tọ
+
+- source: a pon mi loju gidigidi
+- expected: a pọn mi lójú gidigidi
+- got: a <UNK> mi lójú gidigidi
+
+- source: ofin re ni ogun mi laelae
+- expected: òfin rẹ ni ogún mi láéláé
+- got: òfin rẹ ni ogun mi láéláé
+
+- source: awon ni ayo okan mi
+- expected: àwọn ni ayọ ọkàn mi
+- got: àwọn ni <UNK> ọkàn mi
+
+- source: iwo ni aabo mi ati asa mi
+- expected: ìwọ ni ààbò mi àti aṣà mi
+- got: ìwọ ni <UNK> mi àti <UNK> mi
+
+- source: emi ti mu ireti mi sinu oro re
+- expected: èmi ti mú ìrètí mi sínú ọrọ rẹ
+- got: èmi ti mú ìrètí mi sínú <UNK> rẹ
+
+- source: gbe mi soke emi yoo si wa lailewu
+- expected: gbé mi sókè èmí yóò sì wa láìléwu
+- got: gbé mi sókè èmi yóò sì wá <UNK>
+
+- source: nigba gbogbo ni emi yoo maa juba ofin re
+- expected: nígbà gbogbo ni èmi yóò máa júbà òfin rẹ
+- got: nígbà gbogbo ni èmi yóò máa máa <UNK> rẹ
+
+- source: nitori naa emi fe ofin e
+- expected: nítorí náà èmi fẹ òfin ẹ
+- got: nítorí náà èmi <UNK> òfin e
+
+- source: ara mi wariri ni iberu nitori re
+- expected: ara mi wárìrì ní ìbẹrù nítorí rẹ
+- got: ará mi wárìrì ní <UNK> nítorí rẹ
+
+- source: mu ki alaafia iranse re daju
+- expected: mú kí àlàáfíà ìránṣẹ rẹ dájú
+- got: mú kí àlàáfíà <UNK> rẹ dájú
+
+- source: ma se je ki awon agberaga ni mi lara
+- expected: má ṣe jẹ kí àwọn agbéraga ni mi lára
+- got: má ṣe jẹ kí àwọn <UNK> ní mi lára
+
+- source: nitori ofin re ti fo
+- expected: nítorí òfin rẹ ti fọ
+- got: nítorí òfin rẹ ti fọ
+
+- source: isipaya oro re mu imole wa
+- expected: ìṣípayá ọrọ rẹ mú ìmọlẹ wá
+- got: <UNK> <UNK> rẹ mú <UNK> wá
+
+- source: o fi oye fun awon ope
+- expected: ó fi òye fún àwọn òpè
+- got: ó fi òye fún àwọn <UNK>
+
+- source: ododo re wa titi lae otito ni ofin re
+- expected: òdodo rẹ wà títí láé òtítọ ni òfin rẹ
+- got: òdodo rẹ wa títí láé <UNK> ni òfin rẹ
+
+- source: fun mi ni oye ki emi le ye
+- expected: fún mi ní òyé kí èmi lè yè
+- got: fún mi ní òye kí èmi le yè
+
+- source: emi kigbe pelu gbogbo okan mi
+- expected: èmi kígbe pẹlú gbogbo ọkàn mi
+- got: èmi kígbe <UNK> gbogbo ọkàn mi
+
+- source: gba mi emi yoo si pa ofin re mo
+- expected: gbà mí èmi yóò sì pa òfin rẹ mọ
+- got: gba mi èmi yóò sì pa òfin rẹ mọ
+
+- source: emi dide saaju afemojumo emi ke fun iran lowo
+- expected: èmi dìde ṣáájú àfẹmọjúmọ èmi ké fún ìràn lọwọ
+- got: èmi dìde <UNK> ṣáájú <UNK> <UNK> fún ìran <UNK>
+
+- source: emi ti mu ireti mi sinu oro re
+- expected: èmi ti mú ìrètí mi sínú ọrọ rẹ
+- got: èmi ti mú ìrètí mi sínú <UNK> rẹ
+
+- source: gbo ohun mi ni isokan pelu ife re
+- expected: gbọ ohùn mi ní ìṣọkan pẹlú ìfẹ rẹ
+- got: <UNK> ohùn mi ni <UNK> <UNK> <UNK> rẹ
+
+- source: pa aye mi mo oluwa gege bi ofin re
+- expected: pa ayé mí mọ olúwa gẹgẹ bí òfin rẹ
+- got: pa ayé mi mọ olúwa <UNK> bí òfin rẹ
+
+- source: pa aye mi mo gege bi ipinnu re
+- expected: pa ayé mi mọ gẹgẹ bí ìpinnu rẹ
+- got: pa ayé mi mọ <UNK> bí i rẹ
+
+- source: pa aye mi mo gege bi ofin re
+- expected: pa ayé mi mọ gẹgẹ bí òfin rẹ
+- got: pa ayé mi mọ <UNK> bí òfin rẹ
+
+- source: wo bi emi se feran eko re
+- expected: wo bí èmi ṣe fẹràn ẹkọ rẹ
+- got: wo bí èmi ṣe <UNK> <UNK> rẹ
+
+- source: pa aye mi mo oluwa gege bi ife re
+- expected: pa ayé mi mọ olúwa gẹgẹ bí ìfẹ rẹ
+- got: pa ayé mi mọ olúwa <UNK> bí <UNK> rẹ
+
+- source: otito ni gbogbo oro re
+- expected: òtítọ ni gbogbo ọrọ rẹ
+- got: <UNK> ni gbogbo <UNK> rẹ
+
+- source: gbogbo ofin ododo re laelae ni
+- expected: gbogbo òfin òdodo rẹ láéláé ni
+- got: gbogbo òfin òdodo rẹ ni láéláé
+
+- source: je ki igbe mi wa si iwaju re oluwa
+- expected: jẹ kí igbe mi wá sí iwájú rẹ olúwa
+- got: jẹ kí igbe mi wá sí <UNK> rẹ olúwa
+
+- source: fun mi ni oye gege bi oro re
+- expected: fún mi ní òye gẹgẹ bí ọrọ rẹ
+- got: fún mi ní òye <UNK> bí <UNK> rẹ
+
+- source: je ki ebe mi wa si iwaju re
+- expected: jẹ kí ẹbẹ mi wá sí iwájú rẹ
+- got: jẹ kí <UNK> mi wá sí <UNK> rẹ
+
+- source: gba mi gege bi ipinnu re
+- expected: gbà mí gẹgẹ bí ìpinnu rẹ
+- got: gba mi <UNK> bí i rẹ
+
+- source: olotiito ti poora kuro laarin awon eniyan
+- expected: olótìítọ tí pòórá kúrò láàrin àwọn ènìyàn
+- got: <UNK> tí <UNK> kúrò láàrin àwọn ènìyàn
+
+- source: olukuluku n paro fun aladuugbo re
+- expected: olúkúlùkù ń parọ fún aládùúgbò rẹ
+- got: <UNK> ń <UNK> fún <UNK> rẹ
+
+- source: ete eke won n so etan
+- expected: ètè èké wọn ń sọ ẹtàn
+- got: ètè èké wọn ń sọ <UNK>
+
+- source: awa ni ete wa ta ni oga wa
+- expected: àwa ní ètè wa ta ni ọgá wa
+- got: àwa ni <UNK> wá ta ni <UNK> wà
+
+- source: ki ni ki a fi fun o
+- expected: kí ni kí a fi fún ọ
+- got: kí ni kí a fi fún ọ
+
+- source: eni ti o pa o mo ki i toogbe
+- expected: ẹni tí ó pa ọ mọ kì í tòògbé
+- got: ẹni tí ó pa ó mọ kì í <UNK>
+
+- source: awon ti o fe o yoo se rere
+- expected: àwọn tí o fẹ ọ yóò ṣe rere
+- got: àwọn tí ó <UNK> ọ yóò ṣe rere
+
+- source: oluwa saanu fun wa saanu fun wa
+- expected: olúwa ṣàánú fún wa ṣàánú fún wa
+- got: olúwa ṣàánú fún wa ṣàánú fún wa
+
+- source: nitori ti a kun fun egan pupo pupo
+- expected: nítorí tí a kún fún ẹgàn púpọ púpọ
+- got: nítorí tí a kún fún <UNK> <UNK> <UNK>
+
+- source: okun ja awa si yo
+- expected: okùn já àwa sì yọ
+- got: òkun já àwa sì yọ
+
+- source: sugbon alaafia yoo wa lori isireli
+- expected: ṣùgbọn àlàáfíà yóò wà lórí ísírẹlì
+- got: <UNK> àlàáfíà yóò wà lórí <UNK>
+
+- source: oluwa se ohun nla fun wa
+- expected: olúwa ṣe ohun ńlá fún wa
+- got: olúwa ṣe ohun ńlá fún wa
+
+- source: nitori naa awa n yo
+- expected: nítorí náà àwa ń yọ
+- got: nítorí náà àwa ń yọ
+
+- source: kiyesi i awon omo ni ini oluwa
+- expected: kíyèsí i àwọn ọmọ ni ìní olúwa
+- got: kíyèsí i àwọn ọmọ ni ìní olúwa
+
+- source: omo inu si ni ere re
+- expected: ọmọ inú sì ni èrè rẹ
+- got: ọmọ inú sí ni èrè rẹ
+
+- source: ibukun ni fun gbogbo eni ti o beru oluwa
+- expected: ìbùkún ni fún gbogbo ẹni tí ó bẹrù olúwa
+- got: ìbùkún ni fún gbogbo ẹni tí ó <UNK> olúwa
+
+- source: sibe won ko tii bori mi
+- expected: ṣíbẹ wọn kò tíì borí mi
+- got: <UNK> wọn kò tíì borí mi
+
+- source: awon awale wale si eyin mi
+- expected: àwọn awalẹ walẹ sí ẹyìn mi
+- got: àwọn <UNK> <UNK> sí ẹyin mi
+
+- source: won si la aporo won gigun
+- expected: wọn sì là aporo wọn gígùn
+- got: wọn sì là <UNK> wọn gígùn
+
+- source: eyi ti oloko pipa ko kun owo re
+- expected: èyí tí olóko pípa kó kún ọwọ rẹ
+- got: èyí tí <UNK> pípa kò kún <UNK> rẹ
+
+- source: awa n sure fun yin ni oruko oluwa
+- expected: àwa ń súre fún yin ní orúkọ olúwa
+- got: àwa ń súre fún yín ní orúkọ olúwa
+
+- source: yoo ti pe to oluwa
+- expected: yóò ti pẹ tó olúwa
+- got: yóò ti pè tó olúwa
+
+- source: iwo o ha gbagbe mi titi lae
+- expected: ìwọ o ha gbàgbé mi títí láé
+- got: ìwọ ó ha gbàgbé mi títí láé
+
+- source: sugbon mo gbekele ife re ti ki i kuna
+- expected: ṣùgbọn mo gbẹkẹlé ìfẹ rẹ tí kì í kùnà
+- got: <UNK> mo <UNK> <UNK> rẹ ti kì í <UNK>
+
+- source: okan mi n yo ninu igbala re
+- expected: ọkàn mi ń yọ nínú ìgbàlà rẹ
+- got: ọkàn mi ń yọ nínú ìgbàlà rẹ
+
+- source: isireli iwo ni ireti ni ti oluwa
+- expected: ísírẹlì ìwọ ní ìrètí ní ti olúwa
+- got: <UNK> ìwọ ni ìrètí ti olúwa ti olúwa
+
+- source: oluwa ranti dafidi ninu gbogbo iponju re
+- expected: olúwa rántí dáfídì nínú gbogbo ìpọnjú rẹ
+- got: olúwa rántí dáfídì nínú gbogbo <UNK> rẹ
+
+- source: kiyesi i awa gburoo re ni efurata
+- expected: kíyèsí i àwa gbúroo rẹ ni éfúrátà
+- got: kíyèsí i <UNK> àwa rẹ ní <UNK>
+
+- source: awa ri i ninu oko egan naa
+- expected: àwa rí i nínú oko ẹgàn náà
+- got: àwa rí i nínú ọkọ <UNK> náà
+
+- source: awa o lo sinu ago re
+- expected: àwa ó lọ sínú àgọ rẹ
+- got: àwa ó lọ sínú <UNK> rẹ
+
+- source: iwo ati apoti agbara re
+- expected: ìwọ àti àpótí agbára rẹ
+- got: ìwọ àti àpótí rẹ
+
+- source: ki a fi ododo wo awon alufaa re
+- expected: kí a fi òdodo wọ àwọn àlùfáà rẹ
+- got: kí a fi òdodo wo àwọn àlùfáà rẹ
+
+- source: oluwa ti bura nitooto fun dafidi
+- expected: olúwa ti búra nítòótọ fún dáfídì
+- got: olúwa ti búra fún <UNK> dáfídì
+
+- source: nitori ti oluwa ti yan sioni
+- expected: nítorí tí olúwa ti yan síónì
+- got: nítorí tí olúwa ti yàn síónì
+
+- source: o ti fee fun ibujokoo re
+- expected: ó ti fẹẹ fún ibùjókòó rẹ
+- got: ó ti <UNK> fún <UNK> rẹ
+
+- source: eyi ni ibi isinmi mi laelae
+- expected: èyí ní ibi ìsinmi mí láéláé
+- got: èyí ní ibi ìsinmi mi láéláé
+
+- source: nihinin ni emi yoo maa gbe
+- expected: níhìnín ni èmi yóò máa gbé
+- got: <UNK> ni èmi yóò máa gbé
+
+- source: nitori ti mo fe e
+- expected: nítorí tí mo fẹ ẹ
+- got: nítorí tí mo <UNK> e
+
+- source: emi yoo bukun ounje re pupo pupo
+- expected: èmi yóò bùkún oúnjẹ rẹ púpọ púpọ
+- got: èmi yóò bùkún oúnjẹ rẹ <UNK> <UNK>
+
+- source: emi yoo fi ounje te awon talaka re lorun
+- expected: èmi yóò fi oúnjẹ tẹ àwọn tálákà rẹ lọrùn
+- got: èmi yóò fi oúnjẹ tẹ àwọn talákà rẹ <UNK>
+
+- source: emi yoo si fi igbala wo awon alufaa re
+- expected: èmi yóò sì fi ìgbàlà wọ àwọn àlúfáà rẹ
+- got: èmi yóò sì fi ìgbàlà wo àwọn àlùfáà rẹ
+
+- source: awon eniyan mimo re yoo maa ho fun ayo
+- expected: àwọn ènìyàn mímọ rẹ yóò máa hó fún ayọ
+- got: àwọn ènìyàn <UNK> rẹ yóò máa hó fún <UNK>
+
+- source: awon ota re ni emi yoo fi itiju wo
+- expected: àwọn ọtá rẹ ni èmi yóò fi ìtìjú wọ
+- got: àwọn <UNK> rẹ ni èmi yóò fi ìtìjú wò
+
+- source: sugbon lara oun tikarare ni ade yoo maa gbile
+- expected: ṣùgbọn lára òun tìkararẹ ni adé yóò máa gbilẹ
+- got: <UNK> lára òun <UNK> ni yóò máa <UNK> máa
+
+- source: ti o si san si eti aso sori re
+- expected: tí ó sì ṣàn sí etí aṣọ sórí rẹ
+- got: tí ó sì sàn sí etí sórí aṣọ rẹ
+
+- source: bi iri hemoni ti o san sori oke sioni
+- expected: bí irì hémónì tí o ṣàn sórí òke síónì
+- got: bí <UNK> <UNK> tí ó sàn sórí òkè <UNK>
+
+- source: e yin oluwa e yin oruko oluwa
+- expected: ẹ yìn olúwa ẹ yìn orúkọ olúwa
+- got: ẹ yín olúwa e yín orúkọ olúwa
+
+- source: e yin in eyin iranse oluwa
+- expected: ẹ yìn ín ẹyin ìránṣẹ olúwa
+- got: ẹ yín <UNK> in <UNK> olúwa
+
+- source: e yin oluwa nitori ti oluwa seun
+- expected: ẹ yin olúwa nítorí tí olúwa ṣeun
+- got: ẹ yín olúwa nítorí tí olúwa <UNK>
+
+- source: e korin iyin si oruko re
+- expected: ẹ kọrin ìyìn sí orúkọ rẹ
+- got: ẹ kọrin sí ìyìn sí orúkọ rẹ
+
+- source: ni tori ti o dun
+- expected: ní torí tí ó dùn
+- got: ní torí tí ó dùn
+
+- source: nitori ti oluwa ti yan jakobu fun ara re
+- expected: nítorí tí olúwa ti yàn jákọbù fún ara rẹ
+- got: nítorí tí olúwa ti yan <UNK> fún ara rẹ
+
+- source: ani isireli fun isura aayo re
+- expected: àní ísírẹlì fún ìṣúra ààyò rẹ
+- got: àní <UNK> fún <UNK> <UNK> rẹ
+
+- source: o mu ikuku goke lati opin ile wa
+- expected: ó mú ìkuku góke láti òpin ilẹ wá
+- got: ó mú <UNK> gòkè láti òpin ilẹ wá
+
+- source: o da monamona fun ojo
+- expected: ó dá mọnàmọná fún òjo
+- got: ó dá <UNK> fún <UNK>
+
+- source: oluwa oruko re duro laelae
+- expected: olúwa orúkọ rẹ dúró láéláé
+- got: olúwa orúkọ rẹ dúró láéláé
+
+- source: iranti re oluwa lati irandiran
+- expected: ìrántí rẹ olúwa láti ìrandíran
+- got: ìrántí rẹ olúwa láti <UNK>
+
+- source: won ni enu sugbon won ko soro
+- expected: wọn ní ẹnu ṣùgbọn wọn kò sọrọ
+- got: wọn ní ẹnu <UNK> wọn kò <UNK>
+
+- source: won ni oju sugbon won ko fi riran
+- expected: wọn ní ojú ṣùgbọn wọn kò fi ríran
+- got: wọn ní ojú <UNK> wọn kò fi ríran
+
+- source: won ni eti sugbon won ko fi gboran
+- expected: wọn ní etí ṣùgbọn wọn kò fi gbọràn
+- got: wọn ní etí <UNK> wọn kò fi <UNK>
+
+- source: bee si ni olukuluku eni ti o gbekele won
+- expected: bẹẹ sì ní olúkùlùkù ẹni tí ó gbẹkẹlé wọn
+- got: <UNK> sì ni <UNK> ẹni tí ó <UNK> wọn
+
+- source: eyin ara ile lefi fi ibukun fun oluwa
+- expected: ẹyin ará ilé léfì fi ìbùkún fún olúwa
+- got: ẹyin ará ilé léfì fi ìbùkún fún olúwa
+
+- source: eyin ti o beru oluwa fi ibukun fun oluwa
+- expected: ẹyin tí ó bẹrù olúwa fi ìbùkún fún olúwa
+- got: ẹyin ti ó <UNK> olúwa fi ìbùkún fún olúwa
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: e fi ope fun oluwa nitori ti o seun
+- expected: ẹ fi ọpẹ fún olúwa nítorí tí ó ṣeun
+- got: ẹ fi <UNK> fún olúwa nítorí tí ó <UNK>
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: e fi ope fun olorun awon olorun
+- expected: ẹ fi ọpẹ fún ọlọrun àwọn ọlọrun
+- got: ẹ fi <UNK> fún <UNK> àwọn <UNK>
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun oun nikan ti n sise iyanu nla
+- expected: fún òun nìkan tí ń ṣiṣẹ ìyanu ńlá
+- got: fún òun nìkan ti ń <UNK> ìyanu ńlá
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun eni ti o fi ogbon da orun
+- expected: fún ẹni tí ó fi ọgbọn dá ọrun
+- got: fún ẹni tí ó fi <UNK> dá ọrun
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun eni ti o te ile lori omi
+- expected: fún ẹni tí ó tẹ ilẹ lórí omi
+- got: fún ẹni tí ó tẹ lórí ilẹ omi
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun eni ti o da awon imole nla
+- expected: fún ẹni tí ó dá àwọn ìmọlẹ ńlá
+- got: fún ẹni tí ó dá àwọn <UNK> ńlá
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: osupa ati irawo lati joba oru
+- expected: òsùpá àti ìràwọ láti jọba òru
+- got: àyíká àti <UNK> láti jọba òru
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: o si mu isireli jade kuro laarin won
+- expected: ó sì mú ísírẹlì jáde kúrò láàrin wọn
+- got: ó sì mú <UNK> jáde kúrò láàrin wọn
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: pelu owo agbara ati apa nina
+- expected: pẹlú ọwọ agbára àti apá nínà
+- got: <UNK> <UNK> agbára àti apá <UNK>
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun eni ti o pin okun pupa ni iya
+- expected: fún ẹni tí ó pín òkun pupa ní ìyà
+- got: fún ẹni tí ó pín <UNK> òkun ni ìyá
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: fun eni ti o ko lu awon oba nla
+- expected: fún ẹni tí ó kọ lu àwọn ọba ńlá
+- got: fún ẹni tí ó kọ lù àwọn ọba ńlá
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: eni ti o ranti wa ni iwa irele wa
+- expected: ẹni tí ó rántí wa ní ìwà ìrẹlẹ wa
+- got: ẹni tí ó rántí wà ní ìwà <UNK> wà
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: e fi ope fun olorun orun
+- expected: ẹ fi ọpẹ fún ọlọrun ọrun
+- got: ẹ fi <UNK> fún <UNK> ọrun
+
+- source: nitori ti aanu re duro laelae
+- expected: nítorí tí àánú rẹ dúró láéláé
+- got: nítorí tí àánú rẹ dúró láéláé
+
+- source: e ko orin sioni kan fun wa
+- expected: ẹ kọ orin síónì kan fún wa
+- got: ẹ kò orin <UNK> kan fún wa
+
+- source: emi yoo yin o tinu tinu mi gbogbo
+- expected: èmi yóò yìn ọ tinú tinú mi gbogbo
+- got: èmi yóò yín ọ <UNK> <UNK> gbogbo mi
+
+- source: nitori pe nla ni ogo oluwa
+- expected: nítorí pé ńlá ní ògo olúwa
+- got: nítorí pé ńlá ni ògo olúwa
+
+- source: bi oluwa tile ga sibe o juba awon onirele
+- expected: bí olúwa tilẹ ga ṣíbẹ ó júbà àwọn onírẹlẹ
+- got: bí olúwa <UNK> ga <UNK> ó <UNK> àwọn <UNK>
+
+- source: sugbon agberaga ni o mo ni okere rere
+- expected: ṣùgbọn agbéraga ní ó mọ ní òkèrè réré
+- got: <UNK> <UNK> ni ó mọ ní <UNK> rere
+
+- source: oluwa yoo se ohun ti n se temi lasepe
+- expected: olúwa yóò ṣe ohun tí ń ṣe tèmi láṣepé
+- got: olúwa yóò ṣe ohun tí ń ṣe tèmi <UNK>
+
+- source: oluwa aanu re duro laelae
+- expected: olúwa àánú rẹ dúró láéláé
+- got: olúwa àánú rẹ dúró láéláé
+
+- source: ma se ko ise owo ara re sile
+- expected: má ṣe kọ isẹ ọwọ ara rẹ sílẹ
+- got: má ṣe kó <UNK> <UNK> ará rẹ <UNK>
+
+- source: iru imo yii se ohun iyanu fun mi ju
+- expected: irú ìmọ yìí ṣe ohun ìyanu fún mi jù
+- got: irú <UNK> yìí ṣe ohun ìyanu fún mi jù
+
+- source: o ga emi ko le mo
+- expected: ó ga èmi kò le mọ
+- got: ó ga èmi kò le mọ
+
+- source: tabi nibo ni emi yoo sare kuro niwaju re
+- expected: tàbí níbo ní èmi yóò sáré kúrò níwájú rẹ
+- got: tàbí níbo ni èmi yóò sáré kúrò níwájú rẹ
+
+- source: ki imole ki o di oru yi mi ka
+- expected: kí ìmọlẹ kí ó di òru yí mi ká
+- got: kí <UNK> kí ó di òru yí mi ká
+
+- source: nitooto okunkun ki i su lodo re
+- expected: nítòótọ òkùnkùn kì í ṣú lọdọ rẹ
+- got: <UNK> òkùnkùn kì í <UNK> <UNK> rẹ
+
+- source: sugbon oru tan imole bi osan
+- expected: ṣùgbọn òru tan ìmọlẹ bí ọsán
+- got: <UNK> òru tán <UNK> bí <UNK>
+
+- source: nitori iwo ni o da okan mi
+- expected: nítorí ìwọ ní ó dá ọkàn mi
+- got: nítorí ìwọ ni ó dá ọkàn mi
+
+- source: iwo ni o bo mi mole ninu iya mi
+- expected: ìwọ ní ó bò mí mọlẹ nínú ìyá mi
+- got: ìwọ ni ó bo mi nínú <UNK> ìyá mi
+
+- source: nitori naa kuro lodo mi eyin okunrin eje
+- expected: nítorí náà kúrò lọdọ mi ẹyin ọkùnrin ẹjẹ
+- got: nítorí náà kúrò <UNK> mi ẹyin ọkùnrin <UNK>
+
+- source: emi koriira won ni akotan
+- expected: èmi korìíra wọn ní àkótán
+- got: èmi kórìíra wọn ni <UNK>
+
+- source: emi ka won si ota mi
+- expected: èmi kà wọn sí ọtá mi
+- got: èmi kà wọn sí <UNK> mi
+
+- source: olorun wadii mi ki o si mo okan mi
+- expected: ọlọrun wádíì mi kí ó sì mọ ọkàn mí
+- got: <UNK> wádìí mi kí o sì mọ ọkàn mi
+
+- source: asiwere wi ninu okan re pe ko si olorun
+- expected: asiwèrè wí nínú ọkàn rẹ pé kò sí ọlọrun
+- got: aṣiwèrè wí nínú ọkàn rẹ pé kò sí <UNK>
+
+- source: won dibaje ise won si buru
+- expected: wọn díbàjẹ iṣẹ wọn sì burú
+- got: wọn <UNK> <UNK> wọn sì burú
+
+- source: ko si enikan ti o se rere
+- expected: kò sí ẹnìkan tí ó ṣe rere
+- got: kò sí ẹnìkan tí ó ṣe rere
+
+- source: nje oluse buburu ko ha ni ko eko
+- expected: ǹjẹ olùṣe búburú kò ha ní kọ ẹkọ
+- got: <UNK> <UNK> búburú kò ha ní <UNK> kọ
+
+- source: eni ti n ro iwa buburu ni inu won
+- expected: ẹni tí ń ro ìwà búburú ní inú wọn
+- got: ẹni tí ń rọ ìwà búburú ni inú wọn
+
+- source: nigbagbogbo ni won n ru ija soke si mi
+- expected: nígbàgbogbo ní wọn ń rú ìjà sókè sí mi
+- got: <UNK> ni wọn ń ru sókè sí mi
+
+- source: oluwa pa mi mo kuro lowo awon eniyan buburu
+- expected: olúwa pa mí mọ kúrò lọwọ àwọn ènìyàn búburú
+- got: olúwa pa mí mo kúrò <UNK> àwọn ènìyàn búburú
+
+- source: won ti na awon leba ona
+- expected: wọn ti na àwọn lẹbá ọnà
+- got: wọn ti nà àwọn <UNK> ọnà
+
+- source: won ti kekun sile fun mi
+- expected: wọn ti kẹkùn sílẹ fún mi
+- got: wọn ti <UNK> <UNK> fún mi
+
+- source: emi wi fun oluwa pe iwo ni olorun mi
+- expected: èmi wí fún olúwa pé ìwọ ni ọlọrun mi
+- got: èmi wí fún olúwa pé ìwọ ni <UNK> mi
+
+- source: oluwa gbo ohun ebe mi
+- expected: olúwa gbọ ohùn ẹbẹ mi
+- got: olúwa <UNK> ohun <UNK> mi
+
+- source: oluwa maa se fi ife eniyan buburu fun un
+- expected: olúwa máa ṣe fi ìfẹ ènìyàn búburú fún ún
+- got: olúwa máa ṣe fi <UNK> ènìyàn búburú fún un
+
+- source: ma se kun ogbon buburu re lowo
+- expected: má ṣe kún ọgbọn búburú rẹ lọwọ
+- got: má ṣe kún <UNK> búburú rẹ <UNK>
+
+- source: a o da eyin ina si won lara
+- expected: a ó da ẹyin iná sí wọn lára
+- got: a ó dá ẹyin iná sí lára wọn
+
+- source: awon eni diduro sinsin yoo maa gbe iwaju re
+- expected: àwọn ẹni dídúró ṣinṣin yóò máa gbé iwájú rẹ
+- got: àwọn ẹni <UNK> ṣinṣin yóò máa gbé <UNK> rẹ
+
+- source: oluwa emi ke pe o
+- expected: olúwa èmi ké pè ọ
+- got: olúwa èmi ké pe ọ
+
+- source: yara wa si odo mi
+- expected: yára wá sí ọdọ mi
+- got: yàrá wá sí <UNK> mi
+
+- source: mu ki iss so enu mi oluwa
+- expected: mú kí ìsṣ ṣọ ẹnu mi olúwa
+- got: mú kí <UNK> sọ ẹnu mi olúwa
+
+- source: ki o so maa pa ilekun ete mi mo
+- expected: kí o sọ máa pa ilẹkùn ètè mi mọ
+- got: kí ó sọ máa pa <UNK> mi mọ ọn
+
+- source: je ki olododo lu mi
+- expected: jẹ kí olódodo lù mí
+- got: jẹ kí olódodo lu mi
+
+- source: ti ki yoo fo mi ni ori
+- expected: tí kì yóò fọ mí ní orí
+- got: tí kì yóò fọ mi ní orí
+
+- source: emi kigbe soke si oluwa
+- expected: èmi kígbe sókè sí olúwa
+- got: èmi kígbe ṣókè sí olúwa
+
+- source: emi gbe ohun mi soke si oluwa fun aanu
+- expected: èmi gbé ohùn mi sókè sí olúwa fún àánú
+- got: èmi gbé ohùn mi sókè sí olúwa fún àánú
+
+- source: kosi eni ti o se aniyan fun aye mi
+- expected: kòsí ẹni tí ó ṣe àníyàn fún ayé mi
+- got: <UNK> ẹni tí ó ṣe <UNK> fún ayé mi
+
+- source: emi kigbe si o oluwa
+- expected: èmi kígbe sí ọ olúwa
+- got: èmi kígbe sí ọ olúwa
+
+- source: oluwa gbo adura mi fetisi igbe mi fun aanu
+- expected: olúwa gbọ àdúrà mi fetísí igbe mi fún àánú
+- got: olúwa <UNK> àdúrà mi <UNK> mi fún <UNK> àánú
+
+- source: nitori naa emi mi saare ninu mi
+- expected: nítorí náà ẹmí mi ṣàárẹ nínú mi
+- got: nítorí náà èmi <UNK> mi nínú mi
+
+- source: okan mi ti o wa ninu mi daamu
+- expected: ọkàn mi tí ó wà nínú mi dààmú
+- got: ọkàn mi tí ó wà nínú mi dààmú
+
+- source: emi ranti ojo ti o ti pe
+- expected: èmi rántí ọjọ tí ó ti pẹ
+- got: èmi rántí <UNK> tí ó ti pé
+
+- source: emi na owo mi jade si o
+- expected: èmi na ọwọ mi jáde sí ọ
+- got: èmi nà <UNK> mi jáde sí ọ
+
+- source: orugbe re gbe okan mi bi i iyangbe ile
+- expected: òrùgbẹ rẹ gbẹ ọkàn mi bí i ìyàngbẹ ilẹ
+- got: <UNK> rẹ gbé ọkàn mi bí i <UNK> ilé
+
+- source: nitori oruko re oluwa so aye mi di aaye
+- expected: nítorí orúkọ rẹ olúwa sọ ayé mi di ààyè
+- got: nítorí orúkọ rẹ olúwa sọ ayé mi di ààyè
+
+- source: ninu ododo re mu mi jade ninu wahala
+- expected: nínú òdodo rẹ mú mi jáde nínú wàhálà
+- got: nínú òdodo rẹ mú mi jáde nínú wàhálà
+
+- source: ojo re ri bi ojiji ti n koja lo
+- expected: ọjọ rẹ rí bí òjìji tí ń kọjá lọ
+- got: <UNK> rẹ rí bí <UNK> tí ń kọjá lọ
+
+- source: te orun re ba oluwa ki o si sokale
+- expected: tẹ ọrun rẹ ba olúwa kí o sì sọkalẹ
+- got: tẹ ọrun rẹ olúwa bá kí o sì <UNK>
+
+- source: to awon oke nla won yoo si ru eefin
+- expected: tọ àwọn òkè ńlá wọn yóò sí rú èéfín
+- got: tó àwọn òkè ńlá wọn yóò sì ru sókè
+
+- source: ran monamona ki o si fon awon ota ka
+- expected: rán mọnàmọná kí ó sì fọn àwọn ọta ká
+- got: rán <UNK> kí o sì fọn àwọn <UNK> ká
+
+- source: ta ofa re ki o si da won ru
+- expected: ta ọfà rẹ kí ó sì dà wọn rú
+- got: ta ọfà rẹ kí o sì dá wọn rú
+
+- source: na owo re sile lati ibi giga
+- expected: na ọwọ rẹ sílẹ láti ibi gíga
+- got: na <UNK> rẹ <UNK> láti ibi gíga gíga
+
+- source: kuro lowo awon omo ajeji
+- expected: kúrò lọwọ àwọn ọmọ àjèjì
+- got: kúrò <UNK> àwọn ọmọ àjèjì
+
+- source: emi yoo ko orin tuntun si o olorun
+- expected: èmi yóò kọ orin túntún sí ọ ọlọrun
+- got: èmi yóò kọ orin tuntun sí ọ <UNK>
+
+- source: emi yoo gbe o ga olorun oba mi
+- expected: èmi yóò gbé ọ ga ọlọrun ọba mi
+- got: èmi yóò gbé ọ ga <UNK> ọba mi
+
+- source: ko si eni ti o le won titobi re
+- expected: kò sí ẹni tí ó lè wọn títóbi rẹ
+- got: kò sí ẹni tí ó lé wọn <UNK> rẹ
+
+- source: o ni aanu lori ohungbogbo ti o da
+- expected: ó ní àánú lóri ohungbogbo tí ó dá
+- got: ó ní àánú lórí <UNK> tí ó dá ọ
+
+- source: awon eni mimo yoo maa pokiki re
+- expected: àwọn ẹni mímọ yóò máa pòkìkí rẹ
+- got: àwọn ẹni <UNK> yóò máa <UNK> rẹ
+
+- source: o mu ife awon ti o beru re se
+- expected: ó mú ìfẹ àwọn tí ó bẹrù rẹ ṣẹ
+- got: ó mú <UNK> àwọn tí ó <UNK> rẹ ṣe
+
+- source: o gbo igbe won o si gba won
+- expected: ó gbọ igbe wọn ó sì gbà wọn
+- got: ó <UNK> igbe wọn ó sì gbà wọn
+
+- source: enu mi yoo soro iyin oluwa
+- expected: ẹnu mi yóò sọrọ ìyìn olúwa
+- got: ẹnu mi yóò <UNK> ìyìn olúwa
+
+- source: emi re jade lo o pada si erupe re
+- expected: ẹmí rẹ jáde lọ ó padà sí erùpẹ rẹ
+- got: èmi rẹ jáde lọ ó padà sí <UNK> rẹ
+
+- source: ni ojo naa gan ero won yoo di ofo
+- expected: ní ọjọ náà gan èrò wọn yóò di òfo
+- got: ní <UNK> náà gan èrò wọn yóò di <UNK>
+
+- source: o ko awon isireli ti a le sonu jo
+- expected: o ko àwọn ísírẹlì tí a lé sọnù jọ
+- got: ó kó àwọn <UNK> tí a lé sọnù jọ
+
+- source: yin oluwa iwo jerusalemu yin olorun re iwo sioni
+- expected: yin olúwa ìwọ jérúsálẹmù yin ọlọrun rẹ ìwọ síónì
+- got: yín olúwa ìwọ <UNK> yín <UNK> rẹ ìwọ síónì
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: e korin titun si oluwa
+- expected: ẹ kọrin titun sí olúwa
+- got: ẹ kọrin <UNK> sí olúwa
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: ta ni yoo maa gbe ni oke mimo re
+- expected: ta ni yóò máa gbé ní òkè mímọ rẹ
+- got: ta ni yóò máa gbé ní <UNK> òkè rẹ
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: e yin in fun ise agbara re
+- expected: ẹ yìn ín fún iṣẹ agbára rẹ
+- got: ẹ yín in fún <UNK> agbára rẹ
+
+- source: e yin in fun titobi re ti o tayo
+- expected: ẹ yìn ín fún títóbi rẹ tí ó tayọ
+- got: ẹ yín in fún títóbi rẹ tí ó <UNK>
+
+- source: e fi ohun ipe yin in
+- expected: ẹ fi ohùn ìpè yìn ín
+- got: ẹ fi ìpè yín in ín
+
+- source: e fi ohun elo orin yin in
+- expected: ẹ fi ohun èlò orin yìn ín
+- got: ẹ fi ohun èlò orin yín ín
+
+- source: e fi iyin fun oluwa
+- expected: ẹ fi ìyìn fún olúwa
+- got: ẹ fi ìyìn fún olúwa
+
+- source: nitooto mo ti ni ogun rere
+- expected: nítòótọ mo ti ní ogún rere
+- got: <UNK> mo ti ní ogun rere
+
+- source: ni oru okan mi n ba mi soro
+- expected: ní òru ọkàn mí ń bá mi sọrọ
+- got: ní òru ọkàn mi ń bá mi <UNK>
+
+- source: mo ti gbe olorun siwaju mi ni igba gbogbo
+- expected: mo ti gbé ọlọrun ṣíwájú mi ní ìgbà gbogbo
+- got: mo ti gbé <UNK> ṣíwájú mi ni gbogbo ìgbà
+
+- source: iwo ti fi ipa ona iye han mi
+- expected: ìwọ ti fi ipa ọnà ìyè hàn mí
+- got: ìwọ ti fi ipa ọnà ìyè hàn mí
+
+- source: gbo oluwa ebe otito mi
+- expected: gbọ olúwa ẹbẹ òtítọ mi
+- got: <UNK> olúwa <UNK> <UNK> mi
+
+- source: fi eti si igbe mi
+- expected: fi etí sí igbe mi
+- got: fi etí sí <UNK> mi
+
+- source: ki idalare mi wa lati odo re
+- expected: kí ìdáláre mi wá láti ọdọ rẹ
+- got: kí <UNK> mi wá láti <UNK> rẹ
+
+- source: irin mi ti je mo ona re
+- expected: ìrìn mí ti jẹ mọ ọnà rẹ
+- got: ìrìn mi ti jẹ mọ ọnà rẹ
+
+- source: ese mi ki yoo yo
+- expected: ẹṣẹ mi kì yóò yọ
+- got: <UNK> mi kì yóò yọ
+
+- source: pa mi mo bi eyin oju re
+- expected: pa mí mọ bí ẹyin ojú rẹ
+- got: pa mi mọ bí ẹyin ojú rẹ
+
+- source: fi mi pamo si abe ojiji apa re
+- expected: fi mí pamọ sí abẹ òjìji apá rẹ
+- got: fi mí <UNK> sí <UNK> <UNK> apá rẹ
+
+- source: dide oluwa dojuko won re won sile
+- expected: dìde olúwa dojúkọ wọn rẹ wọn sílẹ
+- got: dìde olúwa dojúkọ wọn rẹ wọn <UNK>
+
+- source: gba mi sile lowo eni buburu nipa ida re
+- expected: gbà mí sílẹ lọwọ ẹni búburú nípa idà rẹ
+- got: gba mi <UNK> ẹni <UNK> ẹni búburú nípa idà
+
+- source: mo fe o oluwa agbara mi
+- expected: mo fẹ ọ olúwa agbára mi
+- got: mo <UNK> ó olúwa agbára mi
+
+- source: oluwa ni apata ati odi mi ati olugbala mi
+- expected: olúwa ni àpáta àti odi mi àti olùgbàlà mi
+- got: olúwa ni àpáta àti odi mi àti olùgbàlà mi
+
+- source: ninu iponju mo ke pe oluwa
+- expected: nínú ìpọnjú mo ké pe olúwa
+- got: nínú <UNK> mọ ké pe olúwa
+
+- source: mo sunkun si oluwa mi fun iranlowo
+- expected: mo sunkún sí olúwa mi fún ìrànlọwọ
+- got: mo <UNK> sí olúwa mi fún <UNK>
+
+- source: lati inu tempili re o gbo igbe mi
+- expected: láti inú tẹḿpìlì rẹ ó gbọ igbe mi
+- got: láti inú rẹ <UNK> rẹ ó <UNK> mi
+
+- source: won wariri nitori ti o n binu
+- expected: wọn wárìrì nítorí tí ó ń bínú
+- got: wọn wárìrì nítorí tí ó ń bínú
+
+- source: eefin ti iho imu re jade wa
+- expected: èéfín ti ihò imú rẹ jáde wá
+- got: èéfín tí <UNK> <UNK> rẹ jáde wá
+
+- source: o pin awon orun o si jade wa
+- expected: ó pín àwọn ọrun ó sì jáde wá
+- got: ó pín àwọn ọrun ó sì jáde wá
+
+- source: awosanmo dudu si wa ni abe ese re
+- expected: àwọsánmọ dúdú sì wà ní abẹ ẹsẹ rẹ
+- got: <UNK> <UNK> sì wà ni <UNK> <UNK> rẹ
+
+- source: o gun ori kerubu o si fo
+- expected: ó gun orí kérúbù ó sì fò
+- got: ó gun orí kérúbù ó sì fò
+
+- source: o n ra baba lori iye apa afefe
+- expected: ó ń rá bàbà lórí ìyẹ apá afẹfẹ
+- got: ó ń ra baba lórí <UNK> apá <UNK>
+
+- source: ohun eni giga julo ti n dun
+- expected: ohùn ẹni gíga jùlọ tí ń dún
+- got: ohùn ẹni gíga jùlọ ti ń dùn
+
+- source: o fa mi jade lati inu omi jinjin
+- expected: ó fà mí jáde láti inú omi jínjìn
+- got: ó fà mí jáde láti inú omi <UNK>
+
+- source: won dojuko mi ni ojo iponju mi
+- expected: wọn dojúkọ mí ní ọjọ ìpọnjú mi
+- got: wọn dojúkọ mi ní <UNK> <UNK> mi
+
+- source: sugbon oluwa ni alatileyin mi
+- expected: ṣùgbọn olúwa ni alàtìlẹyìn mi
+- got: <UNK> olúwa ni <UNK> mi
+
+- source: o mu mi jade wa sinu ibi nla
+- expected: ó mú mi jáde wá sínú ibi ńlá
+- got: ó mú mi jáde wá sínú ibi ńlá
+
+- source: oluwa ti huwa si mi gege bi ododo mi
+- expected: olúwa ti hùwà sí mi gẹgẹ bí òdodo mi
+- got: olúwa ti hùwà mi sí <UNK> bí òdodo mi
+
+- source: emi ko si yipada kuro ninu ilana re
+- expected: èmi kò sì yípadà kúrò nínú ìlànà rẹ
+- got: èmi kò sì yípadà kúrò nínú ìlànà rẹ
+
+- source: mo ti je alailebi niwaju re
+- expected: mo ti jẹ aláìlẹbi níwájú rẹ
+- got: mo ti jẹ <UNK> níwájú rẹ
+
+- source: mo si pa ara mi mo kuro ninu ese
+- expected: mo sì pa ara mi mọ kúrò nínú ẹṣẹ
+- got: mo sì pa ara mi mọ kúrò nínú <UNK>
+
+- source: oluwa san esan fun mi gege bi ododo mi
+- expected: olúwa san ẹṣan fún mi gẹgẹ bí òdodo mi
+- got: olúwa <UNK> fún <UNK> mi <UNK> bí òdodo mi
+
+- source: gege bi mimo owo mi niwaju re
+- expected: gẹgẹ bí mímọ ọwọ mi níwájú rẹ
+- got: <UNK> bí <UNK> <UNK> mi níwájú rẹ
+
+- source: olorun mi yi okunkun mi pada si imole
+- expected: ọlọrun mi yí òkùnkùn mi padà sí ìmọlẹ
+- got: <UNK> mi yí òkùnkùn padà sí <UNK>
+
+- source: pelu iranlowo re emi sare la ogun lo
+- expected: pẹlú ìrànlọwọ rẹ èmi ṣare la ogun lọ
+- got: <UNK> <UNK> rẹ èmi sáré là ogún ogun
+
+- source: nitori ta ni se olorun bi ko se oluwa
+- expected: nítorí ta ni ṣe ọlọrun bí kò ṣe olúwa
+- got: nítorí ta ni ṣe <UNK> bí kò ṣe olúwa
+
+- source: ta ni apata bi ko se oluwa wa
+- expected: ta ní àpátà bí kò ṣe olúwa wa
+- got: ta ni àpáta bí kò ṣe olúwa wa
+
+- source: o se ese mi gege bi ese agbonrin
+- expected: ó ṣe ẹsẹ mi gẹgẹ bi ẹsẹ àgbọnrín
+- got: ó ṣe <UNK> mi <UNK> bí <UNK> <UNK>
+
+- source: o je ki n le duro lori ibi giga
+- expected: ó jẹ ki n lè dúró lórí ibi gíga
+- got: ó jẹ kí n lè dúró lórí ibi gíga
+
+- source: o ko owo mi ni ogun jija
+- expected: ó kọ ọwọ mi ni ogun jíja
+- got: ó kọ <UNK> mi ní ogun <UNK>
+
+- source: won subu ni abe ese mi
+- expected: wọn subú ní abẹ ẹsẹ mi
+- got: wọn ṣubú ní <UNK> <UNK> mi
+
+- source: mo da won sita gege bi erofo
+- expected: mo dà wọn síta gẹgẹ bí ẹrọfọ
+- got: mo dá dá wọn <UNK> bí <UNK>
+
+- source: iwo ti gba mi lowo ikolu awon eniyan
+- expected: ìwọ ti gbà mí lọwọ ìkọlù àwọn ènìyàn
+- got: ìwọ ti gba mi <UNK> <UNK> àwọn ènìyàn
+
+- source: iwo ti fi mi se olori awon orile ede
+- expected: ìwọ ti fi mí ṣe olórí àwọn orílẹ èdè
+- got: ìwọ ti fi mí ṣe olórí àwọn <UNK> èdè
+
+- source: were ti won gbo ohun mi won gbo gbami
+- expected: wéré ti wọn gbọ ohùn mi wọn gbọ gbàmí
+- got: <UNK> tí wọn <UNK> ohùn mi <UNK> wọn <UNK>
+
+- source: awon omo ajeji yoo fi etan teriba fun mi
+- expected: àwọn ọmọ àjèjì yóò fi ẹtàn tẹríba fún mi
+- got: àwọn ọmọ àjèjì yóò fi <UNK> fún mi fún mi
+
+- source: lowo awon eniyan alagbara ni iwo ti gba mi
+- expected: lọwọ àwọn ènìyàn alágbára ni ìwọ ti gbà mí
+- got: <UNK> àwọn ènìyàn alágbára ni ìwọ ti gbà mi
+
+- source: o fun oba re ni isegun nla
+- expected: ó fún ọba rẹ ni ìṣẹgun ńlá
+- got: ó fún ọba rẹ ní <UNK> ńlá
+
+- source: awon orun n so nipa ti ogo olorun
+- expected: àwọn òrun ń sọ nípa ti ògo ọlọrun
+- got: àwọn ọrun ń sọ nípa ti ògo <UNK>
+
+- source: awosanmo n so nipa ti ise owo re
+- expected: àwọsánmọ ń sọ nípa ti iṣẹ ọwọ rẹ
+- got: <UNK> ń sọ nípa ti <UNK> <UNK> rẹ
+
+- source: won n fohun ni ojo de ojo
+- expected: wọn ń fọhùn ní ọjọ dé ọjọ
+- got: wọn ń <UNK> ní <UNK> dé <UNK>
+
+- source: won n fi imo han ni ale de ale
+- expected: wọn ń fi ìmọ hàn ní alẹ dé alẹ
+- got: wọn ń fi <UNK> hàn ní <UNK> dè yín
+
+- source: pipe ni ofin oluwa o n yi okan pada
+- expected: pípé ni òfin olúwa ó ń yí ọkàn padà
+- got: <UNK> ni òfin olúwa ó ń yí ọkàn padà
+
+- source: eri oluwa daniloju o so ope di ologbon
+- expected: ẹrí olúwa dánilójú ó sọ òpè di ọlọgbọn
+- got: <UNK> olúwa <UNK> ó sọ <UNK> dí <UNK>
+
+- source: ilana oluwa tona o n fi ayo fun okan
+- expected: ìlànà olúwa tọnà ó ń fi ayọ fún ọkàn
+- got: ìlànà olúwa <UNK> ó ń fi <UNK> fún ọkàn
+
+- source: iberu oluwa mo o n farada titi laelae
+- expected: ìbẹrù olúwa mọ ó ń faradà títí láéláé
+- got: <UNK> olúwa mọ ọ ń <UNK> títí láéláé
+
+- source: idajo oluwa daju ododo ni gbogbo won
+- expected: ìdájọ olúwa dájú òdodo ni gbogbo wọn
+- got: <UNK> olúwa <UNK> dájú ni gbogbo wọn
+
+- source: nipa won ni a ti si iranse re leti
+- expected: nípa wọn ni a ti sí ìránṣẹ rẹ létí
+- got: nípa wọn ni a ti a <UNK> rẹ létí
+
+- source: nipa pipa won mo ere pupo n be
+- expected: nípa pípa wọn mọ èrè púpọ ń bẹ
+- got: nípa pípa pípa mọ èrè <UNK> ń bẹ
+
+- source: ta ni o le mo asise re
+- expected: ta ni o lé mọ àṣìṣe rẹ
+- got: ta ni ó lè mọ <UNK> rẹ
+
+- source: darijin mi ninu asise mi ti o pamo
+- expected: dáríjìn mí nínú àṣìṣe mi tí ó pamọ
+- got: <UNK> mi nínú <UNK> mi tí ó <UNK>
+
+- source: we iranse re mo kuro ninu ese amoonmoda
+- expected: wẹ ìrànsẹ rẹ mọ kúrò nínú ẹṣẹ àmọọnmọdá
+- got: wẹ <UNK> rẹ mọ kúrò nínú <UNK> <UNK>
+
+- source: eni ti o gunwa lori ite lorun rerinin
+- expected: ẹni tí ó gúnwà lórí ìtẹ lọrun rẹrìnín
+- got: ẹni tí ó <UNK> lórí <UNK> <UNK> <UNK>
+
+- source: oluwa fi won rerinin eleya
+- expected: olúwa fi wọn rẹrìnín ẹlẹyà
+- got: olúwa fi wọn <UNK> <UNK>
+
+- source: emi yoo si kede ipinnu oluwa
+- expected: èmi yóò sì kéde ìpinnu olúwa
+- got: èmi yóò sì kéde sí olúwa
+
+- source: o so fun mi pe iwo ni omo mi
+- expected: ó sọ fún mi pé ìwọ ni ọmọ mi
+- got: ó sọ fún mi pé ìwọ ni ọmọ mi
+
+- source: lonii emi ti di baba re
+- expected: lónìí èmi ti di baba rẹ
+- got: lónìí èmi ti di baba rẹ
+
+- source: nitori naa eyin oba e je ologbon
+- expected: nítorí náà ẹyin ọba ẹ jẹ ọlọgbọn
+- got: nítorí náà ẹyin ọba jẹ ẹ jẹ <UNK>
+
+- source: e gbo ikilo eyin alakooso aye
+- expected: ẹ gbọ ìkìlọ ẹyin alákòóso ayé
+- got: ẹ <UNK> <UNK> ẹyin alákòóso ayé
+
+- source: ki oluwa ki o gbohun re ni ojo iponju
+- expected: kí olúwa kí ó gbóhùn rẹ ní ọjọ ìpọnjú
+- got: kí olúwa kí ó <UNK> rẹ ní <UNK> <UNK>
+
+- source: ki oruko olorun jakobu ki o daabobo o
+- expected: kí orúkọ ọlọrun jákọbù kí ó dáàbòbò ọ
+- got: kí orúkọ <UNK> <UNK> kí ó <UNK> ọ
+
+- source: ki olorun ki o mu gbogbo ibeere re se
+- expected: kí ọlọrun kí ó mú gbogbo ìbéèrè rẹ ṣẹ
+- got: kí <UNK> kí ó mú gbogbo ìbéèrè rẹ ṣẹ
+
+- source: ogo re po nipase isegun ti o fi funun
+- expected: ògo rẹ pọ nípaṣẹ ìṣẹgun tí o fi fúnun
+- got: ògo rẹ <UNK> <UNK> <UNK> ti fi ọ <UNK>
+
+- source: dajudaju iwo ti fi ibukun ayeraye funun
+- expected: dájúdájú ìwọ ti fi ìbùkún ayérayé fúnun
+- got: dájúdájú ìwọ ti fi ìbùkún <UNK> ayérayé
+
+- source: oba ni igbekele ninu oluwa
+- expected: ọba ní ìgbẹkẹlé nínú olúwa
+- got: ọba ni <UNK> nínú olúwa
+
+- source: gbigbega ni o oluwa ninu agbara re
+- expected: gbígbéga ni ọ olúwa nínú agbára rẹ
+- got: <UNK> ni ó olúwa nínú agbára rẹ
+
+- source: a o korin a o yin agbara a re
+- expected: a ó kọrin a ó yín agbára a rẹ
+- got: a ó kọrin á ọ yín agbára rẹ a
+
+- source: ati ni oru emi ko dake
+- expected: àti ní òru èmi kò dákẹ
+- got: àti ní òru èmi kò <UNK>
+
+- source: sugbon sibe eni mimo ni iwo
+- expected: ṣùgbọn ṣíbẹ ẹni mímọ ni ìwọ
+- got: <UNK> <UNK> ẹni <UNK> ni ìwọ
+
+- source: eni ti o te iyin isireli do
+- expected: ẹni tí ó tẹ ìyìn ísírẹlì dó
+- got: ẹni tí ó tẹ ìyìn <UNK> dó
+
+- source: awon babanla wa ni igbekele ninu un re
+- expected: àwọn babańlá wa ní ìgbẹkẹlé nínú un rẹ
+- got: àwọn <UNK> wà ni <UNK> nínú un rẹ
+
+- source: won ni igbekele iwo si gba won
+- expected: wọn ní ìgbẹkẹlé ìwọ sì gbà wọn
+- got: wọn ní <UNK> ìwọ sì gbà wọn
+
+- source: o gbeke re le oluwa
+- expected: ó gbẹkẹ rẹ lé olúwa
+- got: ó <UNK> rẹ lé olúwa
+
+- source: je ki oluwa gba a la
+- expected: jẹ kí olúwa gbà á là
+- got: jẹ kí olúwa gbà á là
+
+- source: opo ako maluu yi mi ka
+- expected: ọpọ akọ màlúù yí mi ká
+- got: òpó akọ màlúù yí mi ká
+
+- source: awon maluu alagbara basani rogba yi mi ka
+- expected: àwọn màlúù alágbára báṣánì rọgbà yí mi ká
+- got: àwọn màlúù <UNK> alágbára <UNK> yí mi ká
+
+- source: okan mi si dabi i ida
+- expected: ọkàn mi sì dàbí i ìda
+- got: ọkàn mi sì dàbí i idà
+
+- source: ti o yo laarin inu un mi
+- expected: tí ó yọ láàrin inú un mi
+- got: tí ó yọ láàrin inú un mi
+
+- source: iwo ti te mi sinu eruku iku
+- expected: ìwọ ti tẹ mi sínú eruku ikú
+- got: ìwọ ti tẹ mí sínú eruku ikú
+
+- source: awon aja yi mi ka
+- expected: àwọn ajá yí mi ká
+- got: àwọn ajá yí mi ká
+
+- source: awon tikara won n wo won doju le mi
+- expected: àwọn tìkára wọn ń wò wọn dójú lé mi
+- got: àwọn <UNK> wọn ń wò wọn lé mi lé mi
+
+- source: sugbon iwo oluwa ma se jinna si mi
+- expected: ṣùgbọn ìwọ olúwa má ṣe jìnnà sí mi
+- got: <UNK> ìwọ olúwa má ṣe jìnnà sí mi
+
+- source: gba okan mi sile lowo o kinniun
+- expected: gba ọkàn mi sílẹ lọwọ ọ kìnnìún
+- got: gba ọkàn mi <UNK> <UNK> ó kìnnìún
+
+- source: ki o si gba mi sile lowo iwo agbanrere
+- expected: kí o sì gbà mí sílẹ lọwọ ìwo àgbáǹréré
+- got: kí o sì gba mi <UNK> <UNK> ìwọ <UNK>
+
+- source: ninu ijo ni emi yoo maa yin o
+- expected: nínú ìjọ ni èmi yóò máa yìn ọ
+- got: nínú <UNK> ni èmi yóò máa yìn ọ
+
+- source: oun ni o n pase lori awon orile ede
+- expected: òun ni ó ń pàṣẹ lórí àwọn orílẹ èdè
+- got: òun ni ó ń pàṣẹ lórí àwọn <UNK> èdè
+
+- source: iru omo re yoo sinin
+- expected: irú ọmọ rẹ yóò sìnin
+- got: irú ọmọ rẹ yóò <UNK>
+
+- source: nitori iwo wa pelu u mi
+- expected: nítorí ìwọ wà pẹlú ù mi
+- got: nítorí ìwọ wá <UNK> u mi
+
+- source: iwo ta ororo si mi ni ori
+- expected: ìwọ ta òróró sí mi ní orí
+- got: ìwọ ta òróró sí mi ni orí
+
+- source: ago mi si kun akun wo sile
+- expected: ago mí sì kún àkún wọ sílẹ
+- got: <UNK> mi sì kún <UNK> wọ <UNK>
+
+- source: ta ni yoo gun ori oke oluwa lo
+- expected: ta ni yóò gun òrí òkè olúwa lọ
+- got: ta ni yóò gun orí òkè olúwa lọ
+
+- source: ta ni yoo duro ni ibi mimo re
+- expected: ta ni yóò dúró ní ibi mímọ rẹ
+- got: ta ni yóò dúró ní ibi <UNK> rẹ
+
+- source: sela e gbe ori yin soke aa  eyin ona
+- expected: sela ẹ gbé orí yín sókè áà  ẹyin ọnà
+- got: <UNK> ẹ gbé orí yín sókè ọnà <UNK> ọnà
+
+- source: ta ni oba ogo naa
+- expected: ta ni ọba ògo náà
+- got: ta ni ọba ògo náà
+
+- source: gbe ori yin soke aa  eyin ona
+- expected: gbé orí yín sókè áà  ẹyin ọnà
+- got: gbé orí yín sókè ẹyin ọnà ọnà
+
+- source: ta ni oba ogo naa
+- expected: ta ni ọba ogo náà
+- got: ta ni ọba ògo náà
+
+- source: oluwa awon omo ogun oun ni oba ogo naa
+- expected: olúwa àwọn ọmọ ogun òun ni ọba ògo náà
+- got: olúwa àwọn ọmọ ogun òun ni ọba <UNK> náà
+
+- source: oluwa iwo ni mo gbe okan mi soke si
+- expected: olúwa ìwọ ni mo gbé ọkàn mi sókè sí
+- got: olúwa ìwọ ni mo gbé ọkàn mi sókè sí
+
+- source: eni ti o duro ti o
+- expected: ẹni tí ó dúró tì ọ
+- got: ẹni tí ó dúró tì ọ
+
+- source: iwo ni mo duro ti ni gbogbo ojo
+- expected: ìwọ ni mo dúró tì ní gbogbo ọjọ
+- got: ìwọ ni mo dúró tì ni gbogbo <UNK>
+
+- source: rere ati eni iduro sinsin ni oluwa
+- expected: rere àti ẹni ìdúró ṣinṣin ní olúwa
+- got: rere àti ẹni <UNK> ni ọrẹ olúwa
+
+- source: nitori naa o ko awon elese ni ona naa
+- expected: nítorí náà ó kọ àwọn ẹlẹsẹ ni ọnà náà
+- got: nítorí náà o kò àwọn <UNK> ní ọnà náà
+
+- source: awon wo ni o beru oluwa
+- expected: àwọn wo ni ó bẹrù olúwa
+- got: àwọn wo ni ó <UNK> olúwa
+
+- source: o so majemu re di mimo fun won
+- expected: ó sọ májẹmú rẹ di mímọ fún wọn
+- got: ó sọ <UNK> rẹ di <UNK> fún wọn
+
+- source: yipada simi ki o si se oore fun mi
+- expected: yípadà sími kí o sì ṣe oore fún mi
+- got: yípadà sími kí o sì ṣe oore fún mi
+
+- source: nitori pe mo nikan wa mo si di oluponju
+- expected: nítorí pé mo nìkàn wà mo sì di olùpọnjú
+- got: nítorí pé mo nìkan wá mọ sí di <UNK>
+
+- source: ti mi leyin kuro ninu iponju aya mi
+- expected: tì mí lẹyìn kúrò nínú ìpọnjú àyà mi
+- got: tí mi <UNK> kúrò nínú <UNK> àyà mi
+
+- source: nitori pe mo duro ti o
+- expected: nítorí pé mo dúró tì ọ
+- got: nítorí pé mo dúró tì ọ
+
+- source: sugbon emi o maa rin ninu iwa tito
+- expected: ṣùgbọn èmi ó máa rìn nínú ìwà títọ
+- got: <UNK> èmi ó máa rìn nínú ìwà <UNK>
+
+- source: ra mi pada ki o si saanu fun mi
+- expected: rà mí padà kí o sì ṣàánú fún mi
+- got: ra ra mi kí o sì ṣàánú fún mi
+
+- source: ese mi duro lori ile ti o teju
+- expected: ẹsẹ mi dúró lórí ilẹ tí ó tẹjú
+- got: <UNK> mi dúró lórí ilé tí ó <UNK>
+
+- source: ninu ijo nla emi yoo fi ibukun fun oluwa
+- expected: nínú ìjọ ńlá èmi yóò fi ìbùkún fún olúwa
+- got: nínú <UNK> ńlá èmi yóò fi ìbùkún fún olúwa
+
+- source: oluwa ni imole mi ati igbala mi
+- expected: olúwa ni ìmọlẹ mi àti ìgbàlà mi
+- got: olúwa ni <UNK> mi àti ìgbàlà mi
+
+- source: ta ni emi yoo beru
+- expected: ta ni èmi yóò bẹrù
+- got: ta ni èmi yóò <UNK>
+
+- source: yoo si gbe mi soke lori apata
+- expected: yóò sì gbé mi sókè lórí àpáta
+- got: yóò sì gbé mi sókè lórí àpáta
+
+- source: emi yoo korin ani orin didun si oluwa
+- expected: èmi yóò kọrin àní orin dídùn sí olúwa
+- got: èmi yóò kọrin àní àní orin sí olúwa
+
+- source: iwo oluwa mo kepe apata mi
+- expected: ìwọ olúwa mo képe àpáta mi
+- got: ìwọ olúwa mọ <UNK> àpáta mi
+
+- source: ma se ko eti didi si mi
+- expected: má ṣe kọ eti dídi sí mi
+- got: má ṣe kò sí etí <UNK> mi
+
+- source: gba esan won gege bi ise owo won
+- expected: gba ẹsan wọn gẹgẹ bí iṣẹ ọwọ wọn
+- got: gba <UNK> wọn <UNK> bí <UNK> <UNK> wọn
+
+- source: oluwa ni agbara mi ati asa mi
+- expected: olúwa ni agbára mi àti aṣà mi
+- got: olúwa ni agbára mi àti <UNK> mi
+
+- source: ninu re ni mo gbekele
+- expected: nínú rẹ ni mo gbẹkẹlé
+- got: nínú rẹ ni mo <UNK>
+
+- source: ani o si ran mi lowo
+- expected: àní ó sì ràn mí lọwọ
+- got: àní ó sì ràn mí <UNK>
+
+- source: fi fun oluwa ani ogo oruko re
+- expected: fi fún olúwa àní ògo orúkọ rẹ
+- got: fi fún olúwa àní ògo rẹ
+
+- source: sin oluwa ninu ewa iwa mimo
+- expected: sin olúwa nínú ẹwà ìwà mímọ
+- got: sìn olúwa nínú <UNK> ìwà <UNK>
+
+- source: ohun oluwa re awon omi koja
+- expected: ohùn olúwa ré àwọn omi kọjá
+- got: ohun olúwa rẹ àwọn omi kọjá
+
+- source: ohun oluwa kun fun olanla
+- expected: ohùn olúwa kún fún ọláńlá
+- got: ohun olúwa kún fún <UNK>
+
+- source: ohun oluwa fo igi kedari
+- expected: ohùn olúwa fọ igi kédárì
+- got: ohun olúwa fọ igi <UNK>
+
+- source: oluwa naa lo fo igi kedari lebanoni
+- expected: olúwa náà ló fọ igi kédárì lébánónì
+- got: olúwa náà lọ fọ igi <UNK> lébánónì
+
+- source: oluwa jokoo lori ite gege bi oba titi laelae
+- expected: olúwa jókòó lórí ìtẹ gẹgẹ bí ọba títí láéláé
+- got: olúwa jókòó lórí <UNK> <UNK> bí ọba láéláé
+
+- source: ki oluwa fi agbara fun awon eniyan re
+- expected: kí olúwa fi agbára fún àwọn ènìyàn rẹ
+- got: kí olúwa fi agbára fún àwọn ènìyàn rẹ
+
+- source: bukun awon eniyan re pelu alaafia
+- expected: bùkún àwọn ènìyàn rẹ pẹlú àlàáfíà
+- got: bùkún àwọn ènìyàn rẹ <UNK> àlàáfíà
+
+- source: sugbon iwo ni asa yi mi ka oluwa
+- expected: ṣùgbọn ìwọ ni àṣà yí mi ká olúwa
+- got: <UNK> ìwọ ni <UNK> yí mi ká olúwa
+
+- source: emi dubuu le mo si sun
+- expected: èmi dúbùú lẹ mo sì sùn
+- got: èmi <UNK> le mọ sí sùn
+
+- source: ki o si ka eyin awon eniyan buburu
+- expected: kí o sì ká eyín àwọn ènìyàn búburú
+- got: kí ó sì kà ẹyin àwọn ènìyàn búburú
+
+- source: lati odo oluwa ni igbala ti wa
+- expected: láti ọdọ olúwa ni ìgbàlà ti wá
+- got: láti <UNK> olúwa ni <UNK> ti ìgbàlà wá
+
+- source: ki ibukun re wa lori awon eniyan re
+- expected: kí ìbùkún rẹ wà lóri àwọn ènìyàn rẹ
+- got: kí ìbùkún rẹ wà lórí àwọn ènìyàn rẹ
+
+- source: ko orin iyin si oluwa eyin olododo
+- expected: kọ orin ìyìn sí olúwa ẹyin olódodo
+- got: kò orin <UNK> sí olúwa ẹyin olódodo
+
+- source: ki e si fi ope fun oruko re mimo
+- expected: kí ẹ sì fi ọpẹ fún orúkọ rẹ mímọ
+- got: ki ẹ sì fi <UNK> fún orúkọ <UNK> rẹ
+
+- source: iwo pa oju re mo aya si fo mi
+- expected: ìwọ pa ojú rẹ mọ àyà sì fò mí
+- got: ìwọ pa ojú rẹ mọ àyà sì fò mí
+
+- source: si o oluwa ni mo kepe
+- expected: sí ọ olúwa ni mo képè
+- got: sí ọ olúwa ni mo <UNK>
+
+- source: ati si oluwa ni mo sunkun fun aanu
+- expected: àti sí olúwa ni mo sunkún fún àánú
+- got: àti sí olúwa ni mo sunkún fún àánú
+
+- source: eruku yoo a yin o bi
+- expected: eruku yóò a yìn ọ bí
+- got: eruku yóò a yín ó bí
+
+- source: nje yoo so nipa ododo re
+- expected: ǹjẹ yóò sọ nípa òdodo rẹ
+- got: <UNK> yóò sọ nípa òdodo rẹ
+
+- source: gbo oluwa ki o si saanu fun mi
+- expected: gbọ olúwa kí o sì ṣàánú fún mi
+- got: <UNK> olúwa kí o sì ṣàánú fún mi
+
+- source: iwo oluwa je oluranlowo mi
+- expected: ìwọ olúwa jẹ olùrànlọwọ mi
+- got: ìwọ olúwa jẹ <UNK> mi
+
+- source: iwo ti yi ikaanu mi di ijo fun mi
+- expected: ìwọ ti yí ìkáànú mi di ijó fún mi
+- got: ìwọ ti yí <UNK> mi di <UNK> fún mi
+
+- source: ninu re oluwa ni mo ti ri aabo
+- expected: nínú rẹ olúwa ni mo ti rí ààbò
+- got: nínú rẹ olúwa ni mo ti rí ààbò
+
+- source: ma se je ki oju ki o ti mi
+- expected: má ṣe jẹ kí ojú kí ó tì mí
+- got: má ṣe jẹ kí ojú kí ó ti mi
+
+- source: gba mi ninu ododo re
+- expected: gbà mí nínú òdodo rẹ
+- got: gba mi nínú òdodo rẹ
+
+- source: te eti re si mi gba mi kiakia
+- expected: tẹ etí rẹ sí mi gbà mí kíákíá
+- got: tẹ etí rẹ sì gbà mi gbà mi
+
+- source: ni owo re ni mo fi emi mi le
+- expected: ní ọwọ rẹ ni mo fi ẹmí mi lé
+- got: ní <UNK> rẹ ni mo fi <UNK> mi lé ni
+
+- source: emi si dabi ohun elo ti o ti fo
+- expected: èmi sì dàbí ohun èlò tí ó ti fọ
+- got: èmi sì dàbí ohun èlò tí ó ti fọ
+
+- source: igba mi n be ni owo re
+- expected: ìgbà mi ń bẹ ní ọwọ rẹ
+- got: ìgbà mi ń bẹ ní <UNK> rẹ
+
+- source: gba mi ninu ifee re ti o duro sinsin
+- expected: gbà mí nínú ìfẹẹ rẹ tí ó dúró ṣinṣin
+- got: gba mi nínú <UNK> rẹ tí ó dúró ṣinṣin
+
+- source: nitori pe mo ke pe o
+- expected: nítorí pé mo ké pè ọ
+- got: nítorí pé mo ké pe ọ
+
+- source: je ki oju ki o ti eniyan buburu
+- expected: jẹ kí ojú kí ó ti ènìyàn búburú
+- got: jẹ kí ojú kí ó tì ènìyàn búburú
+
+- source: je ki won lo pelu idaamu si isa oku
+- expected: jẹ kí wọn lọ pẹlú ìdààmú sí isà òkú
+- got: jẹ kí wọn lọ <UNK> ìdààmú sí isà òkú
+
+- source: won soro afojudi si olododo
+- expected: wọn sọrọ àfojúdi sí olódodo
+- got: wọn <UNK> <UNK> sí olódodo
+
+- source: iwo ni ibi ipamo mi
+- expected: ìwọ ni ibi ìpamọ mi
+- got: ìwọ ni ibi <UNK> mi
+
+- source: iwo yoo pa mi mo kuro ninu iyonu
+- expected: ìwọ yóò pa mí mọ kúrò nínú ìyọnu
+- got: ìwọ yóò pa mí mọ kúrò nínú <UNK>
+
+- source: iwo yoo fi orin igbala yi mi ka
+- expected: ìwọ yóò fi orin ìgbàlà yí mi ka
+- got: ìwọ yóò fi orin <UNK> yí mi ká
+
+- source: e ko orin tuntun si i
+- expected: ẹ kọ orin tuntun sí i
+- got: ẹ kò <UNK> tuntun sí i
+
+- source: o fe otito ati idajo
+- expected: ó fẹ òtítọ àti ìdájọ
+- got: ó <UNK> <UNK> àti <UNK>
+
+- source: ile aye kun fun iduro sinsin ati aanu oluwa
+- expected: ilé ayé kún fún ìdúró ṣinṣin àti àánú olúwa
+- got: ilẹ ayé kún fún <UNK> dúró àti àánú olúwa
+
+- source: o si fi ibu si ile isura gbogbo
+- expected: ó sì fi ibú sí ilé ìṣúra gbogbo
+- got: ó sì fi ibú sí ilé <UNK> gbogbo
+
+- source: je ki gbogbo aye ki o beru oluwa
+- expected: jẹ kí gbogbo ayé kí ó bẹrù olúwa
+- got: jẹ kí gbogbo ayé kí ó <UNK> olúwa
+
+- source: nitori ti o soro o si ti ri bee
+- expected: nítorí tí ó sọrọ ó sì ti rí bẹẹ
+- got: nítorí tí ó <UNK> ó sì ti rí <UNK>
+
+- source: o pase o si duro sinsin
+- expected: ó pàṣẹ ó sì dúró ṣinṣin
+- got: ó pàṣẹ ó sì dúró ṣinṣin
+
+- source: o si mu arekereke awon eniyan di sisakii
+- expected: ó sì mú àrékérekè àwọn ènìyàn di ṣíṣákìí
+- got: ó sì mú <UNK> àwọn ènìyàn di <UNK>
+
+- source: oluwa wo lati orun wa
+- expected: olúwa wò láti ọrun wá
+- got: olúwa wo láti ọrun wá
+
+- source: o si ri gbogbo iran eniyan
+- expected: ó sì rí gbogbo ìran ènìyàn
+- got: ó sì rí gbogbo ìran ènìyàn
+
+- source: ohun asan ni esin fun isegun
+- expected: ohun asán ni ẹṣin fún ìsẹgun
+- got: ohun asán ni ẹṣin fún <UNK>
+
+- source: okan wa duro de oluwa
+- expected: ọkàn wa dúró de olúwa
+- got: ọkàn wá dúró de olúwa
+
+- source: oun ni iranlowo wa ati asa wa
+- expected: òun ni ìrànlọwọ wa àti aṣà wa
+- got: òun ni <UNK> wà àti <UNK> wa
+
+- source: emi yoo maa fi ibukun fun oluwa nigba gbogbo
+- expected: èmi yóò máa fi ìbùkún fún olúwa nígbà gbogbo
+- got: èmi yóò máa fi ìbùkún fún olúwa nígbà gbogbo
+
+- source: okan mi yoo maa sogo ninu oluwa
+- expected: ọkàn mí yóò máa ṣògo nínú olúwa
+- got: ọkàn mi yóò máa ṣògo nínú olúwa
+
+- source: gbe oluwa ga pelu mi
+- expected: gbé olúwa ga pẹlú mi
+- got: gbé olúwa ga <UNK> mi
+
+- source: emi wa oluwa o si da mi lohun
+- expected: èmi wá olúwa ó sì dá mi lóhùn
+- got: èmi wá olúwa o sì dá mi lóhùn
+
+- source: o si gba mi kuro ninu iberu mi gbogbo
+- expected: ó sì gbà mí kúrò nínú ìbẹrù mi gbogbo
+- got: ó sì gbà mi kúrò nínú gbogbo <UNK> mi
+
+- source: won woo imole si mo won
+- expected: wọn wòó ìmọlẹ sì mọ wọn
+- got: wọn wòó <UNK> sì mọ wọn
+
+- source: wa eyin omo mi fi eti si mi
+- expected: wá ẹyin ọmọ mi fi etí sí mi
+- got: wá ẹyin ọmọ mi fi etí sí mi
+
+- source: emi yoo ko o yin ni eru oluwa
+- expected: èmi yóò kọ ọ yín ní ẹrù olúwa
+- got: èmi yóò kọ ọ yín ní ẹrù olúwa
+
+- source: ki o le gbadun ojo rere
+- expected: kí ó lè gbádùn ọjọ rere
+- got: kí ó lè gbádùn <UNK> rere
+
+- source: ya kuro ninu ibi ki o si se rere
+- expected: yà kúrò nínú ibi kí o sì ṣe rere
+- got: ya kúrò nínú ibi kì ó sì ṣe rere
+
+- source: wa alaafia ki o si lepa re
+- expected: wá àlàáfíà kí o sì lépa rẹ
+- got: wá àlàáfíà kí o sì lépa rẹ
+
+- source: oju oluwa n be lara awon olododo
+- expected: ojú olúwa ń bẹ lára àwọn olódodo
+- got: ojú olúwa ń bẹ lára àwọn olódodo
+
+- source: eti i re si si si ekun won
+- expected: etí i rẹ sì sí sí ẹkún wọn
+- got: etí í rẹ sí sí ẹkún sì ẹkún wọn
+
+- source: oju oluwa koro si awon ti n se buburu
+- expected: ojú olúwa korò sí àwọn tí ń ṣe búburú
+- got: ojú olúwa <UNK> sí àwọn tí ń ṣe búburú
+
+- source: lati ke iranti won kuro lori ile
+- expected: láti ké ìrántí wọn kúrò lórí ilẹ
+- got: láti ké ìrántí wọn kúrò lórí ilẹ
+
+- source: oluwa sun mo eti odo awon onirobinuje okan
+- expected: olúwa sún mọ etí ọdọ àwọn oníròbìnújẹ ọkàn
+- got: olúwa sùn mo <UNK> etí àwọn <UNK> ọkàn
+
+- source: o pa gbogbo egungun won mo
+- expected: ó pa gbogbo egungun wọn mọ
+- got: ó pa gbogbo egungun wọn mọ
+
+- source: ko si okan ti o da ninu won
+- expected: kò sí ọkan tí ó dá nínú wọn
+- got: kò sí ọkàn tí ó dá nínú wọn
+
+- source: oluwa ra okan awon iranse re pada
+- expected: olúwa ra ọkàn àwọn ìránṣẹ rẹ padà
+- got: olúwa ra àwọn <UNK> àwọn rẹ padà
+
+- source: oluwa gbogun ti awon ti n gbogun ti mi
+- expected: olúwa gbógun ti àwọn tí ń gbógun tì mí
+- got: olúwa <UNK> ti àwọn tí ń gbógun tì mí
+
+- source: so fun okan mi pe emi ni igbala re
+- expected: sọ fún ọkàn mi pé èmi ni ìgbàlà rẹ
+- got: sọ fún ọkàn mi pé èmi ni <UNK> rẹ
+
+- source: ki won subu sinu koto si iparun ara re
+- expected: kí wọn ṣubú sínú kòtò sí ìparun ara rẹ
+- got: kí wọn ṣubú sínú <UNK> sí ìparun ara rẹ
+
+- source: won fi buburu san ire fun mi
+- expected: wọn fi búburú san ire fún mi
+- got: wọn fi búburú sàn láti ire fún mi
+
+- source: lati so okan mi di ofo
+- expected: láti sọ ọkàn mi di òfo
+- got: láti sọ ọkàn mi di <UNK>
+
+- source: mo fi aawe pon ara mi loju
+- expected: mo fi ààwẹ pọn ara mi lójú
+- got: mo fi <UNK> <UNK> ará mi lójú
+
+- source: mo gba adura pelu iteriba ni ookan aya mi
+- expected: mo gba àdúrà pẹlú ìtẹríba ní oókan àyà mi
+- got: mo gba àdúrà àdúrà <UNK> ní <UNK> mi aya
+
+- source: emi yoo maa yin o ni awujo opo eniyan
+- expected: èmi yóò máa yìn ọ ní àwùjọ ọpọ ènìyàn
+- got: èmi yóò máa yìn ọ yín ní <UNK> ènìyàn
+
+- source: won ya enu won gbooro si mi
+- expected: wọn ya ẹnu wọn gbòòrò sí mi
+- got: wọn ya ẹnu wọn <UNK> sí mi
+
+- source: iwo ti rii iwo oluwa
+- expected: ìwọ ti ríi ìwọ olúwa
+- got: ìwọ ti <UNK> ìwọ olúwa
+
+- source: irekoja soro si eniyan buburu jinle ninu okan won
+- expected: ìrékọjá sọrọ sí ènìyàn búburú jinlẹ nínú ọkàn wọn
+- got: ìrékọjá <UNK> sì ènìyàn búburú <UNK> nínú ọkàn wọn
+
+- source: oro enu won ni ese oun etan
+- expected: ọrọ ẹnu wọn ni ẹṣẹ òun ẹtàn
+- got: <UNK> ẹnu wọn ní <UNK> òun <UNK>
+
+- source: won ti fi ogbon ati sise rere sile
+- expected: wọn ti fi ọgbọn àti ṣíṣe rere sílẹ
+- got: wọn ti fi <UNK> àti <UNK> rere <UNK>
+
+- source: won gba ona ti ko dara
+- expected: wọn gba ọnà tí kò dára
+- got: wọn gba ọnà tí kò dára
+
+- source: won ko si ko ona ibi sile
+- expected: wọn kò sì kọ ọnà ibi sílẹ
+- got: wọn kò sì kó ọnà ibi <UNK>
+
+- source: iwo gba eranko ati eniyan la oluwa
+- expected: ìwọ gba ẹranko àti ènìyàn là olúwa
+- got: ìwọ gba ẹranko àti ènìyàn là olúwa
+
+- source: ase ile re yoo te won lorun gidigidi
+- expected: àsè ilé rẹ yóò tẹ wọn lọrùn gidigidi
+- got: àṣẹ ilé rẹ yóò tẹ wọn <UNK> gidigidi
+
+- source: nitori pe pelu u re ni orisun iye wa
+- expected: nítorí pé pẹlú ù rẹ ni orísun ìyè wà
+- got: nítorí pé <UNK> u rẹ ní iye wà ìyè
+
+- source: ninu imole re ni awa yoo ri imole
+- expected: nínú ìmọlẹ rẹ ni àwa yóò rí ìmọlẹ
+- got: nínú <UNK> rẹ ni àwa yóò rí <UNK>
+
+- source: nibe ni awon onise ese gbe subu si
+- expected: níbẹ ni àwọn oníṣẹ ẹṣẹ gbé subú sí
+- got: <UNK> ni àwọn <UNK> <UNK> gbé ṣubú sí
+
+- source: oun yoo si fun o ni ife inu re
+- expected: òun yóò sì fún ọ ní ìfẹ inú rẹ
+- got: òun yóò sì fún ọ ní <UNK> inú rẹ
+
+- source: fi ona re le oluwa lowo
+- expected: fi ọnà rẹ lé olúwa lọwọ
+- got: fi ọnà rẹ lé olúwa <UNK>
+
+- source: gbekelee pelu oun yoo si se e
+- expected: gbẹkẹlée pẹlú òun yóò sì ṣe é
+- got: <UNK> <UNK> òun yóò sì ṣe é
+
+- source: faseyin ninu inubibi ki o si ko ikannu sile
+- expected: fàsẹyìn nínú inúbíbí kí o sì kọ ìkannú sílẹ
+- got: <UNK> nínú <UNK> kí o sì kọ <UNK> <UNK>
+
+- source: bi eefin ni won yoo fo lo kuro
+- expected: bi èéfín ni wọn yóò fò lọ kúrò
+- got: bí èéfín ni wọn yóò fọ lọ kúrò
+
+- source: emi ti wa ni ewe bayii emi si dagba
+- expected: èmi ti wà ni èwe báyìí èmí sì dàgbà
+- got: èmi ti wá ni èwe báyìí sí èmi dàgbà
+
+- source: alaaanu ni oun nigba gbogbo a maa ya ni
+- expected: aláàánú ni òun nígbà gbogbo a máa yá ni
+- got: <UNK> ni òun nígbà gbogbo a máa ya ní yà
+
+- source: a si maa busi i fun ni
+- expected: a sì máa bùsí i fún ni
+- got: a sì máa <UNK> í fún ni
+
+- source: ofin olorun re n be ni aya won
+- expected: òfin ọlọrun rẹ ń bẹ ní àyà wọn
+- got: òfin <UNK> rẹ ń bẹ ní aya wọn
+
+- source: awon igbese re ki yoo ye
+- expected: àwọn ìgbẹsẹ rẹ kì yóò yẹ
+- got: àwọn <UNK> rẹ kì yóò yè
+
+- source: sugbon awon olurekoja ni a o parun papo
+- expected: ṣùgbọn àwọn olùrékọjá ní a ó parun papọ
+- got: <UNK> àwọn <UNK> ni a ó parun <UNK>
+
+- source: iran awon eniyan buburu ni a o ge kuro
+- expected: ìran àwọn ènìyàn búburú ní a ó gé kúrò
+- got: ìran àwọn ènìyàn búburú ni a ó gé kúrò
+
+- source: igbala awon aduro sinsin wa lati odo oluwa
+- expected: ìgbàlà àwọn adúró ṣinṣin wa láti ọdọ olúwa
+- got: <UNK> àwọn <UNK> ṣinṣin wá láti <UNK> olúwa
+
+- source: nitori aisedede mi ti bori mi mole
+- expected: nítorí àìṣedédé mi ti borí mi mọlẹ
+- got: nítorí àìṣedédé mi ti borí mi <UNK>
+
+- source: mo ke rora nitori irukerudo aya mi
+- expected: mo ké rora nítorí ìrúkèrúdò àyà mi
+- got: mo ké <UNK> nítorí <UNK> àyà mi
+
+- source: oluwa gbogbo a ayun mi n be niwaju re
+- expected: olúwa gbogbo a áyun mi ń bẹ níwájú rẹ
+- got: olúwa gbogbo <UNK> a mí ń bẹ níwájú rẹ
+
+- source: imi edun mi ko sa pamo fun o
+- expected: ìmí ẹdùn mi kò sá pamọ fún ọ
+- got: <UNK> <UNK> mi kò sá <UNK> fún ọ
+
+- source: sugbon mo dabi aditi odi emi ko gbo oro
+- expected: ṣùgbọn mo dàbí adití odi èmi kò gbọ ọrọ
+- got: <UNK> mo dàbí <UNK> odi èmi kò <UNK> <UNK>
+
+- source: ati bi odi ti ko le soro
+- expected: àti bí odi tí kò le sọrọ
+- got: àti bí òdì tí kò le <UNK>
+
+- source: sugbon si o oluwa iwo ni mo duro de
+- expected: ṣùgbọn sí ọ olúwa ìwọ ni mo dúró dè
+- got: <UNK> sí olúwa ìwọ ó ní dúró dè dé
+
+- source: iwo ni oluwa olorun mi eni ti yoo dahun
+- expected: ìwọ ni olúwa ọlọrun mi ẹni tí yóò dáhùn
+- got: ìwọ ni olúwa <UNK> mi ẹni tí yóò dáhùn
+
+- source: aanu si se mi fun ese mi
+- expected: àánú sì ṣe mí fún ẹṣẹ mi
+- got: àánú sì ṣe mi fún <UNK> mi
+
+- source: mo fi idake ya odi
+- expected: mo fi ìdákẹ ya odi
+- got: mo fi <UNK> ya odi
+
+- source: ibanuje mi si po sii
+- expected: ìbànújẹ mi sì pọ síi
+- got: <UNK> mi sì <UNK> síi
+
+- source: nigba naa ni mo fi ahon mi soro
+- expected: nígbà náà ni mo fi ahọn mi sọrọ
+- got: nígbà náà ni mo fi <UNK> mi <UNK>
+
+- source: sela nitooto ni olukuluku n rin kiri bi ojiji
+- expected: sela nítòótọ ni olúkúlùkù ń rìn kiri bí òjìji
+- got: <UNK> <UNK> ni <UNK> ń rìn kiri bí <UNK>
+
+- source: ireti mi n be ni odo re
+- expected: ìrètí mí ń bẹ ní ọdọ rẹ
+- got: ìrètí mi ń bẹ ní <UNK> rẹ
+
+- source: gba mi lowo irekoja mi gbogbo
+- expected: gbà mí lọwọ ìrékọjá mi gbogbo
+- got: gba mi <UNK> ìrékọjá mi gbogbo
+
+- source: mu ina re kuro ni ara mi
+- expected: mú ìnà rẹ kúrò ní ara mi
+- got: mú iná rẹ kúrò ní ara mi
+
+- source: emi segbe tan nipa ilu owo re
+- expected: èmí ṣègbé tán nípa ìlù ọwọ rẹ
+- got: èmi ṣègbé tan nípa ìlú <UNK> rẹ
+
+- source: nitooto asan ni eniyan gbogbo
+- expected: nítòótọ asán ni ènìyàn gbogbo
+- got: <UNK> aṣán ni ènìyàn gbogbo
+
+- source: saanu fun mi ki o si gbo adura mi
+- expected: ṣàánú fún mi kí o sì gbọ àdúrà mi
+- got: ṣàánú fún mi kí o sì <UNK> àdúrà mi
+
+- source: oluwa yoo gbo nigba ti mo ba pe e
+- expected: olúwa yóò gbọ nígbà tí mo bá pè é
+- got: olúwa yóò <UNK> nígbà tí mo bá pè é
+
+- source: e binu e ma se se
+- expected: ẹ bínú ẹ má ṣe ṣẹ
+- got: ẹ bínú ẹ má ṣe ṣe
+
+- source: mo fi pelepele duro de oluwa
+- expected: mo fi pẹlẹpẹlẹ dúró de olúwa
+- got: mo fi <UNK> dúró de olúwa
+
+- source: awon ohun ti iwo ti seto sile fun wa
+- expected: àwọn ohun tí ìwọ ti ṣètò sílẹ fún wa
+- got: àwọn ohun tí ìwọ ti <UNK> fún wa fún àwọn
+
+- source: nigba naa ni mo wi pe emi niyi
+- expected: nígbà náà ni mo wí pé èmi nìyí
+- got: nígbà náà ni mo wí pé èmi nìyí
+
+- source: ofin re n be ni aya mi
+- expected: òfin rẹ ń bẹ ní àyà mi
+- got: òfin rẹ ń bẹ ní aya mi
+
+- source: oluwa yara lati ran mi lowo
+- expected: olúwa yára láti ràn mí lọwọ
+- got: olúwa yára láti ràn mí <UNK>
+
+- source: iwo ni oluranlowo mi ati igbala mi
+- expected: ìwọ ni olùrànlọwọ mi àti ìgbàlà mi
+- got: ìwọ ni <UNK> mi àti ìgbàlà mi
+
+- source: ma se je ki o pe iwo olorun mi
+- expected: má ṣe jẹ kí ó pẹ ìwọ ọlọrun mi
+- got: má ṣe jẹ kí ó pé ìwọ <UNK> mi
+
+- source: oluwa yoo gba a ni igba iponju
+- expected: olúwa yóò gbà á ni ìgbà ìpọnjú
+- got: olúwa yóò gbà á ní ìgbà <UNK>
+
+- source: awon ota mi gbimo papo nipa mi
+- expected: àwọn ọtá mi gbìmọ papọ nípa mi
+- got: àwọn <UNK> mi <UNK> <UNK> nípa mi
+
+- source: sugbon iwo oluwa saanu fun mi
+- expected: ṣùgbọn ìwọ olúwa ṣàánú fún mi
+- got: <UNK> ìwọ olúwa ṣàánú fún mi
+
+- source: olubukun ni oluwa olorun isireli lae ati laelae
+- expected: olùbùkún ni olúwa ọlọrun ísírẹlì láé àti láéláé
+- got: <UNK> ni olúwa <UNK> <UNK> láé àti láéláé
+
+- source: nigba wo ni emi o lo ba olorun
+- expected: nígbà wo ni èmi ó lọ bá ọlọrun
+- got: nígbà wo ni èmi ó lọ bá <UNK>
+
+- source: eese ti o fi n rewesi iwo okan mi
+- expected: èéṣe tí o fi n rẹwẹsì ìwọ ọkàn mi
+- got: èéṣe tí ó fi ń <UNK> ìwọ ọkàn mi
+
+- source: eese ti ara re ko fi lele ninu mi
+- expected: èéṣe tí ara rẹ kò fi lélẹ nínú mi
+- got: èéṣe tí ara rẹ kò fi <UNK> nínú mi
+
+- source: nibo ni olorun re wa
+- expected: níbo ni ọlọrun rẹ wà
+- got: níbo ni <UNK> rẹ wà
+
+- source: eese ti iwo fi n rewesi iwo okan mi
+- expected: èéṣe tí ìwọ fi ń rẹwẹsì ìwọ ọkàn mi
+- got: èéṣe tí ìwọ fi ń <UNK> ìwọ ọkàn mi
+
+- source: eese ti ara re ko fi lele ninu mi
+- expected: èéṣe tí ara rẹ kò fi lélẹ nínú mi
+- got: èéṣe tí ara rẹ kò fi <UNK> nínú mi
+
+- source: yo mi kuro lowo eletan ati awon eniyan buburu
+- expected: yọ mí kúrò lọwọ ẹlẹtàn àti àwọn ènìyàn búburú
+- got: yọ mí kúrò <UNK> <UNK> àti àwọn ènìyàn búburú
+
+- source: iwo ni olorun ibi agbara mi
+- expected: ìwọ ni ọlọrun ibi agbára mi
+- got: ìwọ ni <UNK> ibi agbára mi
+
+- source: eese ti iwo fi ko mi sile
+- expected: èéṣe tí ìwọ fi kọ mi sílẹ
+- got: èéṣe tí ìwọ fi kọ mi <UNK>
+
+- source: eese ti o fi n rewesi iwo okan mi
+- expected: èéṣe tí o fi ń rẹwẹsì ìwọ ọkàn mí
+- got: èéṣe tí ó fi ń <UNK> ìwọ ọkàn mi
+
+- source: eese ti o fi n ru soke ninu mi
+- expected: èéṣe tí ó fi ń ru sókè nínú mi
+- got: èéṣe tí ó fi ń ru sókè nínú mi
+
+- source: owo otun re ati apa re
+- expected: ọwọ ọtún rẹ àti apá rẹ
+- got: <UNK> <UNK> rẹ àti apá rẹ
+
+- source: ati imole oju re nitori iwo fe won
+- expected: àti ìmọlẹ ojú rẹ nítorí ìwọ fẹ wọn
+- got: àti <UNK> ojú rẹ nítorí ìwọ <UNK> wọn
+
+- source: awon eniyan n mi ori won si wa
+- expected: àwọn ènìyàn ń mi orí wọn sí wa
+- got: àwọn ènìyàn ń mi orí wọn sí wa
+
+- source: okan wa ko pada seyin
+- expected: ọkàn wa kò padà sẹyìn
+- got: ọkàn wá kò padà <UNK>
+
+- source: ji oluwa  eese ti iwo n sun
+- expected: jí olúwa  èéṣe tí ìwọ ń sùn
+- got: jí olúwa èéṣe tí ìwọ ń sùn
+
+- source: nitori a teri okan wa ba sinu eruku
+- expected: nítorí a tẹrí ọkàn wa ba sínú eruku
+- got: nítorí a <UNK> ọkàn wá bá sínú eruku
+
+- source: ara wa si di mo erupe ile
+- expected: ara wa sì dì mọ erùpẹ ilẹ
+- got: ará wá sí di mo <UNK> ilẹ
+
+- source: dide ki o si ran wa lowo
+- expected: dìde kí o sì ràn wá lọwọ
+- got: dìde kí ó sì ràn wá <UNK>
+
+- source: rawapada nitori ife re ti o duro sinsin
+- expected: ràwápadà nítorí ìfẹ rẹ tí ó dúró ṣinṣin
+- got: <UNK> nítorí <UNK> rẹ tí ó dúró ṣinṣin
+
+- source: iwo yanju ju awon omo eniyan lo
+- expected: ìwọ yanjú ju àwọn ọmọ ènìyàn lọ
+- got: ìwọ <UNK> ju àwọn ọmọ ènìyàn lọ
+
+- source: a da ooreofe si o ni ete
+- expected: a da ooreọfẹ sí ọ ní ètè
+- got: a dá <UNK> sí ọ ní <UNK>
+
+- source: nitori naa ni olorun se bukun fun o laelae
+- expected: nítorí náà ni ọlọrun ṣe bùkún fún ọ láéláé
+- got: nítorí náà ni <UNK> ṣe bùkún fún ọ láéláé
+
+- source: olorun wa pelu re ko ni ye
+- expected: ọlọrun wà pẹlú rẹ kò ní yẹ
+- got: <UNK> wà <UNK> rẹ kò ní yé
+
+- source: olorun wa ninu aabo aafin re
+- expected: ọlọrun wà nínú ààbò ààfin rẹ
+- got: <UNK> wà nínú ààbò rẹ
+
+- source: o fi ara re han lati je odi alagbara
+- expected: ó fi ara rẹ hàn láti jẹ odi alágbára
+- got: ó fi ara rẹ hàn láti jẹ alágbára alágbára
+
+- source: fi eti si oro mi oluwa kiyesi aroye mi
+- expected: fi etí sí ọrọ mi olúwa kíyèsí àròyé mi
+- got: fi etí sí <UNK> mi olúwa kíyèsí mi <UNK>
+
+- source: ni owuro oluwa iwo yoo gbo ohun mi
+- expected: ní òwúrọ olúwa ìwọ yóò gbọ ohùn mi
+- got: ní <UNK> olúwa ìwọ yóò <UNK> ohùn mi
+
+- source: awon agberaga ko le e duro niwaju re
+- expected: àwọn agbéraga kò le è dúró níwájú rẹ
+- got: àwọn <UNK> kò lè dúró <UNK> níwájú rẹ
+
+- source: iwo korira gbogbo awon asebi
+- expected: ìwọ kóríra gbogbo àwọn aṣebi
+- got: ìwọ <UNK> gbogbo àwọn <UNK>
+
+- source: iwo yoo pa awon ti n se eke run
+- expected: ìwọ yóò pa àwọn tí ń ṣe èké run
+- got: ìwọ yóò pa àwọn tí ń ṣe run èké
+
+- source: apani ati eni etan eniyan ni oluwa yoo koriira
+- expected: apani àti ẹni ẹtàn ènìyàn ni olúwa yóò kórìíra
+- got: <UNK> àti ẹni <UNK> ènìyàn ni olúwa yóò kórìíra
+
+- source: okan won kun fun iparun
+- expected: ọkàn wọn kún fún ìparun
+- got: ọkàn wọn kún fún ìparun
+
+- source: pelu ahon won ni won n so etan
+- expected: pẹlú ahọn wọn ni wọn ń sọ ẹtàn
+- got: <UNK> <UNK> wọn ni wọn ń sọ <UNK>
+
+- source: je ki won maa korin fun ayo titi
+- expected: jẹ kí wọn máa kọrin fún ayọ títí
+- got: jẹ kí wọn máa kọrin fún <UNK> títí
+
+- source: dajudaju oluwa iwo bukun olododo
+- expected: dájúdájú olúwa ìwọ bùkún olódodo
+- got: dájúdájú olúwa ìwọ bùkún olódodo
+
+- source: emi ni olorun ani olorun re
+- expected: èmi ní ọlọrun àní ọlọrun rẹ
+- got: èmi ni <UNK> àní <UNK> rẹ
+
+- source: sugbon olorun so fun awon eniyan buburu
+- expected: ṣùgbọn ọlọrun sọ fún àwọn ènìyàn búburú
+- got: <UNK> <UNK> sọ fún àwọn ènìyàn búburú
+
+- source: ni tooto iwo fe otito ni inu
+- expected: ní tòótọ ìwọ fẹ òtítọ ní inú
+- got: ní <UNK> ìwọ <UNK> <UNK> ní inú inú
+
+- source: iwo ko mi ni ogbon ni iha iko ko
+- expected: ìwọ kọ mi ní ọgbọn ní ìhà ìkọ kọ
+- got: ìwọ kò mi ní <UNK> ni ìhà <UNK> kò
+
+- source: we mi pelu ewe isopu emi yoo si mo
+- expected: wẹ mí pẹlú ewé ísópù èmi yóò sì mọ
+- got: wẹ mi <UNK> <UNK> <UNK> èmi yóò sì mọ
+
+- source: fo mi emi yoo si funfun ju sinoo lo
+- expected: fọ mí èmi yóò sì funfun ju sínóò lọ
+- got: fọ mi èmi yóò sì <UNK> jù <UNK> lọ
+
+- source: je ki n gbo ayo ati inu didun
+- expected: jẹ kí ń gbọ ayọ àti inú dídùn
+- got: jẹ kí ń <UNK> <UNK> àti inú dídùn
+
+- source: emi yoo yin o niwaju awon eniyan mimo
+- expected: èmi yóò yìn ọ níwájú àwọn ènìyàn mímọ
+- got: èmi yóò yín ọ níwájú àwọn ènìyàn <UNK>
+
+- source: asiwere wi ni okan re pe olorun ko si
+- expected: asiwèrè wí ní ọkàn rẹ pé ọlọrun kò sí
+- got: aṣiwèrè wí ni ọkàn rẹ pé <UNK> kò sí
+
+- source: won baje gbogbo ona won si buru
+- expected: wọn bàjẹ gbogbo ọnà wọn sì burú
+- got: wọn <UNK> gbogbo ọnà wọn sì burú
+
+- source: ko si si enikan ti n se rere
+- expected: kò sì sí ẹnìkan tí ń ṣe rere
+- got: kò sì sí ẹnìkan tí ń ṣe rere
+
+- source: se awon onise buburu ko ni imo
+- expected: ṣé àwọn oníṣẹ búburú kò ní ìmọ
+- got: ṣé àwọn <UNK> búburú kò ní <UNK>
+
+- source: gba mi olorun nipa oruko re
+- expected: gbà mí ọlọrun nípa orúkọ rẹ
+- got: gba mi <UNK> nípa orúkọ rẹ
+
+- source: da mi lare nipa agbara re
+- expected: dá mi láre nípa agbára rẹ
+- got: dá mi láre nípa agbára rẹ
+
+- source: fi eti si oro enu mi
+- expected: fi etí sí ọrọ ẹnu mi
+- got: fi etí sí <UNK> ẹnu mi
+
+- source: awon alejo n dide si mi
+- expected: àwọn àlejò ń dìde sí mí
+- got: àwọn àlejò ń dìde sí mi
+
+- source: kiyesi i olorun ni oluranlowo mi
+- expected: kíyèsí i ọlọrun ni olùrànlọwọ mi
+- got: kíyèsí i <UNK> ni <UNK> mi
+
+- source: pa won run ninu otito re
+- expected: pa wọn run nínú òtítọ rẹ
+- got: pa wọn run nínú <UNK> rẹ
+
+- source: gbo mi ki o si da mi lohun
+- expected: gbọ mi kí o sì dá mi lóhùn
+- got: <UNK> mi kí o sì dá mi lóhùn
+
+- source: okan mi wa ninu irora pelu
+- expected: ọkàn mi wà nínú ìrọra pẹlú
+- got: ọkàn mi wà nínú ìrora <UNK>
+
+- source: eru iku koju ija si mi
+- expected: ẹrù ikú kọjú ìjà sí mi
+- got: ẹrù ikú kọjú ìjà sí mi
+
+- source: iberu ati iwariri wa si ara mi
+- expected: ìbẹrù àti ìwàrírí wa sí ara mi
+- got: <UNK> àti <UNK> wá sí ara mi
+
+- source: iberu ti bo mi mole
+- expected: ìbẹrù ti bò mí mọlẹ
+- got: <UNK> tí bo mi <UNK>
+
+- source: arankan ati eebu wa laarin re
+- expected: àrankàn àti èébú wà láàrin rẹ
+- got: <UNK> àti <UNK> wà láàrin rẹ
+
+- source: iwa buburu n be ni aarin re
+- expected: ìwà búburú ń bẹ ní àárin rẹ
+- got: ìwà búburú ń bẹ ní àárin rẹ
+
+- source: ideruba ati iro ko kuro ni igboro re
+- expected: ìdẹrùbà àti irọ kò kúrò ní ìgboro rẹ
+- got: <UNK> àti <UNK> kò kúrò ní <UNK> rẹ
+
+- source: oluwa yoo si gba mi
+- expected: olúwa yóò sì gbà mí
+- got: olúwa yóò sì gbà mi
+
+- source: ore mi yii ti dale emi ore re
+- expected: ọrẹ mi yìí ti dalẹ èmi ọrẹ rẹ
+- got: ọrẹ mi yìí ti <UNK> èmi ọrẹ rẹ
+
+- source: o ti ba majemu re je
+- expected: ó ti bá májẹmú rẹ jẹ
+- got: ó ti bá <UNK> rẹ jẹ
+
+- source: oun ko ni je ki olododo subu
+- expected: òun kò ní jẹ kí olódodo ṣubú
+- got: òun kò ní jẹ kí olódodo ṣubú
+
+- source: sugbon fun emi emi gbekele o
+- expected: ṣùgbọn fún èmi èmi gbẹkẹlé ọ
+- got: <UNK> fún èmi <UNK> èmi ó
+
+- source: won ha le mu un je gbe
+- expected: wọn ha le mú un jẹ gbé
+- got: wọn ha lè mú un jẹ gbé
+
+- source: ninu olorun ni igbekele mi
+- expected: nínú ọlọrun ni ìgbẹkẹlé mi
+- got: nínú <UNK> ni <UNK> mi
+
+- source: mo je eje labe re olorun
+- expected: mo jẹ ẹjẹ lábẹ rẹ ọlọrun
+- got: mo jẹ <UNK> <UNK> rẹ <UNK>
+
+- source: emi o mu iyin mi wa fun o
+- expected: èmi o mú ìyìn mi wá fún ọ
+- got: èmi ó mú ìyìn mi wá fún ọ
+
+- source: olorun yoo ran aanu re ati ododo re jade
+- expected: ọlọrun yóò rán àánú rẹ àti òdodo rẹ jáde
+- got: <UNK> yóò rán àánú rẹ àti òdodo rẹ jáde
+
+- source: mo wa ni aarin awon kinniun
+- expected: mo wà ní àárin àwọn kìnnìún
+- got: mo wà ní àárin àwọn kìnnìún
+
+- source: won ti ta awon sile fun ese mi
+- expected: wọn ti ta àwọn sílẹ fún ẹsẹ mi
+- got: wọn ti ta àwọn <UNK> fún <UNK> mi
+
+- source: sugbon won ti jin sibe fun ara won
+- expected: ṣùgbọn wọn ti jìn ṣíbẹ fún ara wọn
+- got: <UNK> wọn ti jìn <UNK> fún ara wọn
+
+- source: okan mi ti mura olorun
+- expected: ọkàn mi tí múra ọlọrun
+- got: ọkàn mi ti múra <UNK>
+
+- source: emi o maa korin si o laarin awon eniyan
+- expected: èmi ó máa kọrin sí ọ láàrin àwọn ènìyàn
+- got: èmi ó máa kọrin ó sì láàrin àwọn ènìyàn
+
+- source: nitori titobi ni ife re ti o de orun
+- expected: nítorí títóbi ní ìfẹ rẹ tí ó dé ọrun
+- got: nítorí títóbi ni <UNK> rẹ tí ó dé ọrun
+
+- source: otito re tan de awosanmo
+- expected: òtítọ rẹ tàn dé àwọsánmọ
+- got: <UNK> rẹ tàn dé <UNK>
+
+- source: gbigbega ni o olorun ju awon orun lo
+- expected: gbígbéga ni ọ ọlọrun ju àwọn ọrun lọ
+- got: <UNK> ni ó <UNK> jù àwọn ọrun lọ
+
+- source: ki ogo re ki o ju gbogbo aye lo
+- expected: kí ògo rẹ kí ó ju gbogbo ayé lọ
+- got: kí ògo rẹ kí ó jù gbogbo ayé lọ
+
+- source: eyin ha n so ododo nitooto eyin ijo eniyan
+- expected: ẹyin ha ń sọ òdodo nítòotọ ẹyin ijọ ènìyàn
+- got: ẹyin ha ń sọ òdodo <UNK> ẹyin ìjọ ènìyàn
+
+- source: ka eyin enu won olorun
+- expected: ká eyín ẹnu wọn ọlọrun
+- got: kà ẹyin ẹnu wọn <UNK>
+
+- source: ni enu won ka ogan awon omo kinniun oluwa
+- expected: ní ẹnu wọn ká ọgan àwọn ọmọ kìnnìún olúwa
+- got: ní ẹnu wọn kà <UNK> àwọn ọmọ olúwa kìnnìún
+
+- source: ki ikoko yin ki o to mo igbona egun
+- expected: kí ìkòkò yín kì o tó mọ ìgbóná ẹgún
+- got: kí ìkòkò yín kí o tó mọ <UNK> ègún
+
+- source: gba mi lowo awon ota a mi olorun
+- expected: gbà mí lọwọ àwọn ọtá à mi ọlọrun
+- got: gba mi <UNK> àwọn <UNK> a mi <UNK>
+
+- source: ma se saanu fun awon olurekoja buburu ni
+- expected: má ṣe ṣàánú fún àwọn olùrékọjá búburú nì
+- got: má ṣe <UNK> fún àwọn <UNK> búburú ni
+
+- source: kiyesi ohun ti won tu jade ni enu
+- expected: kíyèsí ohun tí wọn tú jáde ní ẹnu
+- got: kíyèsí ohun tí wọn tú jáde ní ẹnu
+
+- source: iwo agbara mi emi o korin iyin si o
+- expected: ìwọ agbára mi èmi ó kọrin ìyìn sí ọ
+- got: ìwọ agbára mi èmi ó kọrin sí ìyìn ọ
+
+- source: iwo olorun aabo mi olorun ife mi
+- expected: ìwọ ọlọrun ààbò mi ọlọrun ìfẹ mi
+- got: ìwọ <UNK> ààbò mi <UNK> <UNK> mi
+
+- source: okan mi wa ninu irora
+- expected: ọkàn mi wà nínú ìrora
+- got: ọkàn mi wà nínú ìrora
+
+- source: yoo ti pe to oluwa yoo ti pe to
+- expected: yóò ti pẹ tó olúwa yóò ti pẹ tó
+- got: yóò ti pe tó olúwa yóò ti tó pé
+
+- source: yipada oluwa ki o si gba mi
+- expected: yípadà olúwa kí ó sì gbà mí
+- got: yípadà olúwa kí o sì gbà mi
+
+- source: ta ni yoo yin o lati inu isa oku
+- expected: ta ni yóò yìn ọ láti inú iṣà òkú
+- got: ta ni yóò yín ọ láti inú isà òkú
+
+- source: agara ikerora mi da mi tan
+- expected: agara ìkérora mi da mi tán
+- got: <UNK> <UNK> mi dá mi tàn
+
+- source: oju mi di alailera pelu ibanuje
+- expected: ojú mi di aláìlera pẹlú ìbànújẹ
+- got: ojú mi di aláìlera <UNK> <UNK>
+
+- source: won kuna nitori gbogbo ota mi
+- expected: wọn kùnà nítorí gbogbo ọtá mi
+- got: wọn nítorí nítorí gbogbo <UNK> mi
+
+- source: oluwa ti gbo ekun mi fun aanu
+- expected: olúwa ti gbọ ẹkún mi fún àánú
+- got: olúwa ti <UNK> ẹkún mi fún àánú
+
+- source: oluwa ti gba adura mi
+- expected: olúwa ti gba àdúrà mi
+- got: olúwa ti gba àdúrà mi
+
+- source: won yoo si yipada ninu itiju airotele
+- expected: wọn yóò sì yípadà nínú ìtìjú àìròtẹlẹ
+- got: wọn yóò sì yípadà nínú ìtìjú <UNK>
+
+- source: iwo ti mu ile wariri iwo ti fo o
+- expected: ìwọ ti mú ilẹ wárìrì ìwọ ti fọ ọ
+- got: ìwọ ti mú ilé <UNK> ìwọ ti fò ọ
+
+- source: mu fifo re bo sipo nitori ti o mi
+- expected: mú fífọ rẹ bọ sípò nítorí tí ó mi
+- got: mú <UNK> rẹ bọ sípò nítorí tí ó ti mi
+
+- source: iwo ti fi igba ewu han awon eniyan re
+- expected: ìwọ ti fi ìgbà ewu hàn àwọn ènìyàn rẹ
+- got: ìwọ ti fi ìgbà <UNK> hàn àwọn ènìyàn rẹ
+
+- source: olorun ti soro lati ibi mimo re
+- expected: ọlọrun ti sọrọ láti ibi mímọ rẹ
+- got: <UNK> tí <UNK> láti ibi <UNK> rẹ
+
+- source: temi ni giliadi temi si ni manase
+- expected: tèmi ni gílíádì tèmi sì ni mánásè
+- got: tèmi ni gílíádì tèmi sí ní mánásè
+
+- source: lori filisitini ni mo kigbe ayo
+- expected: lórí fìlísitinì ni mo kígbe ayọ
+- got: lórí <UNK> ni mo kígbe <UNK>
+
+- source: ta ni yoo to mi lo si edomu
+- expected: ta ni yóò tọ mí lọ sí édómù
+- got: ta ni yóò tọ mí lọ sí édómù
+
+- source: nitori iwo ti gbo awon eje mi olorun
+- expected: nítorí ìwọ ti gbọ àwọn ẹjẹ mi ọlọrun
+- got: nítorí ìwọ ti <UNK> àwọn <UNK> mi <UNK>
+
+- source: ki o maa joba niwaju olorun titi lae
+- expected: kí o máa jọba níwájú ọlọrun títí láé
+- got: kí ó máa jọba níwájú <UNK> títí láé
+
+- source: ninu olorun nikan ni okan mi ti ri isinmi
+- expected: nínú ọlọrun nìkan ni ọkàn mi ti rí ìsinmi
+- got: nínú <UNK> nìkan ni ọkàn mi ti rí ìsinmi
+
+- source: igbala mi ti odo re wa
+- expected: ìgbàlà mi ti ọdọ rẹ wá
+- got: <UNK> mi ti <UNK> rẹ wá
+
+- source: oun nikan ni apata mi ati igbala mi
+- expected: òun nìkan ní àpáta mi àti ìgbàlà mi
+- got: òun nìkan ni àpáta mi àti <UNK> mi
+
+- source: eyin o ti maa rolu eniyan kan pe to
+- expected: ẹyin ó ti máa rọlù ènìyàn kan pẹ tó
+- got: ẹyin ó ti máa <UNK> ènìyàn kan tó pé
+
+- source: inu won dun si iro
+- expected: inú wọn dùn sí irọ
+- got: inú wọn dùn sí <UNK>
+
+- source: ireti mi wa lati odo re
+- expected: ìrètí mi wá láti ọdọ rẹ
+- got: ìrètí mi wá láti <UNK> rẹ
+
+- source: oun nikan ni apata ati igbala mi
+- expected: òun nìkan ní àpáta àti ìgbàlà mi
+- got: òun nìkan ni àpáta àti ìgbàlà mi
+
+- source: igbala mi ati ogo mi duro ninu olorun
+- expected: ìgbàlà mi àti ògo mí dúró nínú ọlọrun
+- got: <UNK> mi àti ògo mi dúró nínú <UNK>
+
+- source: oun ni apata nla mi ati aabo mi
+- expected: òun ní àpáta ńlá mi àti ààbò mi
+- got: òun ni àpáta ńlá àti mi ààbò mi
+
+- source: gbekele ni gbogbo igba eyin eniyan
+- expected: gbẹkẹlé ní gbogbo ìgbà ẹyin ènìyàn
+- got: <UNK> ni gbogbo ìgbà ìgbà ènìyàn
+
+- source: a o te okan mi lorun bi oloraa ounje
+- expected: a ó tẹ ọkàn mi lọrùn bí ọlọràá oúnjẹ
+- got: a ó tẹ ọkàn mi <UNK> bí oúnjẹ <UNK>
+
+- source: pelu ete iyin enu mi yoo yin o
+- expected: pẹlú ètè ìyìn ẹnu mi yóò yìn ọ
+- got: <UNK> ètè ìyìn ẹnu mi yóò yín ọ
+
+- source: nigba ti mo ranti re lori ibusun mi
+- expected: nígbà tí mo rántí rẹ lórí ìbusùn mi
+- got: nígbà tí mo rántí rẹ lórí mi <UNK>
+
+- source: emi n ronu re titi iso oru
+- expected: èmi ń ronú rẹ títí iṣọ òru
+- got: èmi ń ronú rẹ títí <UNK> òru
+
+- source: okan mi fa si o
+- expected: ọkàn mí fà sí ọ
+- got: ọkàn mi fà sí ọ
+
+- source: owo otun re gbe mi ro
+- expected: ọwọ ọtún rẹ gbé mi ró
+- got: <UNK> <UNK> rẹ gbé mi rọ
+
+- source: won o sokale lo si isale ile aye
+- expected: wọn o sọkalẹ lọ sí ìṣàlẹ ilẹ ayé
+- got: wọn ó <UNK> lọ sí <UNK> ilẹ ayé
+
+- source: won tafa ni koko si awon alailese
+- expected: wọn tafà ní kọkọ sí àwọn aláìlẹṣẹ
+- got: wọn <UNK> ni <UNK> sí àwọn <UNK>
+
+- source: won tafa si lojiji won ko si beru
+- expected: wọn tafà sí lojijì wọn kò sì bẹrù
+- got: wọn <UNK> sí lójijì wọn kò sì <UNK>
+
+- source: sugbon olorun yoo ta won ni ofa
+- expected: ṣùgbọn ọlọrun yóò ta wọn ní ọfà
+- got: <UNK> <UNK> yóò ta wọn ní ọfà
+
+- source: won o si gbogbe lojiji
+- expected: wọn ó sì gbọgbẹ lójijì
+- got: wọn ó sì <UNK> lójijì
+
+- source: iyin n duro de o olorun ni sioni
+- expected: ìyìn ń dúró dè ọ ọlọrun ni síónì
+- got: ìyìn ń dúró de ọ <UNK> ni síónì
+
+- source: si o ni a o mu eje wa se
+- expected: sì ọ ni a o mú ẹjẹ wa ṣẹ
+- got: sí ọ ni a ó mú <UNK> wá ṣe
+
+- source: iwo be aye wo o si bomirin
+- expected: ìwọ bẹ ayé wò o sì bomirin
+- got: ìwọ bẹ ayé wo ó sì <UNK>
+
+- source: iwo mu ni oro pupo
+- expected: ìwọ mú ní ọrọ púpọ
+- got: ìwọ mú ni <UNK> <UNK>
+
+- source: gbogbo aye n wole fun o
+- expected: gbogbo ayé ń wólẹ fún ọ
+- got: gbogbo ayé ń <UNK> fún ọ
+
+- source: emi o ru ako maluu ati ewure
+- expected: èmi o rú akọ màlúù àti ewúrẹ
+- got: èmi ó rú akọ màlúù àti <UNK>
+
+- source: mo fi enu mi kigbe soke si i
+- expected: mo fi ẹnu mi kígbe sókè sí i
+- got: mo fi ẹnu mi kígbe sókè sí i
+
+- source: iyin re wa ni enu mi
+- expected: ìyìn rẹ wà ní ẹnu mi
+- got: ìyìn rẹ wà ní ẹnu mi
+
+- source: ki awon eniyan ki o yin o olorun
+- expected: kí àwọn ènìyàn kí ó yìn ọ ọlọrun
+- got: kí àwọn ènìyàn kí ó yìn ọ <UNK>
+
+- source: ki awon eniyan ki o yin o olorun
+- expected: kí àwọn ènìyàn kí ó yìn ọ ọlọrun
+- got: kí àwọn ènìyàn kí ó yìn ọ <UNK>
+
+- source: ki gbogbo eniyan ki o yin o
+- expected: kí gbogbo ènìyàn kí ó yìn ọ
+- got: kí gbogbo ènìyàn kí ó yìn ọ
+
+- source: ki awon ota re ki o sa niwaju re
+- expected: kí àwọn ọta rẹ kí ó sá níwájú rẹ
+- got: kí àwọn <UNK> rẹ kí ó sá níwájú rẹ
+
+- source: iwo fun wa ni opolopo ojo olorun
+- expected: ìwọ fún wa ní ọpọlọpọ òjò ọlọrun
+- got: ìwọ fún wa ní <UNK> <UNK>
+
+- source: awon oba ati awon ologun yara salo
+- expected: àwọn ọba àti àwọn ológun yára sálọ
+- got: àwọn ọba àti àwọn ológun sálọ sálọ
+
+- source: oke basani je oke olorun
+- expected: òkè básánì jẹ òkè ọlọrun
+- got: òkè <UNK> jẹ òkè <UNK>
+
+- source: oke ti o ni ori pupo ni oke basani
+- expected: òkè tí ó ní orí púpọ ní òkè básánì
+- got: òkè tí ó ní orí <UNK> ni òkè <UNK>
+
+- source: egberun mewaa ni keke ogun olorun egberun lona egberun
+- expected: ẹgbẹrún mẹwàá ní kẹkẹ ogun ọlọrun ẹgbẹrún lọnà ẹgbẹrún
+- got: <UNK> <UNK> ni <UNK> ogun <UNK> <UNK> <UNK> <UNK>
+
+- source: iwo ti gba ebun fun eniyan
+- expected: ìwọ ti gbà ẹbùn fún ènìyàn
+- got: ìwọ ti gba <UNK> fún ènìyàn
+
+- source: je ki etiopia na owo re si olorun
+- expected: jẹ kí etiópíà na ọwọ rẹ sí ọlọrun
+- got: jẹ kí <UNK> nà <UNK> rẹ sí <UNK>
+
+- source: iwo ni eru olorun ni ibi mimo re
+- expected: ìwọ ní ẹrù ọlọrun ní ibi mímọ rẹ
+- got: ìwọ ni ẹrù <UNK> ni ibi <UNK> rẹ
+
+- source: olubukun ni olorun  saamu
+- expected: olùbùkún ní ọlọrun  sáàmù
+- got: <UNK> ni <UNK> <UNK>
+
+- source: gbami olorun nitori omi ti kun de orun mi
+- expected: gbàmí ọlọrun nítorí omi tí kún dé ọrùn mi
+- got: <UNK> <UNK> nítorí omi ti kún un mi dé
+
+- source: mo ti wa sinu omi jinjin
+- expected: mo ti wá sínú omi jínjìn
+- got: mo ti wá sínú omi <UNK>
+
+- source: ikun omi bo mi mole
+- expected: ìkún omi bò mí mólẹ
+- got: <UNK> omi bò mi <UNK>
+
+- source: agara da mi mo n pe fun iranlowo
+- expected: agara dá mi mo ń pè fún ìrànlọwọ
+- got: <UNK> dá mi mo ń pè fún <UNK>
+
+- source: iwo mo omugo mi olorun
+- expected: ìwọ mọ òmùgọ mi ọlọrun
+- got: ìwọ mọ <UNK> mi <UNK>
+
+- source: ebi mi ko pamo loju re
+- expected: ẹbi mi kò pamọ lójú rẹ
+- got: <UNK> mi kò <UNK> lójú rẹ
+
+- source: mo je ajeji si awon arakunrin mi
+- expected: mo jẹ àjèjì si àwọn arákùnrin mi
+- got: mo jẹ àjèjì sí àwọn arákùnrin mi
+
+- source: alejo si awon arakunrin iya mi
+- expected: àlejò sí àwọn arákùnrin ìyá mi
+- got: àlejò sí àwọn arákùnrin ìyá mi
+
+- source: da mi lohun oluwa ninu iseun ife re
+- expected: dá mí lóhùn olúwa nínú ìṣeun ìfẹ rẹ
+- got: dá mi lóhùn nínú olúwa <UNK> rẹ
+
+- source: ninu opo aanu re yipada si mi
+- expected: nínú ọpọ àánú rẹ yípadà sí mi
+- got: nínú <UNK> àánú rẹ yípadà sí mi
+
+- source: yara da mi lohun nitori mo wa ninu iponju
+- expected: yára dá mi lóhùn nítorí mo wà nínú ìpọnjú
+- got: yàrá dá mi lóhùn nítorí mo wà nínú <UNK>
+
+- source: sunmo tosi ki o si gba mi la
+- expected: súnmọ tòsí kí ó sì gbà mí là
+- got: <UNK> kí o sì gbà mi là
+
+- source: ra mi pada nitori awon ota mi
+- expected: rà mí padà nítorí àwọn ọta mi
+- got: ra mi padà nítorí àwọn <UNK> mi
+
+- source: iwo ti mo egan mi itiju mi ati ailola
+- expected: ìwọ tí mọ ẹgàn mi ìtìjú mi àti àìlọlá
+- got: ìwọ ti mọ <UNK> mi ìtìjú mi àti <UNK>
+
+- source: gbogbo awon ota mi wa niwaju re
+- expected: gbogbo àwọn ọta mi wà níwájú rẹ
+- got: gbogbo àwọn <UNK> mi wá níwájú rẹ
+
+- source: tu ibinu re jade si won
+- expected: tú ìbínú rẹ jáde sí wọn
+- got: tú ìbínú rẹ jáde sí wọn
+
+- source: ki ibinu gbigbona re bo won mole
+- expected: kí ìbínú gbígbóná rẹ bò wọn mọlẹ
+- got: kí ìbínú gbígbóná rẹ bò wọn <UNK>
+
+- source: ki ibujokoo won di ahoro
+- expected: kí ibùjókòó wọn di ahoro
+- got: kí ohun wọn di ahoro
+
+- source: ki enikeni ma se gbe ninu won
+- expected: kí ẹnikẹni má ṣe gbé nínú wọn
+- got: kí <UNK> má ṣe gbé nínú wọn
+
+- source: ma se je ki won pin ninu igbala re
+- expected: má ṣe jẹ kí wọn pín nínú ìgbàlà rẹ
+- got: má ṣe jẹ kí wọn pín nínú <UNK> rẹ
+
+- source: awon otosi yoo ri won yoo si yo
+- expected: àwọn òtòsì yóò rí wọn yóò sì yọ
+- got: àwọn <UNK> yóò rí wọn yóò sì yọ
+
+- source: oluwa olorun mi aabo mi wa ninu re
+- expected: olúwa ọlọrun mi ààbò mi wà nínú rẹ
+- got: olúwa <UNK> mi ààbò mi wà nínú rẹ
+
+- source: sela dide oluwa ninu ibinu re
+- expected: sela dìde olúwa nínú ìbínú rẹ
+- got: <UNK> dìde olúwa nínú ìbínú rẹ
+
+- source: dide lodi si irunu awon ota mi
+- expected: dìde lòdì sí ìrunú àwọn ọta mi
+- got: dìde lòdì sí <UNK> àwọn <UNK> mi
+
+- source: ki ipejo awon eniyan yi ka
+- expected: kí ìpéjọ àwọn ènìyàn yí ká
+- got: kí <UNK> àwọn ènìyàn yí ká
+
+- source: joba lori won lati oke wa
+- expected: jọba lórí wọn láti òkè wá
+- got: jọba lórí wọn láti òkè wá
+
+- source: je ki oluwa se idajo awon eniyan
+- expected: jẹ kí olúwa ṣe ìdájọ àwọn ènìyàn
+- got: jẹ kí olúwa ṣe <UNK> àwọn ènìyàn
+
+- source: o ti pese ofa ina sile
+- expected: ó ti pèṣè ọfà iná sílẹ
+- got: ó ti pèṣè ọfà <UNK>
+
+- source: wahala ti o fa pada sori re
+- expected: wàhálà tí ó fà padà sórí rẹ
+- got: wàhálà tí ó fa padà sórí rẹ
+
+- source: iwa ipa re pada sori ara re
+- expected: ìwà ipá rẹ padà sórí ara rẹ
+- got: ìwà ipá rẹ padà sórí ara rẹ
+
+- source: wa kankan si odo mi olorun
+- expected: wa kánkán sí ọdọ mi ọlọrun
+- got: wá kankan sí <UNK> mi <UNK>
+
+- source: iwo ni oluranlowo ati olutusile mi
+- expected: ìwọ ni olùrànlọwọ àti olùtúsílẹ mi
+- got: ìwọ ni <UNK> àti <UNK> mi
+
+- source: oluwa ma se duro pe
+- expected: olúwa má ṣe dúró pẹ
+- got: olúwa má ṣe dúró pè
+
+- source: ninu re oluwa ni mo ni aabo
+- expected: nínú rẹ olúwa ní mo ní ààbò
+- got: nínú rẹ olúwa ni mo ní ààbò
+
+- source: ma se je ki oju ki o ti mi
+- expected: má ṣe jẹ kí ojú kí ó tì mí
+- got: má ṣe jẹ kí ojú kí ó ti mi
+
+- source: ko eti re simi ki o si gba mi
+- expected: kọ etí rẹ sími kí o sì gbà mí
+- got: kò etí rẹ sími kí o sì gbà mi
+
+- source: ma se jinna si mi olorun
+- expected: má ṣe jìnnà sí mi ọlọrun
+- got: má ṣe jìnnà sí mi <UNK>
+
+- source: wa kankan olorun mi lati ranmi lowo
+- expected: wa kánkán ọlọrun mi láti rànmí lọwọ
+- got: wá kankan <UNK> mi láti <UNK> <UNK>
+
+- source: sugbon ni temi igba gbogbo ni ireti mi
+- expected: ṣùgbọn ní tèmí ìgbà gbogbo ní ìrètí mi
+- got: <UNK> ní tèmi ìgbà gbogbo ìgbà mi ni
+
+- source: emi o yin o siwaju ati siwaju si i
+- expected: èmi ó yìn ọ síwájú àti síwájú sì i
+- got: èmi ó yìn ọ ṣíwájú àti ṣíwájú sí i
+
+- source: emi o wa lati wa kede agbara oluwa olorun
+- expected: èmi ó wá láti wá kéde agbára olúwa ọlọrun
+- got: èmi ó wá láti kéde agbára olúwa <UNK> olúwa
+
+- source: emi o kede ododo re nikan
+- expected: èmi ó kéde òdodo rẹ nìkan
+- got: èmi ó kéde òdodo rẹ nìkan
+
+- source: emi eni ti o rapada
+- expected: èmi ẹni tí o ràpadà
+- got: èmi ẹni tí ó <UNK>
+
+- source: yoo si fa awon aninilara ya
+- expected: yóò sì fa àwọn aninilára ya
+- got: yóò sì fà àwọn <UNK> ya ya
+
+- source: ki ikunwo oka wa lori ile
+- expected: kí ìkúnwọ ọkà wà lórí ilẹ
+- got: kí <UNK> ọkà wà lórí ilẹ
+
+- source: ki oruko re ki o wa titi lae
+- expected: kí orúkọ rẹ kí o wà títí láé
+- got: kí orúkọ rẹ kí o wá títí láé
+
+- source: olubukun ni oruko re ti o logo titi lae
+- expected: olùbùkun ni orúkọ rẹ tí ó lógo títí láé
+- got: <UNK> ni orúkọ rẹ tí ó lógo títí láé
+
+- source: ki gbogbo aye kun fun ogo re
+- expected: kí gbogbo ayé kún fún ògo rẹ
+- got: kí gbogbo ayé kún fún ògo rẹ
+
+- source: eyi ni ipari adura dafidi omo jese
+- expected: èyí ni ìpàrí àdúrà dáfídì ọmọ jéṣè
+- got: èyí ni ìparí àdúrà dáfídì ọmọ jésè
+
+- source: nitooto olorun dara fun isireli fun awon olokan funfun
+- expected: nítòótọ ọlọrun dára fún ísírẹlì fún àwọn ọlọkàn funfun
+- got: <UNK> <UNK> dára fún <UNK> fún àwọn <UNK> funfun
+
+- source: irin mi fere yo tan
+- expected: ìrìn mi fẹrẹ yọ tán
+- got: ìrìn mi fèrè yọ tán
+
+- source: ara won mokun won si lagbara
+- expected: ara wọn mókun wọn sì lágbára
+- got: ara wọn <UNK> wọn sì lágbára
+
+- source: a ko pon won loju nipa elomiran
+- expected: a kò pọn wọn lójú nípa ẹlomíràn
+- got: a kò <UNK> wọn lójú nípa ẹlòmíràn
+
+- source: igberaga ni oso orun won
+- expected: ìgbéraga ni ọṣọ ọrùn wọn
+- got: ìgbéraga ni <UNK> ọrun wọn
+
+- source: iwa ipa bo won mole bi aso
+- expected: ìwà ìpá bò wọn mọlẹ bí aṣọ
+- got: ìwà ipá bọ wọn <UNK> bí aṣọ
+
+- source: lati inu okan arekereke ni aisododo ti wa
+- expected: láti inú ọkàn àrékérekè ni àìsòdodo ti wá
+- got: láti inú ọkàn <UNK> ni <UNK> ti wá
+
+- source: won wi pe bawo ni olorun yoo se mo
+- expected: wọn wí pé báwo ni ọlọrun yóò ṣe mọ
+- got: wọn wí pé báwo ni <UNK> yóò ṣe mọ
+
+- source: oga ogo ha ni imo bi
+- expected: ọgá ògo ha ní ìmọ bí
+- got: <UNK> ògo ha ni <UNK> bí
+
+- source: nitooto ninu asan ni mo pa okan mi mo
+- expected: nítòótọ nínú asán ni mo pa ọkàn mi mọ
+- got: <UNK> nínú aṣán ni mo pa ọkàn mi mọ
+
+- source: ninu asan ni mo we owo mi ni ailese
+- expected: nínú asán ni mo wẹ ọwọ mi ní àìlẹsẹ
+- got: nínú aṣán ni mo wẹ <UNK> mi ní <UNK>
+
+- source: ni gbogbo ojo ni a n yo mi lenu
+- expected: ní gbogbo ọjọ ni a ń yọ mí lẹnu
+- got: ní gbogbo <UNK> ni a ń yọ mí <UNK>
+
+- source: a si n je mi niya ni gbogbo owuro
+- expected: a sì ń jẹ mí níyà ní gbogbo òwúrọ
+- got: a sì ń jẹ mi níyà ní gbogbo <UNK>
+
+- source: ti ti mo fi wo ibi mimo olorun
+- expected: tí tí mo fi wọ ibi mímọ ọlọrun
+- got: tí mo ti fi wò ibi <UNK> <UNK>
+
+- source: mo je eranko ni iwaju re
+- expected: mo jẹ ẹranko ní ìwájú rẹ
+- got: mo jẹ ẹranko <UNK> ní iwájú rẹ
+
+- source: sibe mo wa pelu re nigba gbogbo
+- expected: ṣíbẹ mo wà pẹlú rẹ nígbà gbogbo
+- got: <UNK> mo wà <UNK> rẹ nígbà gbogbo
+
+- source: iwo di owo otun mi mu
+- expected: ìwọ di ọwọ ọtún mi mú
+- got: ìwọ di <UNK> <UNK> mi mú
+
+- source: ki emi o le maa soro ise re
+- expected: kí èmi ó lè máa sọrọ iṣẹ rẹ
+- got: kí èmi ó máa lé máa <UNK> rẹ
+
+- source: a ko fun wa ni ami ise iyanu kankan
+- expected: a kò fún wa ní àmì iṣẹ ìyanu kankan
+- got: a kò fún wa ní àmì <UNK> ìyanu kankan
+
+- source: o mu igbala wa sori ile aye
+- expected: ó mú ìgbàlà wá sórí ilẹ ayé
+- got: ó mú ìgbàlà wá sórí ilẹ ayé
+
+- source: iwo ni o la okun sile nipa agbara re
+- expected: ìwọ ni ó la òkun sílẹ nípa agbára rẹ
+- got: ìwọ ni ó là <UNK> okùn <UNK> nípa agbára rẹ
+
+- source: iwo fi idi oorun ati osupa lele
+- expected: ìwọ fi ìdí òòrùn àti òṣùpá lélẹ
+- got: ìwọ fi <UNK> òórùn àti àsírí <UNK>
+
+- source: iwo ya orisun omi ati isan omi
+- expected: iwọ ya orísun omi àti iṣàn omi
+- got: ìwọ ya <UNK> omi àti <UNK> omi
+
+- source: iwo ya oorun ati osupa
+- expected: ìwọ yà oòrùn àti òsùpá
+- got: ìwọ ya oòrùn àti àsírí
+
+- source: iwo da igba eerun ati igba otutu
+- expected: ìwọ dá ìgbà ẹẹrùn àti ìgbà òtútù
+- got: ìwọ dá ìgbà <UNK> àti ìgbà <UNK>
+
+- source: dide olorun gba ejo ara re ro
+- expected: dìde ọlọrun gba ẹjọ ara rẹ rò
+- got: dìde <UNK> gba <UNK> ara rẹ rọ
+
+- source: awon eniyan n so ti iyanu re
+- expected: àwọn ènìyàn ń sọ ti ìyanu rẹ
+- got: àwọn ènìyàn ń sọ ti ìyanu rẹ
+
+- source: iwo wi pe mo yan akoko iyasoto
+- expected: ìwọ wí pé mo yan àkókò ìyàsọtọ
+- got: ìwọ wí pé mo yàn àkókò <UNK>
+
+- source: emi ni eni ti n se idajo ododo
+- expected: èmi ni ẹni tí ń ṣe ìdájọ òdodo
+- got: èmi ni ẹni tí ń ṣe <UNK> òdodo
+
+- source: e ma se gbe iwo yin soke
+- expected: ẹ má ṣe gbé ìwo yín sókè
+- got: ẹ má ṣe gbé ìwọ sókè
+
+- source: e maa se gbe iwo yin soke si orun
+- expected: ẹ máa ṣe gbe ìwo yín sókè sí ọrun
+- got: ẹ máa ṣe gbé yín ìwọ sókè sí ọrun
+
+- source: e ma se soro pelu orun lile
+- expected: ẹ má ṣe sọrọ pẹlú ọrùn líle
+- got: ẹ má ṣe <UNK> <UNK> ọrun líle
+
+- source: sugbon emi o maa royin re titi lae
+- expected: ṣùgbọn èmi ó máa ròyìn rẹ títí láé
+- got: <UNK> èmi ó máa <UNK> rẹ títí láé
+
+- source: ni juda ni a mo olorun
+- expected: ní júdà ni a mọ ọlọrun
+- got: ni júdà ni a mọ <UNK>
+
+- source: iwo nikan ni o ye ki a beru
+- expected: ìwọ nìkan ni o yẹ kí a bẹrù
+- got: ìwọ nìkan ni ó yẹ kí a <UNK>
+
+- source: o ke emi awon alade kuro
+- expected: ó ké ẹmí àwọn aládé kúrò
+- got: ó ké èmi àwọn aládé kúrò
+
+- source: awon oba aye si n beru re
+- expected: àwọn ọba ayé sì n bẹrù rẹ
+- got: àwọn ọba ayé sì ń <UNK> rẹ
+
+- source: mo kigbe si olorun fun iranlowo
+- expected: mó kígbe sí ọlọrun fún ìrànlọwọ
+- got: mo kígbe sí <UNK> fún <UNK>
+
+- source: mo kigbe si olorun lati gbo temi
+- expected: mo kígbe sí ọlọrun láti gbọ tèmi
+- got: mo kígbe sí <UNK> láti <UNK> tèmi
+
+- source: nigba ti mo wa ninu iponju mo wa oluwa
+- expected: nígbà tí mo wà nínú ìpọnjú mo wá olúwa
+- got: nígbà tí mo wà nínú <UNK> mọ olúwa wa
+
+- source: emi ranti i re olorun mo si kedun
+- expected: èmi rántí i rẹ ọlọrun mo sì kẹdùn
+- got: èmi rántí i rẹ <UNK> mọ sí <UNK>
+
+- source: mo se aroye emi mi si rewesi
+- expected: mo ṣe àroyé ẹmí mi sì rẹwẹsì
+- got: mo ṣe <UNK> èmi mi sí <UNK>
+
+- source: mo ronu nipa ojo igbaani
+- expected: mo ronú nípa ọjọ ìgbàanì
+- got: mo ronú nípa <UNK> <UNK>
+
+- source: mo ranti orin mi ni oru
+- expected: mo rántí orin mi ní òru
+- got: mo rántí orin mi ni òru
+
+- source: oluwa yoo ha ko titi lae
+- expected: olúwa yóò ha kọ títí láé
+- got: olúwa yóò ha kọ títí láé
+
+- source: ileri re ha kuna titi aye
+- expected: ìlérí rẹ ha kùnà títí ayé
+- got: ìlérí rẹ ha kùnà ayé ayé
+
+- source: olorun ha gbagbe lati maa saanu
+- expected: ọlọrun ha gbàgbé láti máa ṣàánú
+- got: <UNK> ha gbàgbé láti máa <UNK>
+
+- source: emi o ranti ise oluwa
+- expected: èmi ó rántí iṣẹ olúwa
+- got: èmi ó rántí <UNK> olúwa
+
+- source: olorun ona re je mimo
+- expected: ọlọrun ọnà rẹ jẹ mímọ
+- got: <UNK> ọnà rẹ jẹ <UNK>
+
+- source: olorun wo ni o si tobi bi olorun wa
+- expected: ọlọrun wo ní ó sì tóbi bí ọlọrun wa
+- got: <UNK> wo ni ó sì tóbi bí <UNK> wa
+
+- source: iwo ni olorun to n se iyanu
+- expected: ìwọ ni ọlọrun tó ń ṣe ìyanu
+- got: ìwọ ni <UNK> tọ ń ṣe ìyanu
+
+- source: iwo fi agbara re han ninu awon eniyan
+- expected: ìwọ fi agbára rẹ hàn nínú àwọn ènìyàn
+- got: ìwọ fi agbára rẹ hàn nínú àwọn ènìyàn
+
+- source: aye beru won si wariri
+- expected: ayé bẹrù wọn sì wárìrì
+- got: ayé <UNK> wọn sì wárìrì
+
+- source: eyin eniyan mi e gbo eko mi
+- expected: ẹyin ènìyàn mi ẹ gbọ ẹkọ mi
+- got: ẹyin ènìyàn mi ẹ <UNK> <UNK> mi
+
+- source: teti re si oro enu mi
+- expected: tẹtí rẹ sí ọrọ ẹnu mi
+- got: <UNK> rẹ sí <UNK> ẹnu mi
+
+- source: ninu gbogbo iwonyi won n sa siwaju
+- expected: nínú gbogbo ìwọnyí wọn ń sá síwájú
+- got: nínú gbogbo <UNK> wọn ń sá ṣíwájú
+
+- source: won yoo fi itara yipada si i
+- expected: wọn yóò fi ìtara yípadà sí i
+- got: wọn yóò fi ìtara yípadà sí i
+
+- source: won ranti pe olorun ni apata won
+- expected: wọn rántí pé ọlọrun ní àpáta wọn
+- got: wọn rántí pé <UNK> ni àpáta wọn
+
+- source: won mu eni mimo isireli binu
+- expected: wọn mú ẹni mímọ ísírẹlì bínú
+- got: wọn mú ẹni <UNK> <UNK> bínú
+
+- source: won ko ranti agbara re
+- expected: wọn kò rántí agbára rẹ
+- got: wọn kò rántí agbára rẹ
+
+- source: won ko le mu lati odo won
+- expected: wọn kò le mú láti odò wọn
+- got: wọn kò lè mú láti mú <UNK> wọn
+
+- source: o so won gege bi aguntan ninu iha
+- expected: ó sọ wọn gẹgẹ bí àgùntàn nínú ihà
+- got: ó sọ sọ wọn bí àgùntàn nínú ihà
+
+- source: o mu awon eya isireli jokoo ni ile won
+- expected: ó mú àwọn ẹyà íṣírẹlì jókòó ní ilẹ wọn
+- got: ó mú àwọn <UNK> <UNK> jókòó ní ilẹ wọn
+
+- source: won ko pa ase re mo
+- expected: wọn kò pa àṣẹ rẹ mọ
+- got: wọn kò pa àṣẹ rẹ mọ
+
+- source: o kolu awon ota re pada
+- expected: ó kọlu àwọn ọta rẹ padà
+- got: ó kọlù àwọn <UNK> rẹ padà
+
+- source: o fi won sinu itiju ayeraye
+- expected: ó fí wọn sínú ìtìjú ayérayé
+- got: ó fi wọn sínú ìtìjú ayérayé
+
+- source: dafidi si so won pelu otito inu okan
+- expected: dáfídì sì ṣọ wọn pẹlú òtítọ inú ọkàn
+- got: dáfídì sì sọ wọn <UNK> <UNK> inú ọkàn
+
+- source: pelu owo oye ni o fi dari won
+- expected: pẹlú ọwọ òye ní ó fi darí wọn
+- got: <UNK> <UNK> òye ni ó fi dárí wọn
+
+- source: olorun awon orile ede ti wa ile ini re
+- expected: ọlọrun àwọn orílẹ èdè ti wà ilẹ ìní rẹ
+- got: <UNK> àwọn <UNK> èdè ti wá ilẹ ìní rẹ
+
+- source: ni iwo o maa binu titi lae
+- expected: ní ìwọ o máa bínú títí láé
+- got: ni ìwọ ó máa bínú títí láé
+
+- source: iwo muun joba lori gbogbo ise owo re
+- expected: ìwọ muun jọba lórí gbogbo iṣẹ ọwọ rẹ
+- got: ìwọ <UNK> jọba lórí gbogbo <UNK> <UNK> rẹ
+
+- source: iwo si fi ohun gbogbo si abe ese re
+- expected: ìwọ si fi ohun gbogbo sí abẹ ẹsẹ rẹ
+- got: ìwọ sì fi ohun gbogbo <UNK> sí <UNK> rẹ
+
+- source: gbo tiwa iwo oluso aguntan isireli
+- expected: gbọ tiwa ìwọ olùsọ àgùntàn ísírẹlì
+- got: <UNK> <UNK> ìwọ <UNK> àgùntàn <UNK>
+
+- source: iwo ti o dari josefu bi owo eran
+- expected: ìwọ tí ó darí jósẹfù bí ọwọ ẹran
+- got: ìwọ ti ó dárí <UNK> bí <UNK> ẹran
+
+- source: mu wa pada bo sipo iwo olorun
+- expected: mú wa padà bọ sípò ìwọ ọlọrun
+- got: mú wá padà bọ sípò
+
+- source: tun wa yipada iwo olorun
+- expected: tún wa yípadà ìwọ ọlọrun
+- got: tún wá yípadà ìwọ <UNK>
+
+- source: iwo mu ajara jade lati ejibiti
+- expected: ìwọ mú àjàrà jáde láti éjíbítì
+- got: ìwọ mú àjàrà jáde láti éjíbítì
+
+- source: iwo le awon alaikola jade o si gbinin
+- expected: ìwọ lé àwọn aláìkọlà jáde o sì gbìnín
+- got: ìwọ lé àwọn aláìkọlà jáde ó sì <UNK>
+
+- source: ni ifibu awon eniyan re n segbe
+- expected: ní ìfibú àwọn ènìyàn rẹ ń ṣègbé
+- got: ní <UNK> àwọn ènìyàn rẹ ń ṣègbé
+
+- source: nigba naa awa ki yoo yipada kuro lodo re
+- expected: nígbà náà àwa kí yóò yípadà kúrò lọdọ rẹ
+- got: nígbà náà àwa kì yóò yípadà kúrò <UNK> rẹ
+
+- source: tun wa yipada oluwa olorun
+- expected: tún wa yípadà olúwa ọlọrun
+- got: tún wà yípadà olúwa <UNK>
+
+- source: ni ojo ajo wa ti o ni ironu
+- expected: ní ọjọ àjọ wa ti ó ni ìrònú
+- got: ní <UNK> àjọ tí ó wà ní <UNK>
+
+- source: eyi ni ase fun isireli ati ofin olorun jakobu
+- expected: èyí ni àṣẹ fún ísírẹlì àti òfin ọlọrun jákọbù
+- got: èyí ni <UNK> fún <UNK> àti òfin <UNK> <UNK>
+
+- source: eyin ki yoo ni olorun ile miiran laarin yin
+- expected: ẹyin kì yóò ní ọlọrun ilẹ mìíràn láàrin yín
+- got: ẹyin kì yóò ní <UNK> ilé mìíràn láàrin yín
+
+- source: eyin ki yoo foribale fun olorun ajeji
+- expected: ẹyin kì yóò foríbalẹ fún ọlọrun àjèjì
+- got: ẹyin kì yóò <UNK> fún <UNK> àjèjì
+
+- source: sugbon awon eniyan mi ki yoo gbo temi
+- expected: ṣùgbọn àwọn ènìyàn mi kì yóò gbọ tèmi
+- got: <UNK> àwọn ènìyàn mi kì yóò <UNK> tèmi
+
+- source: isireli ko ni teriba fun mi
+- expected: ísírẹlì kò ní tẹríba fún mi
+- got: <UNK> kò ní tẹríba fún mi
+
+- source: gbeja awon alailagbara ati alaini baba
+- expected: gbèjà àwọn aláìlágbára àti aláìní baba
+- got: <UNK> àwọn <UNK> àti aláìní baba
+
+- source: se itoju eto awon alaini ati eni inilara
+- expected: ṣe ìtọjú ẹtọ àwọn aláìní àti ẹni ìnilára
+- got: ṣe <UNK> ètò àwọn aláìní àti ẹni <UNK>
+
+- source: gba awon alailagbara ati alaini
+- expected: gba àwọn aláìlágbára àti aláìní
+- got: gba àwọn <UNK> àti aláìní
+
+- source: gba won kuro lowo awon eniyan buburu
+- expected: gbà wọn kùró lọwọ àwọn ènìyàn búburú
+- got: gba wọn kúrò <UNK> àwọn ènìyàn búburú
+
+- source: won ko mo ohunkankan won ko loye ohunkankan
+- expected: wọn kò mọ ohunkankan wọn kò lóye ohunkankan
+- got: wọn kò mọ <UNK> wọn kò <UNK> <UNK>
+
+- source: won n rin kiri ninu okunkun
+- expected: wọn ń rìn kiri nínú òkùnkùn
+- got: wọn ń rìn kiri nínú òkùnkùn
+
+- source: a ni gbogbo ipinle aye
+- expected: a ni gbogbo ìpínlẹ ayé
+- got: a ní gbogbo <UNK> ayé
+
+- source: mo wi pe eyin ni olorun orisa
+- expected: mo wí pé ẹyin ní ọlọrun òrìṣà
+- got: mo wí pé ẹyin ni <UNK> òrìṣà
+
+- source: eyin ni gbogbo omo oga ogo julo
+- expected: ẹyin ní gbogbo ọmọ ọgá ògo jùlọ
+- got: ẹyin ni gbogbo ọmọ <UNK> ògo jùlọ
+
+- source: sugbon eyin o ku bi eniyan lasan
+- expected: ṣùgbọn ẹyin o kú bí ènìyàn lásán
+- got: <UNK> ẹyin ó kú bí ènìyàn lásán
+
+- source: eyin o subu bi okan ninu omo alade
+- expected: ẹyin ó ṣubú bí ọkan nínú ọmọ aládé
+- got: ẹyin ó ṣubú bí ọkàn nínú <UNK> ọmọ aládé
+
+- source: ma se dake olorun ma se duro je e
+- expected: má ṣe dákẹ ọlọrun má ṣe dúró jẹ ẹ
+- got: má ṣe <UNK> <UNK> má ṣe dúró jẹ ẹ
+
+- source: pelu arekereke ni won dite si awon eniyan re
+- expected: pẹlú àrékérekè ni wọn dìtẹ sí àwọn ènìyàn rẹ
+- got: <UNK> <UNK> ni <UNK> wọn sí àwọn ènìyàn rẹ
+
+- source: won gbimo lodi si awon ti o fe
+- expected: wọn gbìmọ lòdì sí àwọn tí ó fẹ
+- got: wọn <UNK> lòdì sí àwọn tí ó <UNK>
+
+- source: won gbimo po pelu okan kan
+- expected: wọn gbìmọ pọ pẹlú ọkàn kan
+- got: wọn <UNK> <UNK> <UNK> ọkàn kan
+
+- source: pe iwo nikan ni ogaogo julo lori gbogbo aye
+- expected: pé ìwọ níkan ní ọgáògo jùlọ lórí gbogbo ayé
+- got: pé ìwọ nìkan ni <UNK> jùlọ lórí gbogbo ayé
+
+- source: won o maa yin o titi lae
+- expected: wọn o máa yìn ọ títí láé
+- got: wọn ó máa yìn ọ títí láé
+
+- source: gbo adura mi oluwa olorun alagbara
+- expected: gbọ àdúrà mi olúwa ọlọrun alágbára
+- got: <UNK> àdúrà mi olúwa <UNK> alágbára
+
+- source: teti si mi olorun jakobu
+- expected: tẹtí sí mi ọlọrun jákọbù
+- got: <UNK> sí mi <UNK> <UNK>
+
+- source: fi oju aanu wo awon eni ami ororo re
+- expected: fi ojú àánú wò àwọn ẹni àmì òroro rẹ
+- got: fi ojú àánú wo àwọn ẹni àmì òróró rẹ
+
+- source: nitori oluwa olorun je oorun ati asa
+- expected: nítorí olúwa ọlọrun jẹ òòrun àti àṣà
+- got: nítorí olúwa <UNK> jẹ òórùn àti <UNK>
+
+- source: oluwa funni ni ojurere ati ola
+- expected: olúwa fúnni ní ojúrere àti ọlá
+- got: olúwa <UNK> ni ojúrere àti ọlá
+
+- source: iwo fi oju rere han fun ile re oluwa
+- expected: ìwọ fi ojú rere han fún ilé rẹ olúwa
+- got: ìwọ fi ojú rere hàn fún ilé rẹ olúwa
+
+- source: iwo mu ohun ini jakobu bo si po
+- expected: ìwọ mú ohun ìní jákọbù bọ sí pò
+- got: ìwọ mú ohun ìní <UNK> bọ sí <UNK>
+
+- source: iwo yoo ha maa binu si wa titi lae
+- expected: ìwọ yóò ha máa bínú sí wa títí láé
+- got: ìwọ yóò ha máa bínú bínú sí títí láé
+
+- source: emi o gbo ohun ti oluwa olorun yoo wi
+- expected: èmi ó gbọ ohun tí olúwa ọlọrun yóò wí
+- got: èmi ó <UNK> ohun tí olúwa <UNK> yóò wí
+
+- source: sugbon ma se je ki won pada si aimoye
+- expected: ṣùgbọn má ṣe jẹ kí wọn padà sí àìmòye
+- got: <UNK> má ṣe jẹ kí wọn padà sí <UNK>
+
+- source: ododo ati alaafia fenu ko ara won
+- expected: òdodo àti àlàáfíà fẹnu ko ara wọn
+- got: òdodo àti àlàáfíà <UNK> kò ara wọn
+
+- source: teti si ekun fun aanu
+- expected: tẹtí sí ẹkún fún àánú
+- got: <UNK> sí ẹkún fún àánú
+
+- source: won o mu ogo wa fun oruko re
+- expected: wọn o mú ògo wà fún orúkọ rẹ
+- got: wọn ó mú ògo wá fún orúkọ rẹ
+
+- source: iwo ti gba mi kuro ninu ogbun isa oku
+- expected: ìwọ ti gba mí kúrò nínú ọgbun ìsà okú
+- got: ìwọ ti gba mi kúrò nínú <UNK> isà òkú
+
+- source: awon onigberaga n doju ko mi olorun
+- expected: àwọn onígbéraga ń dojú kọ mí ọlọrun
+- got: àwọn <UNK> ń dojú kọ mi <UNK>
+
+- source: yipada si mi ki o si saanu fun mi
+- expected: yípadà sí mi kí ó sì ṣàánú fún mi
+- got: yípadà sí mi kí o sì ṣàánú fún mi
+
+- source: o ti fi ipile re sole sori oke mimo
+- expected: ó ti fi ìpilẹ rẹ sọlẹ sórí òkè mímọ
+- got: ó ti fi <UNK> rẹ <UNK> sórí òkè <UNK>
+
+- source: oluwa yoo ko ninu akosile awon eniyan re
+- expected: olúwa yóò kọ nínú àkọsílẹ àwọn ènìyàn rẹ
+- got: olúwa yóò kọ nínú <UNK> àwọn ènìyàn rẹ
+
+- source: eleyii ni a bi ni sioni
+- expected: eléyìí ni a bí ní síónì
+- got: eléyìí ni a bí ní síónì
+
+- source: de eti re si igbe mi
+- expected: dẹ etí rẹ sí igbe mi
+- got: dé etí rẹ sí <UNK> mi
+
+- source: ibinu re subu le mi gidigidi
+- expected: ìbínú rẹ ṣubú lé mi gidigidi
+- got: ìbínú rẹ ṣubú lé mi gidigidi
+
+- source: iwo ti fi awon iji re bori mi
+- expected: ìwọ ti fi àwọn ìjì rẹ borí mi
+- got: ìwọ ti fi àwọn <UNK> rẹ borí mi
+
+- source: oju mi kaanu nitori iponju
+- expected: ojú mi káànú nítorí ìpọnjú
+- got: ojú mi <UNK> nítorí <UNK>
+
+- source: mo kigbe pe o oluwa ni gbogbo ojo
+- expected: mo kígbe pè ọ olúwa ní gbogbo ọjọ
+- got: mo kígbe pé o olúwa ní gbogbo <UNK>
+
+- source: mo na owo mi jade si o
+- expected: mo na ọwọ mí jáde sí ọ
+- got: mo nà <UNK> mi jáde sí ọ
+
+- source: iwo o fi ise iyanu re han fun oku
+- expected: ìwọ ó fi iṣẹ ìyanu rẹ hàn fún òkú
+- got: ìwọ ó fi <UNK> ìyanu rẹ hàn fún òkú
+
+- source: awon oku yoo ha dide lati yin o bi
+- expected: àwọn òkú yóò ha dìde láti yín ọ bí
+- got: àwọn òkú yóò ha dìde láti yín ọ bí
+
+- source: tabi otito re ni ipo iparun
+- expected: tàbí òtítọ rẹ ni ipò iparun
+- got: tàbí <UNK> rẹ ni ipò ìparun
+
+- source: sugbon mo kigbe si o fun iranlowo oluwa
+- expected: ṣùgbọn mo kígbe sí ọ fún ìrànlọwọ olúwa
+- got: <UNK> mo kígbe sí ọ fún <UNK> olúwa
+
+- source: ni owuro ni adura mi wa sodo re
+- expected: ní òwúrọ ní àdúrà mí wá sọdọ rẹ
+- got: ní <UNK> ni àdúrà mi wá <UNK> rẹ
+
+- source: okunkun si je ore timotimo mi
+- expected: òkùnkùn sì jẹ ọrẹ tímọtímọ mi
+- got: òkùnkùn sì jẹ ọrẹ <UNK> mi
+
+- source: emi korin titobi ife oluwa titi lae
+- expected: èmi kọrin títóbi ìfẹ olúwa títí láé
+- got: èmi kọrin títóbi <UNK> olúwa títí láé
+
+- source: ninu ajo igbimo eni mimo won beru olorun gidigidi
+- expected: nínú àjọ ìgbìmọ ẹni mímọ wọn bẹrù ọlọrun gidigidi
+- got: nínú àjọ <UNK> ẹni <UNK> wọn <UNK> gidigidi
+
+- source: iwo n dari riru omi okun
+- expected: ìwọ ń darí ríru omi òkun
+- got: ìwọ ń dárí <UNK> omi òkun
+
+- source: tire ni awon orun aye pelu je tire
+- expected: tìrẹ ní àwọn ọrun ayé pẹlú jẹ tìrẹ
+- got: tìrẹ ni àwọn ọrun ayé <UNK> jẹ <UNK>
+
+- source: aye ati ohun gbogbo ti o wa ninu re
+- expected: ayé àti ohun gbogbo tí ó wà nínú rẹ
+- got: ayé àti ohun gbogbo tí ó wà nínú rẹ
+
+- source: iwo ti gbe won kale
+- expected: ìwọ ti gbé wọn kalẹ
+- got: ìwọ ti gbé wọn <UNK>
+
+- source: gusu ati ariwa iwo ni o da won
+- expected: gúṣù àti àríwá ìwọ ní ó dá wọn
+- got: gúsù àti àríwá àríwá ni ìwọ ó dá wọn
+
+- source: tabori ati hamoni n fi ayo yin oruko re
+- expected: taborí àti hámónì ń fi ayọ yìn orúkọ rẹ
+- got: <UNK> àti <UNK> ń fi <UNK> yín orúkọ rẹ
+
+- source: agbara ni owo re giga ni owo otun re
+- expected: agbára ní ọwọ rẹ gíga ní ọwọ ọtún rẹ
+- got: agbára ni <UNK> rẹ gíga ní <UNK> <UNK> rẹ
+
+- source: ododo ati otito ni ipile ite re
+- expected: òdodo àti òtítọ ní ìpílẹ ìtẹ rẹ
+- got: òdodo àti <UNK> ni <UNK> <UNK> rẹ
+
+- source: iduro sinsin ife ati otito n lo siwaju re
+- expected: ìdúró ṣinṣin ìfẹ àti òtítọ ń lọ ṣíwájú rẹ
+- got: ìdúró ṣinṣin <UNK> àti <UNK> ń lọ ṣíwájú rẹ
+
+- source: nitori iwo ni ogo agbara won
+- expected: nítorí ìwọ ni ògo agbára wọn
+- got: nítorí ìwọ ni ògo agbára wọn
+
+- source: nipa ojurere ni iwo wa n sogo
+- expected: nípa ojúrere ni ìwọ wá ń ṣògo
+- got: nípa ojúrere <UNK> ni ìwọ ń wá ṣògo
+
+- source: emi ti ri dafidi iranse mi
+- expected: èmi tí rí dáfídì ìránṣẹ mi
+- got: èmi ti rí dáfídì <UNK> mi
+
+- source: pelu ororo mimo mi ni mo fi yan an
+- expected: pẹlú òróró mímọ mi ní mo fi yàn án
+- got: <UNK> òróró <UNK> mi ni mo fi yan án
+
+- source: emi ki yoo puro fun dafidi
+- expected: èmi kì yóò purọ fún dáfídì
+- got: èmi kì yóò <UNK> fún dáfídì
+
+- source: iwo kun fun irunu si eni ami ororo re
+- expected: ìwọ kún fún ìrunú sí ẹni àmì òróró rẹ
+- got: ìwọ kún fún <UNK> sí ẹni àmì òróró rẹ
+
+- source: iwo ti so majemu iranse re di ofo
+- expected: ìwọ tì sọ májẹmú ìránṣẹ rẹ di òfo
+- got: ìwọ ti sọ <UNK> <UNK> rẹ di òfo
+
+- source: awon ti n koja lo fi se ije
+- expected: àwọn tí ń kọjá lọ fi ṣe ìjẹ
+- got: àwọn tí ń kọjá lọ fi ṣe <UNK>
+
+- source: iwo mu gbogbo ota re yo
+- expected: ìwọ mú gbogbo ọtá rẹ yọ
+- got: ìwọ mú gbogbo <UNK> rẹ yọ
+
+- source: iwo ti ge ojo ewe re kuru
+- expected: ìwọ ti gé ọjọ èwé rẹ kúrú
+- got: ìwọ ti gé <UNK> èwe rẹ <UNK>
+
+- source: ta lo le sa kuro ninu agbara isaoku
+- expected: ta lo lé sa kúrò nínú agbára isàòkú
+- got: ta ló sá lé sá kúrò nínú agbára <UNK>
+
+- source: ranti oluwa bi ati n gan awon iranse re
+- expected: rántí olúwa bí àti ń gan àwọn ìránṣẹ rẹ
+- got: rántí olúwa bí àti ń <UNK> àwọn <UNK> rẹ
+
+- source: olubukun ni oluwa titi lae
+- expected: olùbùkún ní olúwa títí láé
+- got: <UNK> ni olúwa títí láé
+
+- source: emi o yin o oluwa pelu gbogbo okan mi
+- expected: èmi o yìn ọ olúwa pẹlú gbogbo ọkàn mi
+- got: èmi ó yìn ọ olúwa <UNK> gbogbo ọkàn mi
+
+- source: emi o so ti iyanu re gbogbo
+- expected: èmi o sọ ti ìyanu rẹ gbogbo
+- got: èmi ó sọ ti ìyanu rẹ gbogbo
+
+- source: won kose won si segbe niwaju re
+- expected: wọn kọsẹ wọn sì ṣègbé níwájú rẹ
+- got: wọn <UNK> wọn sì ṣègbé níwájú rẹ
+
+- source: nitori iwo ti di otito ati oran mi mu
+- expected: nítorí ìwọ ti di òtítọ àti ọràn mi mú
+- got: nítorí ìwọ ti di <UNK> àti <UNK> mi mú
+
+- source: iwo ti yo oruko won kuro lae ati laelae
+- expected: ìwọ ti yọ orúkọ wọn kúrò láé àti láéláé
+- got: ìwọ ti yọ orúkọ wọn kúrò láé àti láéláé
+
+- source: ani iranti won si ti segbe
+- expected: àní ìrántí wọn sì ti sègbé
+- got: àní ìrántí wọn sì ti ṣègbé
+
+- source: o ti gbe ite re kale fun idajo
+- expected: ó ti gbé ìtẹ rẹ kalẹ fún ìdájọ
+- got: ó ti gbé <UNK> rẹ fún <UNK> fún <UNK>
+
+- source: oun yoo si se idajo aye ni ododo
+- expected: òun yóò sì ṣe ìdájọ àyé ní òdodo
+- got: òun yóò sì ṣe <UNK> ayé ní òdodo
+
+- source: yoo se akoso eniyan pelu ododo
+- expected: yóò ṣe àkóso ènìyàn pẹlú òdodo
+- got: yóò ṣe àkóso ènìyàn <UNK> òdodo
+
+- source: kede laarin awon orile ede ohun ti o se
+- expected: kéde láàrin àwọn orílẹ èdè ohun tí o ṣe
+- got: kéde láàrin àwọn <UNK> èdè ohun tí ó ṣe
+
+- source: nitori eni ti o n gbesan eje ranti
+- expected: nítorí ẹni tí ó ń gbẹsan ẹjẹ rántí
+- got: nítorí ẹni tí ó ń <UNK> <UNK> rántí
+
+- source: oun ko ko ekun awon ti a pon loju
+- expected: òun kò kọ ẹkún àwọn tí a pọn lójú
+- got: òun kò kọ ẹkún àwọn tí a lójú <UNK>
+
+- source: ese won ni awon ti won de sile ko
+- expected: ẹsẹ wọn ni àwọn tí wọn dẹ sílẹ kọ
+- got: <UNK> wọn ni àwọn tí wọn dé <UNK> kọ
+
+- source: a mo oluwa nipa ododo re
+- expected: a mọ olúwa nípa òdodo rẹ
+- got: a mọ olúwa nípa òdodo rẹ
+
+- source: dide oluwa ma se je ki eniyan bori
+- expected: dìde olúwa má ṣe jẹ kí ènìyàn borí
+- got: dìde olúwa má ṣe jẹ kí ènìyàn borí
+
+- source: lu won pelu ipaya oluwa
+- expected: lù wọn pẹlú ìpayà olúwa
+- got: lu wọn <UNK> ìpayà olúwa
+
+- source: iwo gba eniyan danu ninu oorun iku
+- expected: ìwọ gbá ènìyàn dánù nínú oorun ikú
+- got: ìwọ gba ènìyàn dànù nínú òórùn dídùn
+
+- source: won dabi koriko tuntun ni owuro
+- expected: wọn dàbí koríko tuntun ní òwúrọ
+- got: wọn dàbí koríko tuntun ní <UNK>
+
+- source: aadorin odun ni iye ojo odun
+- expected: àádọrin ọdún ni iye ọjọ ọdún
+- got: <UNK> ọdún ni iye <UNK> ọdún
+
+- source: ta ni o mo agbara ibinu re
+- expected: ta ni ó mọ agbára ìbínú rẹ
+- got: ta ni ó mọ agbára ìbínú rẹ
+
+- source: gege bi eru re bee ni ibinu re
+- expected: gẹgẹ bí ẹrù rẹ bẹẹ ni ìbínú rẹ
+- got: <UNK> bí ẹrù rẹ <UNK> ni ìbínú rẹ
+
+- source: yipada oluwa  yoo ti pe to
+- expected: yípadà olúwa  yóò ti pẹ to
+- got: yípadà olúwa yóò ti pè tó
+
+- source: saanu fun awon omo odo re
+- expected: ṣàánú fún àwọn ọmọ ọdọ rẹ
+- got: ṣàánú fún àwọn ọmọ <UNK> rẹ
+
+- source: je ki ewa oluwa olorun wa wa lara wa
+- expected: jẹ kí ẹwa olúwa ọlọrun wa wà lára wa
+- got: jẹ kí olúwa <UNK> olúwa wa wà lára wa
+
+- source: otito re ni yoo se aabo ati odi mi
+- expected: òtítọ rẹ ni yóò ṣe ààbò àti odi mi
+- got: <UNK> rẹ ni yóò ṣe ààbò àti ààbò mi
+
+- source: iwo yoo rin lori kinniun ati paramole
+- expected: ìwọ yóò rìn lórí kìnnìún àti paramọlẹ
+- got: ìwọ yóò rìn lórí kìnnìún àti <UNK>
+
+- source: oun yoo pe mi emi yoo si daa lohun
+- expected: òun yóò pè mí èmi yóò sì dáa lóhùn
+- got: òun yóò pè èmi yóò sì lóhùn <UNK> lóhùn
+
+- source: emi korin ayo si ise owo re
+- expected: èmi kọrin ayọ sí iṣẹ ọwọ rẹ
+- got: èmi kọrin <UNK> sí <UNK> <UNK> rẹ
+
+- source: sugbon iwo oluwa ni a o gbega titi lae
+- expected: ṣùgbọn ìwọ olúwa ni a ó gbéga títí láé
+- got: <UNK> ìwọ olúwa ní a ó <UNK> títí láé
+
+- source: gbogbo awon oluse buburu ni a o fonka
+- expected: gbogbo àwọn olùṣe búburú ní a ó fọnká
+- got: gbogbo àwọn <UNK> búburú ni a ó <UNK>
+
+- source: ororo didara ni a da simi ni ori
+- expected: òróró dídára ni a dà sími ní orí
+- got: òróró <UNK> ni a dá sími ní orí
+
+- source: oju mi ti ri isubu awon ota mi
+- expected: ojú mi ti rí ìṣubú àwọn ọta mi
+- got: ojú mi ti rí <UNK> àwọn <UNK> mi
+
+- source: o fi idi aye mule
+- expected: ó fi ìdí ayé múlẹ
+- got: ó fi ìdí ayé <UNK>
+
+- source: ko si le e yi
+- expected: kò sì le è yí
+- got: kò sì le è yí
+
+- source: ijoba re wa lati ojo pipe
+- expected: ìjọba rẹ wà láti ọjọ pípẹ
+- got: ìjọba rẹ wá láti <UNK> <UNK>
+
+- source: iwo wa titi aye raye
+- expected: ìwọ wà títí ayé raye
+- got: ìwọ wà títí ayé <UNK>
+
+- source: okun ti gbe riru omi won soke
+- expected: òkun ti gbé rírú omi wọn sókè
+- got: òkun ti gbé <UNK> omi sókè wọn
+
+- source: gbe ara re soke iwo onidaajo aye
+- expected: gbé ara rẹ sókè ìwọ onídàájọ ayé
+- got: gbé ara rẹ ṣókè ìwọ ayé <UNK>
+
+- source: san esan fun agberaga ohun ti o ye won
+- expected: san ẹsan fún agbéraga ohun tí ó yẹ wọn
+- got: <UNK> <UNK> fún <UNK> ohun tí ó yẹ wọn
+
+- source: won n soro igberaga jade
+- expected: wọn ń sọrọ ìgbérága jáde
+- got: wọn ń <UNK> ìgbéraga jáde
+
+- source: gbogbo awon olusebuburu kun fun isogo
+- expected: gbogbo àwọn olùṣebúburú kún fún ìṣògo
+- got: gbogbo àwọn <UNK> kún fún <UNK>
+
+- source: won fo awon eniyan re tuutuu oluwa
+- expected: wọn fọ àwọn ènìyàn rẹ túútúú olúwa
+- got: wọn fọ àwọn ènìyàn rẹ olúwa túútúú
+
+- source: won pon ile ini re loju
+- expected: wọn pọn ilẹ ìní rẹ lójú
+- got: wọn <UNK> ilẹ ìní rẹ lójú
+
+- source: olorun jakobu ko si kiyesi i
+- expected: ọlọrun jákọbù kò sì kíyèsí i
+- got: <UNK> <UNK> kò sì kíyèsí i
+
+- source: eni ti o da oju
+- expected: ẹni tí ó dá ojú
+- got: ẹni tí ó dá ojú
+
+- source: o ha le se lairiran bi
+- expected: ó ha lè ṣe láìríran bi
+- got: ó ha lè ṣe <UNK> bí
+
+- source: oluwa mo ero inu eniyan
+- expected: olúwa mọ èrò inú ènìyàn
+- got: olúwa mo èrò inú ènìyàn
+
+- source: o mo pe asan ni won
+- expected: ó mọ pé aṣán ni wọn
+- got: ó mọ pé asán ni wọn
+
+- source: nitori oluwa ko ni ko awon eniyan re sile
+- expected: nítorí olúwa kò ní kọ àwọn ènìyàn rẹ sílẹ
+- got: nítorí olúwa kò ní kọ àwọn ènìyàn rẹ <UNK>
+
+- source: oun ko si ni ko ile ini re sile
+- expected: òun kò sì ní kọ ilẹ ìní rẹ sílẹ
+- got: òun kò sì ní kọ ní ilẹ ìní rẹ
+
+- source: e korin tuntun si oluwa
+- expected: ẹ kọrin tuntun sí olúwa
+- got: ẹ kọrin <UNK> sí olúwa
+
+- source: e korin si oluwa gbogbo aye
+- expected: ẹ kọrin sí olúwa gbogbo ayé
+- got: ẹ kọrin sí olúwa gbogbo ayé
+
+- source: nitori titobi ni oluwa eni ti iyin to si
+- expected: nítorí títóbi ní olúwa ẹni tí ìyìn tọ sí
+- got: nítorí títóbi ni olúwa ẹni tí ìyìn sí tọ
+
+- source: e wariri niwaju re gbogbo aye
+- expected: ẹ wárìrì níwájú rẹ gbogbo ayé
+- got: ẹ wárìrì níwájú rẹ gbogbo ayé
+
+- source: eni ti yoo fi otito se idajo eniyan
+- expected: ẹni tí yóò fi òtítọ ṣe ìdájọ ènìyàn
+- got: ẹni tí yóò fi <UNK> ṣe <UNK> ènìyàn
+
+- source: ina n jo niwaju re
+- expected: iná ń jó níwájú rẹ
+- got: iná ń jó níwájú rẹ
+
+- source: o si ga ju gbogbo orile ede lo
+- expected: o sì ga jù gbogbo orílẹ èdè lọ
+- got: ó sì ga ju gbogbo <UNK> èdè lọ
+
+- source: oluwa olorun wa o da won lohun
+- expected: olúwa ọlọrun wa ó dá wọn lóhùn
+- got: olúwa <UNK> wa ó dá wọn lóhùn
+
+- source: nitori igba ku si dede
+- expected: nítorí ìgbà kù sí dẹdẹ
+- got: nítorí ìgbà kú sí <UNK>
+
+- source: tire ni ogo ati ijoba lae ati laelae
+- expected: tirẹ ni ògo àti ìjọba láé àti láéláé
+- got: <UNK> ni ògo àti ìjọba <UNK> àti láéláé
+
+- source: kiyesi i o n bo ninu awosanmo
+- expected: kíyèsí i ó ń bọ nínú àwọsánmọ
+- got: kíyèsí i ó ń bọ nínú <UNK>
+
+- source: oju re si dabi owo ina
+- expected: ojú rẹ sì dàbí ọwọ iná
+- got: ojú rẹ sì dàbí <UNK> iná
+
+- source: ohun re si dabi iro omi pupo
+- expected: ohùn rẹ sì dàbí ìró omi púpọ
+- got: ohùn rẹ sì dàbí <UNK> omi <UNK>
+
+- source: o si ni irawo meje ni owo otun re
+- expected: ó sì ní ìràwọ méje ní ọwọ ọtún rẹ
+- got: ó sì ní <UNK> méje ní <UNK> <UNK> rẹ
+
+- source: emi ni eniisaju ati eniikeyin
+- expected: èmi ni ẹniìṣájú àti ẹniìkẹyìn
+- got: èmi ni <UNK> àti <UNK>
+
+- source: irawo meje ni awon angeli ijo meje naa
+- expected: ìràwọ méje ni àwọn ańgẹlì ìjọ méje náà
+- got: <UNK> méje ni àwọn <UNK> <UNK> ìjọ náà
+
+- source: ati opa fitila meje naa ni awon ijo meje
+- expected: àti ọpá fìtílà méje náà ní àwọn ìjọ méje
+- got: àti <UNK> fìtílà méje náà ni àwọn ìjọ méje
+
+- source: awon angeli ati iwe kekere
+- expected: àwọn ańgẹlì àti ìwé kékeré
+- got: àwọn <UNK> àti ìwé kékeré
+
+- source: o si dun lenu mi bi oyin
+- expected: ó sì dùn lẹnù mi bí oyin
+- got: ó sì dùn <UNK> mi bí oyin
+
+- source: nitori ti a fi fun awon alaikola
+- expected: nítorí tí a fi fún àwọn aláìkọlà
+- got: nítorí tí a fi fún àwọn aláìkọlà
+
+- source: eru nla si ba awon ti o ri won
+- expected: ẹrù ńlá sì ba àwọn tí o rí wọn
+- got: ẹrù ńlá sì bá àwọn tí ó rí wọn
+
+- source: angeli keje si fon ipe
+- expected: ańgẹlì kéje sì fọn ìpè
+- got: <UNK> keje sí fọn ìpè
+
+- source: ati lati run awon ti n pa aye run
+- expected: àti láti run àwọn tí ń pa ayé run
+- got: àti láti run àwọn tí ń pa ayé run
+
+- source: ami nla kan si han ni orun
+- expected: àmì ńlá kan sì hàn ni ọrun
+- got: àmì ńlá kan si hàn ní ọrun
+
+- source: ami miiran si han lorun
+- expected: àmì mìíràn sì hàn lọrun
+- got: àmì mìíràn sì hàn <UNK>
+
+- source: ogun si n be ni orun
+- expected: ogun sì ń bẹ ní ọrun
+- got: ogun sì ń bẹ ní ọrun
+
+- source: makeli ati awon angeli re ba diragoni naa jagun
+- expected: mákẹlì àti àwọn ańgẹlì rẹ bá dírágónì náà jagun
+- got: <UNK> àti àwọn <UNK> rẹ bá <UNK> náà jagun
+
+- source: diragoni si jagun ati awon angeli re
+- expected: dírágónì sì jagun àti àwọn angẹlì rẹ
+- got: <UNK> sí jagun àti àwọn <UNK> rẹ
+
+- source: won ko si le segun
+- expected: wọn kò sì lè ṣẹgun
+- got: wọn kò sì lè <UNK>
+
+- source: mo si gbo ohun rara ni orun wi pe
+- expected: mo sì gbọ ohùn rara ní ọrun wí pè
+- got: mo sì <UNK> ohùn rárá ní ọrun wí pé
+
+- source: egbe ni fun aye ati okun
+- expected: ègbé ni fún ayé àti òkun
+- got: ègbé ni fún ayé àti òkun
+
+- source: eranko kan ti n ti inu okun jade wa
+- expected: ẹranko kan tí ń ti inú òkun jáde wá
+- got: ẹranko kan ti ń ti inú òkun jáde wá
+
+- source: ta ni o si le ba a jagun
+- expected: ta ni ó sì lè bá a jagun
+- got: ta ni ó sì lè bá a jagun
+
+- source: bi enikeni ba leti ki o gbo
+- expected: bí ẹnikẹni bá létí kí o gbọ
+- got: bí <UNK> bá létí kí ó <UNK>
+
+- source: nihinin ni suuru ati igbagbo awon eniyan mimo wa
+- expected: nihìnín ni sùúrù àti ìgbàgbọ àwọn ènìyàn mímọ wà
+- got: <UNK> ni sùúrù àti <UNK> àwọn ènìyàn <UNK> wà
+
+- source: odoaguntan ati oke mejeole egbaameji
+- expected: ọdọàgùntàn àti oke méjeólé egbàáméjì
+- got: <UNK> àti òkè <UNK> <UNK>
+
+- source: mo si gbo awon onihaapu n lu haapu won
+- expected: mo sì gbọ àwọn oníháàpù ń lù haàpù wọn
+- got: mo sì <UNK> àwọn <UNK> ń lù wọn <UNK>
+
+- source: nitori ti won je wundia
+- expected: nítorí tí wọn jẹ wúndíá
+- got: nítorí tí wọn jẹ wúndíá
+
+- source: nihinin ni suuru awon eniyan mimo gbe wa
+- expected: nihìnín ni sùúrù àwọn ènìyàn mímọ gbé wà
+- got: <UNK> ni sùúrù àwọn ènìyàn <UNK> gbé wà
+
+- source: a si se ikore ile aye
+- expected: a sì ṣe ìkórè ilẹ ayé
+- got: a sì ṣe ìkórè ilẹ ayé
+
+- source: angeli meje pelu iyonu meje
+- expected: ańgẹlì méje pẹlú ìyọnu méje
+- got: <UNK> méje <UNK> ìyọnu méje
+
+- source: nitori iwo nikansoso ni mimo
+- expected: nítorí ìwọ níkanṣoṣo ni mímọ
+- got: nítorí ìwọ <UNK> ni <UNK>
+
+- source: ekeji si tu igo sinu okun
+- expected: èkejì sì tú ìgò sínú òkun
+- got: èkejì sì tú à sínú òkun
+
+- source: o si dabi eje oku eniyan
+- expected: ó sì dàbí ẹjẹ òkú ènìyàn
+- got: ó sì dàbí <UNK> òkú ènìyàn
+
+- source: gbogbo okan alaye si ku ninu okun
+- expected: gbogbo ọkàn alàyè sì kú nínú òkun
+- got: gbogbo ọkàn <UNK> sì kú nínú òkun
+
+- source: mo si gbo angeli ti omi wi pe
+- expected: mo sì gbọ ańgẹlì ti omi wí pé
+- got: mo sì <UNK> <UNK> tí omi wí pé
+
+- source: eyi yii ni o ye won
+- expected: èyí yìí ní ó yẹ wọn
+- got: èyí yìí ni ó yẹ wọn
+
+- source: mo si gbo pepe n ke wi pe
+- expected: mo sì gbọ pẹpẹ ń ké wí pé
+- got: mo sì <UNK> pẹpẹ ń ké wí pé
+
+- source: ekerin si tu igo tire sori oorun
+- expected: ẹkẹrin sì tú ìgò tirẹ sórí oòrùn
+- got: <UNK> sí tú jáde sórí òórùn oòrùn
+
+- source: won ko si ronupiwada lati fi ogo fun un
+- expected: wọn kò sì ronúpìwàdà láti fi ògo fún un
+- got: wọn kò sì ronúpìwàdà láti fi ògo fún un
+
+- source: ekarunun si tu igo tire sori ite eranko naa
+- expected: ẹkarùnún sì tú ìgo tirẹ sórí ìtẹ ẹranko náà
+- got: <UNK> sí tú à <UNK> sórí <UNK> náà ẹranko
+
+- source: ile oba re si sokunkun
+- expected: ilẹ ọba rẹ sì sókùnkùn
+- got: ilé ọba rẹ sì <UNK>
+
+- source: won si n ge ahon won je nitori irora
+- expected: wọn sì ń gé ahọn wọn jẹ nítorí ìrora
+- got: wọn sì ń gé <UNK> wọn jẹ nítorí ìrora
+
+- source: ekefa si tu igo tire sori odo nla yufurate
+- expected: ẹkẹfà sì tu ìgò tirẹ sórí odò ńlá yúfúrátè
+- got: <UNK> sí tú nítorí <UNK> sórí <UNK> ńlá <UNK>
+
+- source: ekeje si tu igo tire si oju orun
+- expected: èkeje si tú ìgo tírẹ sí ojú ọrun
+- got: <UNK> sí tú à <UNK> sí ojú ọrun
+
+- source: nitori ti iyonu re naa po gidigidi
+- expected: nítorí tí ìyọnu rẹ náà pọ gidigidi
+- got: nítorí tí <UNK> rẹ náà <UNK> gidigidi
+
+- source: o si gbe mi ninu emi lo si iha
+- expected: ó sì gbé mi nínú ẹmí lọ sí ihà
+- got: ó sì gbé nínú mi èmi lọ sí ihà
+
+- source: ati niwaju re ni oruko kan ti a ko
+- expected: àti níwájú rẹ ni orúkọ kan tí a kọ
+- got: àti níwájú rẹ ni orúkọ kan ti a kọ
+
+- source: nihinin ni itumo ti o ni ogbon wa
+- expected: níhìnín ni ìtumọ tí o ní ọgbọn wà
+- got: <UNK> ni <UNK> tí ó ní <UNK> wà
+
+- source: oba meje si ni won
+- expected: ọba méje sì ní wọn
+- got: ọba méje sì ni wọn
+
+- source: ile aye si ti ipa ogo re mole
+- expected: ilẹ ayé sì ti ipa ògo rẹ mọlẹ
+- got: ilẹ ayé sì ti ipa ògo rẹ <UNK>
+
+- source: o si kigbe ni ohun rara wi pe
+- expected: ó sì kígbe ní ohùn rara wí pé
+- got: ó sì kígbe ní ohun rárá wí pé
+
+- source: a o si fi ina sun un patapata
+- expected: a ó sì fi iná sun ún pátapáta
+- got: a ó sì fi iná sun ún <UNK>
+
+- source: ati awon eso ti okan re n se
+- expected: àti àwọn èso tí ọkàn rẹ ń ṣe
+- got: àti àwọn èso tí ọkàn rẹ ń ṣe
+
+- source: ati leekeji won wi pe
+- expected: àti lẹẹkejì wọn wí pé
+- got: àti <UNK> wọn wí pé
+
+- source: haleluya  eefin re si goke lo lae ati laelae
+- expected: halelúyà  èéfín rẹ sì gòkè lọ láé àti láéláé
+- got: <UNK> èéfín rẹ sì gòkè lọ láé àti láéláé
+
+- source: haleluya  nitori oluwa olorun wa olodumare n joba
+- expected: halelúyà  nítorí olúwa ọlọrun wa olódùmarè ń jọba
+- got: <UNK> nítorí olúwa <UNK> wa olódùmarè ń jọba
+
+- source: o si wi fun mi pe
+- expected: ó sì wí fún mi pé
+- got: ó sì wí fún mi pé
+
+- source: iwonyi ni oro otito olorun
+- expected: ìwọnyí ni ọrọ òtítọ ọlọrun
+- got: <UNK> ni <UNK> <UNK> <UNK>
+
+- source: foribale fun olorun nitori pe eri jesu ni isotele
+- expected: foríbalẹ fún ọlọrun nítorí pé ẹrí jésù ni ìsọtẹlẹ
+- got: <UNK> fún <UNK> nítorí pé <UNK> ni jésù <UNK>
+
+- source: a si n pe oruko re ni oro olorun
+- expected: a sì ń pe orúkọ rẹ ní ọrọ ọlọrun
+- got: a sì ń pe orúkọ rẹ ní <UNK> <UNK>
+
+- source: o si n te ifunti ati ibinu olorun olodumare
+- expected: ó sì ń tẹ ìfúntí àti ìbínú ọlọrun olódùmarè
+- got: ó sì ń tẹ <UNK> àti ìbínú <UNK> olódùmarè
+
+- source: si angeli ni efesu kowe
+- expected: sí ańgẹlì ní éfésù kọwé
+- got: sí <UNK> ni <UNK> <UNK>
+
+- source: ati si angeli ijo ni simirina kowe
+- expected: àti sí ańgẹlì ìjọ ní símírínà kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: eyin o si ni iponju ni ojo mewaa
+- expected: ẹyin ó sì ní ìpọnjú ní ọjọ mẹwàá
+- got: ẹyin ó sì ní <UNK> ní <UNK> <UNK>
+
+- source: ati si angeli ijo ni pagamosi kowe
+- expected: àti sì ańgẹlì ìjọ ni págámọsì kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: sibe iwo di oruko mi mu sinsin
+- expected: síbẹ ìwọ di orúkọ mi mú ṣinṣin
+- got: <UNK> ìwọ di orúkọ mi mú ṣinṣin
+
+- source: sugbon mo ni nnkan die wi si o
+- expected: ṣùgbọn mo ni nǹkan díẹ wí sí ọ
+- got: <UNK> mo ní nǹkan <UNK> wí sí ọ
+
+- source: ati si angeli ijo ni tiatira kowe
+- expected: àti sí ańgẹlì ìjọ ní tíátírà kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: ati pe ise re ikeyin ju ti isaaju lo
+- expected: àti pé iṣẹ rẹ ìkẹyìn ju tí iṣàájú lọ
+- got: àti pé <UNK> rẹ ìkẹyìn tí ju ìṣáájú lọ
+
+- source: sugbon eyi ni mo ri wi si o
+- expected: ṣùgbọn èyí ni mo rí wí sì ọ
+- got: <UNK> èyí ni mo rí sí wí ọ
+
+- source: emi fi akoko fun un lati ronupiwada
+- expected: èmi fi àkókò fún un láti ronúpìwàdà
+- got: èmi fi àkókò fún un láti ronúpìwàdà
+
+- source: sugbon oun ko fe ronupiwada agbere re
+- expected: ṣùgbọn òun kò fẹ ronúpìwàdà àgbèrè rẹ
+- got: <UNK> òun kò <UNK> ronúpìwàdà àgbèrè rẹ
+
+- source: emi o pa awon omo re
+- expected: èmi o pa àwọn ọmọ rẹ
+- got: èmi ó pa àwọn ọmọ rẹ
+
+- source: emi yoo si fi irawo owuro fun un
+- expected: èmi yóò sì fi ìràwọ òwúrọ fún un
+- got: èmi yóò sì fi <UNK> <UNK> fún un
+
+- source: awon ti iye won dabi iyanrin okun
+- expected: àwọn tí iyè wọn dàbí iyanrìn òkun
+- got: àwọn tí iye iye wọn dàbí <UNK> òkun
+
+- source: a ko si ri aye fun won mo
+- expected: a kò sì rí àyè fún wọn mọ
+- got: a kò sì rí àyè fún wọn mọ
+
+- source: a si si awon iwe sile
+- expected: a sì sí àwọn ìwé sílẹ
+- got: a sí àwọn ìwé <UNK>
+
+- source: okun ko si si mo
+- expected: òkun kò sì sí mọ
+- got: òkun kò sì sí mọ
+
+- source: nitori pe ohun atijo ti koja lo
+- expected: nítorí pé ohun àtijọ tí kọjá lọ
+- got: nítorí pé ohun <UNK> ti kọjá lọ
+
+- source: nitori oro wonyi ododo ati otito ni won
+- expected: nítorí ọrọ wọnyí òdodo àti òtítọ ni wọn
+- got: nítorí <UNK> <UNK> òdodo àti <UNK> ni wọn
+
+- source: o si wi fun mi pe o pari
+- expected: ó sì wí fún mi pé ó parí
+- got: ó sì wí fún mi pé o parí
+
+- source: emi ni alfa ati omega ipilese ati opin
+- expected: èmi ni álfà àti ómégà ìpilẹṣẹ àti òpin
+- got: èmi ni <UNK> àti <UNK> <UNK> àti òpin
+
+- source: eyi ti i se iku keji
+- expected: èyí tí i ṣe ikú kéjì
+- got: èyí tí í ṣe ikú kejì
+
+- source: ni iha ilaoorun enubode meta
+- expected: ní ìhá ìlàoòrùn ẹnubodè mẹta
+- got: ní ìhà <UNK> <UNK> <UNK>
+
+- source: ni iha ariwa enubode meta
+- expected: ní ìhà àríwá ẹnubodè mẹta
+- got: ní ìhà àríwá <UNK> <UNK>
+
+- source: ni iha gusu enubode meta
+- expected: ní ìhà gúsù ẹnubodè mẹta
+- got: ní ìhà gúsù <UNK> <UNK>
+
+- source: ati ni iha iwooorun enubode meta
+- expected: àti ní ìhà ìwọòòrùn ẹnubodè mẹta
+- got: àti ní ìhà <UNK> <UNK> <UNK>
+
+- source: a si fi jasiperi mo odi ilu naa
+- expected: a sì fi jásípérì mọ odi ìlú náà
+- got: a sì fi <UNK> mọ odi ìlú náà
+
+- source: enubode mejeejila je perili mejila
+- expected: ẹnubodè méjèèjìlá jẹ pẹrílì méjìlá
+- got: <UNK> <UNK> jẹ <UNK> méjìlá
+
+- source: olukuluku enubode je perili kan
+- expected: olúkúlùkù ẹnubodè jẹ pérílì kan
+- got: <UNK> <UNK> jẹ <UNK> kan
+
+- source: emi ko si ri tempili ninu re
+- expected: èmi kò sì ri tẹḿpílì nínú rẹ
+- got: èmi kò sì rí nínú <UNK> rẹ
+
+- source: awon orileede yoo si maa rin nipa imole re
+- expected: àwọn orílẹèdè yóò sì máa rìn nípa ìmọlẹ rẹ
+- got: àwọn <UNK> yóò sì máa rin nípa <UNK> rẹ
+
+- source: nitori ki yoo si oru nibe
+- expected: nítorí ki yóò si òru níbẹ
+- got: nítorí kì yóò sí òru <UNK>
+
+- source: egun ki yoo si si mo
+- expected: ègún kì yóò sì sí mọ
+- got: ègún kì yóò sì sí mọ
+
+- source: awon iranse re yoo si maa sin in
+- expected: àwọn ìránṣẹ rẹ yóò sì máa sìn ín
+- got: àwọn <UNK> rẹ yóò sì máa sin ín
+
+- source: won o si maa ri oju re
+- expected: wọn ó si máa rí ojú rẹ
+- got: wọn ó sì máa rí ojú rẹ
+
+- source: oru ki yoo si mo
+- expected: òru kì yóò sí mọ
+- got: òru kì yóò sì mọ
+
+- source: won o si maa joba lae ati laelae
+- expected: wọn ó sì máa jọba láé àti láéláé
+- got: wọn ó sì máa jọba láé àti láéláé
+
+- source: nitori igba ku si dede
+- expected: nítorí ìgbà kù sí dẹdẹ
+- got: nítorí ìgbà kú sí <UNK>
+
+- source: kiyesi i emi n bo kankan
+- expected: kíyèsí i èmi ń bọ kánkán
+- got: kíyèsí i èmí ń bọ kankan
+
+- source: ati si angeli ijo ni sadisi kowe
+- expected: àti sí ańgẹlì ìjọ ni sádísì kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: ati si angeli ijo ni filadefia kowe
+- expected: àti sí ańgẹlì ìjọ ni filadéfíà kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: kiyesi i emi n bo kankan
+- expected: kíyèsí i èmi ń bọ kánkán
+- got: kíyèsí i èmí ń bọ kankan
+
+- source: ati oruko tuntun ti emi tikarami
+- expected: àti orúkọ tuntun ti èmi tikarámì
+- got: àti orúkọ <UNK> ti èmi <UNK>
+
+- source: ati si angeli ijo ni laodekia kowe
+- expected: àti sí áńgẹlì ìjọ ní láódékíá kọwé
+- got: àti sí <UNK> ìjọ ni <UNK> <UNK>
+
+- source: nitori naa ni itara ki iwo si ronupiwada
+- expected: nítorí náà ní ìtara kì ìwọ sì ronúpìwàdà
+- got: nítorí náà ni ìtara kí ìwọ sì ronúpìwàdà
+
+- source: loju kan naa mo si wa ninu emi
+- expected: lójú kan náà mo sì wà nínú ẹmí
+- got: lójú kan náà mo sì wà nínú èmi
+
+- source: yika ite naa si ni ite merinlelogun
+- expected: yíká ìtẹ náà sì ni ìtẹ mẹrínlélógún
+- got: yíká <UNK> náà sì ni <UNK> <UNK>
+
+- source: ade wura si wa ni ori won
+- expected: adé wúrà sì wà ni orí wọn
+- got: adé wúrà sì wà ní orí wọn
+
+- source: won si n ko orin tuntun kan wi pe
+- expected: wọn sì ń kọ orin tuntun kan wí pé
+- got: wọn sì ń kọ orin kan tuntun wí pé
+
+- source: won si n joba lori ile aye
+- expected: wọn sì ń jọba lórí ilẹ ayé
+- got: wọn sì ń jọba lórí ilẹ ayé
+
+- source: won n wi lohun rara pe
+- expected: wọn ń wí lóhùn rara pé
+- got: wọn ń wí lóhùn rárá pé
+
+- source: a si fi ade kan fun un
+- expected: a sì fi adé kan fún un
+- got: a sì fi adé kan fún un
+
+- source: o si jade lo lati isegun de isegun
+- expected: ó sì jáde lọ láti ìṣẹgun dé ìsẹgun
+- got: ó sì jáde lọ láti <UNK> dé <UNK>
+
+- source: a si fi ida nla kan le e lowo
+- expected: a sì fi idà ńlá kan lé e lọwọ
+- got: a sì fi idà ńlá kan lé e <UNK>
+
+- source: mo si wo o kiyesi esin randanrandan kan
+- expected: mo sì wò ó kíyèsi ẹṣin ràndànràndàn kan
+- got: mo sì wò ó kíyèsí ẹṣin <UNK> kan
+
+- source: a si fi aso funfun fun gbogbo won
+- expected: a sì fi aṣọ funfun fún gbogbo wọn
+- got: a sì fi aṣọ funfun fún gbogbo wọn
+
+- source: nitori ojo nla ibinu won de
+- expected: nítorí ọjọ ńlá ìbínú wọn dé
+- got: nítorí <UNK> ńlá ìbínú wọn dé
+
+- source: ta ni si le duro
+- expected: ta ni sì le dúró
+- got: ta ni sì lè dúró
+
+- source: won si kigbe ni ohunrara wi pe
+- expected: wọn sì kígbe ni ohùnrara wí pé
+- got: wọn sì kígbe ni <UNK> wí pé
+
+- source: nibo ni won si ti wa
+- expected: níbo ni wọn sì ti wá
+- got: níbo ni wọn sì ti wá
+
+- source: edidi keje ati awo turari
+- expected: èdìdì kéje àti àwo tùràrí
+- got: èdìdì <UNK> àti àwo tùràrí
+
+- source: a si fi ipe meje fun won
+- expected: a sì fi ìpè méje fún wọn
+- got: a sì fi ìpè méje fún wọn
+
+- source: ekinni si fon ipe tire
+- expected: èkínní sì fọn ìpè tirẹ
+- got: <UNK> sí ìpè <UNK> <UNK>
+
+- source: idameta okun si di eje
+- expected: ìdámẹta òkun si di ẹjẹ
+- got: <UNK> òkun sì di <UNK>
+
+- source: ati idameta awon oko si baje
+- expected: àti ìdámẹta àwọn ọkọ si bàjẹ
+- got: àti <UNK> àwọn ọkọ sí <UNK>
+
+- source: a si fi kokoro iho ogbun fun un
+- expected: a sì fi kọkọrọ ihò ọgbun fún un
+- got: a sì fi <UNK> ihò <UNK> fún un
+
+- source: won si ni igbaya ti o dabi igbaya irin
+- expected: wọn sì ní ìgbàyà tí ó dàbí ìgbàyà irin
+- got: wọn sì ní <UNK> tí ó dàbí <UNK> irin
+
+- source: mo si gbo iye won
+- expected: mo sì gbọ iye wọn
+- got: mo sì <UNK> iye wọn
+
+- source: ori awon esin naa si dabi ori awon kininun
+- expected: orí àwọn ẹṣin náà sì dàbí orí àwọn kìninún
+- got: orí àwọn ẹṣin náà sì dàbí orí àwọn orí <UNK>
+
+- source: oro ikini poolu si awon ayanfe
+- expected: ọrọ ìkíni pọọlù sí àwọn àyànfẹ
+- got: <UNK> <UNK> <UNK> sí àwọn <UNK>
+
+- source: won kun fun ilara ipaniyan ija itanje iwabuburu
+- expected: wọn kún fún ìlara ìpànìyàn ìjà ìtànjẹ ìwàbúburú
+- got: wọn kún fún <UNK> <UNK> ìjà <UNK> <UNK>
+
+- source: oju ko ni ti oluwa re laelae
+- expected: ojú kò ní ti olúwa rẹ láéláé
+- got: ojú kò ní ti olúwa rẹ láéláé
+
+- source: sugbon mo ni won ko ha gbo bi
+- expected: ṣùgbọn mo ní wọn kò ha gbọ bí
+- got: <UNK> mo ní wọn kò ha <UNK> bí
+
+- source: sugbon mo wi pe isireli ko ha mo bi
+- expected: ṣùgbọn mo wí pé ísírẹlì kò ha mọ bí
+- got: <UNK> mo wí pé <UNK> kò ha mọ bí
+
+- source: iran alaikola pin ninu igbala awon omo isireli
+- expected: ìran aláìkọlà pín nínú ìgbàlà àwọn ọmọ ísírẹlì
+- got: ìran aláìkọlà <UNK> nínú ìgbàlà àwọn ọmọ <UNK>
+
+- source: sugbon idahun wo ni olorun fi fun un
+- expected: ṣùgbọn ìdáhùn wo ni ọlọrun fi fún un
+- got: <UNK> ìdáhùn wo ni <UNK> fi fún un
+
+- source: ayamobi oreofe ki i se oreofe mo
+- expected: àyàmọbí oreọfẹ kì í ṣe oreọfẹ mọ
+- got: <UNK> <UNK> kì í ṣe <UNK> mọ
+
+- source: ayamobi ise ki i se ise mo
+- expected: àyàmọbí iṣẹ kì í ṣe iṣẹ mọ
+- got: <UNK> <UNK> kì í ṣe <UNK> mọ
+
+- source: nje eyi fi han wi pe
+- expected: ǹjẹ èyí fi hàn wí pé
+- got: <UNK> èyí fi hàn wí pé
+
+- source: olorun awon juu re eniyan re sile laelae
+- expected: ọlọrun àwọn júù rẹ ènìyàn rẹ sílẹ láéláé
+- got: <UNK> àwọn júù rẹ ènìyàn rẹ <UNK> láéláé
+
+- source: se ni olorun n fi igbala fun awon alaikola
+- expected: ṣe ni ọlọrun ń fi ìgbàlà fún àwọn aláìkọlà
+- got: ṣe ní <UNK> ń fi ìgbàlà fún àwọn aláìkọlà
+
+- source: ki a ma ba ke iwo naa kuro
+- expected: kí a má bá ké ìwọ náà kúrò
+- got: kí a má bá ké ké náà kúrò
+
+- source: eyi si ni majemu mi fun won
+- expected: èyí sì ni májẹmú mi fún wọn
+- got: èyí sì ni <UNK> mi fún wọn
+
+- source: nigba ti emi yoo mu ese won kuro
+- expected: nígbà tí èmi yóò mú ẹṣẹ wọn kúrò
+- got: nígbà tí èmi yóò mú <UNK> wọn kúrò
+
+- source: nipa ti iyin rere ota ni won nitori yin
+- expected: nípa ti ìyìn rere ọta ni wọn nítorí yín
+- got: nípa ti ìyìn rere <UNK> ni wọn nítorí yín
+
+- source: nitori ailabamo li ebun ati ipe olorun
+- expected: nítorí àìlábámọ li ẹbùn àti ìpè ọlọrun
+- got: nítorí <UNK> <UNK> <UNK> àti ìpè <UNK>
+
+- source: tabi tani ise igbimo re
+- expected: tàbí tani íṣe ìgbìmọ rẹ
+- got: tàbí tani <UNK> <UNK> rẹ
+
+- source: eni ti ogo wa fun laelae  amin
+- expected: ẹni tí ògo wà fún láéláé  àmín
+- got: ẹni ti ògo wà fún láéláé
+
+- source: tabi eni ti o n gbani niyanju si igbiyanju
+- expected: tàbí ẹni tí ó ń gbani níyànjú sí ìgbìyànjú
+- got: tàbí ẹni tí ó ń <UNK> <UNK> sí <UNK>
+
+- source: ki ife ki o wa ni aisetan
+- expected: kí ìfẹ kí ó wà ní àìṣẹtàn
+- got: kí <UNK> kí ó wà ní <UNK>
+
+- source: e maa takete si ohun ti i se burubu
+- expected: ẹ máa takéte sí ohun tí í ṣe búrubú
+- got: ẹ máa <UNK> sí ohun tí i se <UNK>
+
+- source: e faramo ohun ti i se rere
+- expected: ẹ faramọ ohun tí í ṣe rere
+- got: ẹ <UNK> ohun tí í ṣe rere
+
+- source: niti ola e maa fi enikeji yin saju
+- expected: níti ọlá ẹ máa fi ẹnìkéjì yín ṣájú
+- got: níti ọlá ẹ máa fi ẹnìkejì yín <UNK>
+
+- source: niti ise sise e ma se ole
+- expected: níti iṣẹ ṣíṣe ẹ má ṣe ọlẹ
+- got: níti <UNK> <UNK> ẹ má ṣe olè
+
+- source: e maa ni igbona okan
+- expected: ẹ máa ní ìgbóná ọkàn
+- got: ẹ máa ní <UNK> ọkàn
+
+- source: e maa yo ni ireti
+- expected: ẹ máa yọ ni ìrètí
+- got: ẹ máa yọ ni ìrètí
+
+- source: e maa mu suuru ninu iponju
+- expected: ẹ máa mú sùúrù nínú ìpọnjú
+- got: ẹ máa mú sùúrù nínú <UNK>
+
+- source: e maa duro gangan ninu adura
+- expected: ẹ máa dúró gangan nínú àdúrà
+- got: ẹ máa dúró <UNK> nínú àdúrà
+
+- source: e maa pese fun aini awon eniyan mimo
+- expected: ẹ máa pèsè fún àìní àwọn ènìyàn mímọ
+- got: ẹ máa pèṣè fún àìní àwọn ènìyàn <UNK>
+
+- source: e fi ara yin fun alejo ise
+- expected: ẹ fi ara yín fún àlejò íṣe
+- got: ẹ fi ara yín fún àlejò <UNK>
+
+- source: e maa sure e ma si sepe
+- expected: ẹ máa súre ẹ má sì ṣépè
+- got: ẹ máa <UNK> ẹ má sì <UNK>
+
+- source: e ma se je ologbon ni oju ara yin
+- expected: ẹ má ṣe jẹ ọlọgbọn ní ojú ara yín
+- got: ẹ má ṣe jẹ <UNK> ní ojú ara yín
+
+- source: e ma se fi buburu san buburu fun enikeni
+- expected: ẹ má ṣe fi búburú san búburú fún ẹnikẹni
+- got: ẹ má ṣe fi búburú san búburú fún <UNK>
+
+- source: sugbon bi ebi ba n pa ota re
+- expected: ṣùgbọn bí ebi bá ń pa ọta rẹ
+- got: <UNK> bí <UNK> bá ń pa <UNK> rẹ
+
+- source: sise igboran si awon alase
+- expected: síṣe ìgbọran sí àwọn aláṣẹ
+- got: <UNK> <UNK> sí àwọn aláṣẹ
+
+- source: nitori iranse olorun ni lati se o ni rere
+- expected: nítorí ìránṣẹ ọlọrun ni láti ṣe ọ ní rere
+- got: nítorí <UNK> <UNK> ni láti ṣe ọ ni réré
+
+- source: won yoo si maa toju yin
+- expected: wọn yóò sì máa tọjú yín
+- got: wọn yóò sì máa <UNK> yín
+
+- source: e san ohun ti o to fun eni gbogbo
+- expected: ẹ san ohun tí ó tọ fún ẹni gbogbo
+- got: ẹ <UNK> ohun tí ó tọ fún ẹni gbogbo
+
+- source: owoori fun eni ti owoori to si
+- expected: owóorí fún ẹni tí owóorí tọ sí
+- got: <UNK> fún ẹni tí <UNK> tó sí
+
+- source: owobode fun eni ti owobode to si
+- expected: owóbodè fún ẹni tí owóbodè tọ sí
+- got: <UNK> fún ẹni tí <UNK> tó sí
+
+- source: eru fun eni ti eru n se tire
+- expected: ẹrù fún ẹni tí ẹrù ń ṣe tirẹ
+- got: ẹrù fún ẹni tí ẹrù ń ṣe <UNK>
+
+- source: fe omonikeji re gege bi ara re
+- expected: fẹ ọmọnìkejì rẹ gẹgẹ bí ara rẹ
+- got: <UNK> <UNK> rẹ <UNK> bí ara rẹ
+
+- source: ife ki i se ohun buburu si omonikeji re
+- expected: ìfẹ kì í ṣe ohun búburú sí ọmọnìkejì rẹ
+- got: <UNK> kì í ṣe ohun búburú sí <UNK> rẹ
+
+- source: nitori naa ife ni akoja ofin
+- expected: nítorí náà ìfẹ ni àkójá òfin
+- got: nítorí náà <UNK> ni <UNK> òfin
+
+- source: oru bu koja tan ile si fere mo
+- expected: òru bù kọjá tan ilẹ sì fẹrẹ mọ
+- got: òru bu kọjá tán tán sí <UNK> mọ
+
+- source: nitori olorun ti gba a
+- expected: nítorí ọlọrun ti gbà á
+- got: nítorí <UNK> ti gbà á
+
+- source: loju oluwa tire ni oun ni duro tabi subu
+- expected: lójú olúwa tirẹ ni òun ni dúró tàbí subú
+- got: lójú olúwa tìrẹ ni òun dúró ni tàbí ṣubú
+
+- source: bi a ba si ku a ku fun oluwa
+- expected: bí a bá sì kú a kú fún olúwa
+- got: bí a bá sì kú a kú fún olúwa
+
+- source: a ti ko iwe re pe
+- expected: a ti kọ ìwé rẹ pé
+- got: a ti kọ ìwé rẹ pé
+
+- source: gbogbo ahon ni yoo jewo fun olorun
+- expected: gbogbo ahọn ni yóò jẹwọ fún ọlọrun
+- got: gbogbo <UNK> ni yóò <UNK> fún <UNK>
+
+- source: ma se di ise olorun lowo nitori ounje
+- expected: má se dí iṣẹ ọlọrun lọwọ nítorí oúnjẹ
+- got: má ṣe di <UNK> <UNK> <UNK> nítorí oúnjẹ
+
+- source: poolu waasu si awon alaikola
+- expected: pọọlù wàásù sí àwọn aláìkọlà
+- got: <UNK> wàásù sí àwọn aláìkọlà
+
+- source: gege bi a ti ko o pe
+- expected: gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> bí a ti kọ ọ pé
+
+- source: ati pelu eyin oluwa gbogbo eyin alaikola
+- expected: àti pẹlú ẹyin olúwa gbogbo ẹyin aláìkọlà
+- got: àti <UNK> ẹyin olúwa gbogbo ẹyin aláìkọlà
+
+- source: e ko orin iyin si eyin eniyan gbogbo
+- expected: ẹ kọ orin ìyìn sí ẹyin ènìyàn gbogbo
+- got: ẹ kó ìyìn ìyìn sí ẹyin ènìyàn gbogbo ènìyàn
+
+- source: awon alaikola yoo ni ireti ninu re
+- expected: àwọn aláìkọlà yóò ní ìrètí nínú rẹ
+- got: àwọn aláìkọlà yóò ní ìrètí nínú rẹ
+
+- source: sugbon gege bi a ti ko o pe
+- expected: ṣùgbọn gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> <UNK> bí a ti kọ ọ pé
+
+- source: ki olorun alaafia wa pelu gbogbo yin
+- expected: kí ọlọrun àlàáfíà wà pẹlú gbogbo yín
+- got: kí <UNK> àlàáfíà wà <UNK> gbogbo yín
+
+- source: e ki gbogbo awon ara nile arisitobulusi
+- expected: ẹ kí gbogbo àwọn ará nílé árísítóbúlúsì
+- got: ẹ kí gbogbo àwọn ará <UNK> <UNK>
+
+- source: e ki herodioni ibatan mi
+- expected: ẹ kí héródíónì ìbátan mi
+- got: ẹ kí <UNK> ìbátan mi
+
+- source: e fi ifenukonu mimo ki ara yin
+- expected: ẹ fi ìfẹnukonu mímọ kí ara yín
+- got: ẹ fi <UNK> <UNK> kí ara yín
+
+- source: gbogbo ijo kirisiti ki yin
+- expected: gbogbo ìjọ kírísitì kí yín
+- got: gbogbo ìjọ ìjọ kí yín
+
+- source: e ya kuro ni odo won
+- expected: ẹ yà kúrò ní ọdọ wọn
+- got: ẹ ya kúrò ní <UNK> wọn
+
+- source: nitori igboran yin tan kale de ibi gbogbo
+- expected: nítorí ìgbọràn yín tàn kálẹ dé ibi gbogbo
+- got: nítorí <UNK> yín tan <UNK> dé ibi gbogbo
+
+- source: nitori naa mo ni ayo lori yin
+- expected: nítorí náà mo ní ayọ lórí yín
+- got: nítorí náà mo ní <UNK> lórí yín
+
+- source: ti juu saaju ati awon alaikola pelu
+- expected: ti júù ṣáájú àti àwọn aláìkọlà pẹlú
+- got: tí júù ṣáájú àwọn aláìkọlà <UNK>
+
+- source: nitori oluwa kii se oju isaaju eniyan
+- expected: nítorí olúwa kìí ṣe ojú ìsáájú ènìyàn
+- got: nítorí olúwa <UNK> ṣe ojú ènìyàn ìṣáájú
+
+- source: nje anfaani wo ni juu ni
+- expected: ǹjẹ àǹfààní wo ní júù ní
+- got: <UNK> <UNK> wo ni júù ni
+
+- source: tabi kin ni ere ila kiko
+- expected: tàbí kín ni èrè ilà kíkọ
+- got: tàbí kín ni èrè ìlà <UNK>
+
+- source: nje ki ha ni bi awon kan je alaigbagbo
+- expected: ǹjẹ kí ha ni bí àwọn kan jẹ aláìgbàgbọ
+- got: <UNK> kí há ni àwọn kan jẹ àwọn <UNK>
+
+- source: ki a ma ri i
+- expected: kí a má rí i
+- got: kí a má rí i
+
+- source: ki olorun je olooto ati olukuluku eniyan je eke
+- expected: kí ọlọrun jẹ olóòtọ àti olúkúlùkù ènìyàn jẹ èké
+- got: kí <UNK> jẹ <UNK> àti ènìyàn <UNK> jẹ ènìyàn
+
+- source: gege bi a ti ko o pe
+- expected: gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> bí a ti kọ ọ pé
+
+- source: olorun ha je aisododo bi
+- expected: ọlọrun ha jẹ àìsòdodo bí
+- got: <UNK> ha jẹ <UNK> bí
+
+- source: nigba ti o ba n fi ibinu re han
+- expected: nígbà tí ó bá ń fi ìbínú rẹ hàn
+- got: nígbà tí ó bá ń fi ìbínú rẹ hàn
+
+- source: ki a ma ri i
+- expected: kí a má rí i
+- got: kí a má rí i
+
+- source: awon eni ti idalebi won to
+- expected: àwọn ẹni tí ìdálẹbí wọn tọ
+- got: àwọn ẹni tí <UNK> wọn tó
+
+- source: awa ha san won bi
+- expected: àwa ha sàn wọn bí
+- got: àwa ha sàn wọn bí
+
+- source: gege bi a ti ko o pe
+- expected: gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> bí a ti kọ ọ pé
+
+- source: iboji ti o si sile ni ofun won
+- expected: ibojì tí ó ṣí sílẹ ní ọfun wọn
+- got: ibojì tí ó sì <UNK> ni <UNK> wọn
+
+- source: oro paramole n be labe ete won
+- expected: oró paramọlẹ ń bẹ lábẹ ètè wọn
+- got: <UNK> <UNK> ń bẹ <UNK> <UNK> wọn
+
+- source: ese won yara lati ta eje sile
+- expected: ẹsẹ wọn yára láti ta ẹjẹ sílẹ
+- got: <UNK> wọn yára láti ta <UNK> <UNK>
+
+- source: iparun ati iponju wa lona won
+- expected: ìparun àti ìpọnjú wà lọnà wọn
+- got: ìparun àti <UNK> wá <UNK> wọn
+
+- source: ona alaafia ni won ko si mo
+- expected: ọnà àlàáfíà ni wọn kò sì mọ
+- got: ọnà àlàáfíà ni wọn kò sì mọ
+
+- source: iberu olorun ko si niwaju won
+- expected: ìbẹrù ọlọrun kò sí níwájú wọn
+- got: <UNK> <UNK> kò sì níwájú wọn
+
+- source: nitori nipa ofin ni imo ese ti wa
+- expected: nítorí nípa òfin ni ìmọ ẹṣẹ ti wá
+- got: nítorí nípa òfin <UNK> ni <UNK> ti wà
+
+- source: nitori ti ko si iyato
+- expected: nítorí tí kò sí ìyàtọ
+- got: nítorí tí kò sí <UNK>
+
+- source: lati fi ododo re han ni igba isinsinyii
+- expected: láti fi òdodo rẹ hàn ní ìgbà ìsinsìnyìí
+- got: láti fi òdodo rẹ hàn ní ìgbà <UNK>
+
+- source: a ti mu un kuro
+- expected: a ti mú un kúrò
+- got: a ti mú un kúrò
+
+- source: bee ko sugbon nipa ofin igbagbo
+- expected: bẹẹ kọ ṣùgbọn nípa òfin ìgbàgbọ
+- got: <UNK> kò <UNK> nípa òfin <UNK>
+
+- source: olorun awon juu nikan ha ni bi
+- expected: ọlọrun àwọn júù nìkan ha ni bí
+- got: <UNK> àwọn júù nìkan ha ni bí
+
+- source: ki i ha se ti awon alaikola pelu
+- expected: kì í ha ṣe ti àwọn aláìkọlà pẹlú
+- got: kì í ha ṣe ti àwọn aláìkọlà <UNK>
+
+- source: bee ni ti awon alaikola pelu
+- expected: bẹẹ ni ti àwọn aláìkọlà pẹlú
+- got: <UNK> ni ti àwọn aláìkọlà <UNK>
+
+- source: awa ha n so ofin dasan nipa igbagbo bi
+- expected: àwa ha ń sọ òfin dasán nípa ìgbàgbọ bí
+- got: àwa ha ń sọ òfin <UNK> nípa <UNK> bí
+
+- source: ki a ma ri i
+- expected: kí a má rí i
+- got: kí a má rí i
+
+- source: sugbon a n fi ofin mule
+- expected: ṣùgbọn a ń fi òfin múlẹ
+- got: <UNK> a ń fi òfin <UNK>
+
+- source: aburahamu gba idalore nipa igbagbo
+- expected: ábúráhámù gba ìdálòre nípa ìgbàgbọ
+- got: ábúráhámù gba <UNK> nípa <UNK>
+
+- source: sugbon ki i se niwaju olorun
+- expected: ṣùgbọn kì í ṣe níwájú ọlọrun
+- got: <UNK> kì í ṣe níwájú <UNK>
+
+- source: iwe mimo ha ti wi
+- expected: ìwé mímọ ha ti wí
+- got: ìwé <UNK> ha ti wí
+
+- source: bawo ni a se ka a si i
+- expected: báwo ni a ṣe kà á sí i
+- got: báwo ni a ṣe kà á sí i
+
+- source: nigba ti o wa ni ikola tabi ni aikola
+- expected: nígbà tí ó wà ní ìkọlà tàbí ní àìkọlà
+- got: nígbà tí ó wà ní <UNK> tàbí <UNK> ni
+
+- source: ki i se ni ikola sugbon ni aikola ni
+- expected: kì í ṣe ni ìkọlà ṣùgbọn ní àìkọlà ni
+- got: kì í ṣe ní <UNK> <UNK> ní <UNK> ni
+
+- source: nitori ofin n sise ibinu
+- expected: nítorí òfin ń ṣiṣẹ ìbínú
+- got: nítorí òfin <UNK> ń <UNK>
+
+- source: ko fi aigbagbo siyemeji nipa ileri olorun
+- expected: kò fi àìgbàgbọ ṣiyèméjì nípa ìlérí ọlọrun
+- got: kò fi <UNK> <UNK> nípa ìlérí <UNK>
+
+- source: awa si n yo ninu ireti ogo olorun
+- expected: àwa sì ń yọ nínú ìrètí ògo ọlọrun
+- got: àwa sì ń yọ nínú ìrètí <UNK> ògo
+
+- source: bi a ti mo pe ijiya n sise suuru
+- expected: bí a ti mọ pé ìjìyà ń sisẹ sùúrù
+- got: bí a ti mọ pé ìjìyà ń <UNK> sùúrù
+
+- source: ati pe suuru n sise iriri
+- expected: àti pé sùúrù ń siṣẹ ìrírí
+- got: àti pé sùúrù ń <UNK> <UNK>
+
+- source: ati pe iriri n sise ireti
+- expected: àti pé ìrírí ń siṣẹ ìrètí
+- got: àti pé <UNK> ń <UNK> ìrètí
+
+- source: nitori o sowon ki enikan to ku fun olododo
+- expected: nítorí ó ṣọwọn kí ẹnìkan tó kú fún olódodo
+- got: nítorí ó <UNK> kí ẹnìkan tó kú fún olódodo
+
+- source: nitori ki ofin to de ese ti wa laye
+- expected: nítorí kí òfin tó dé ẹṣẹ ti wà láyé
+- got: nítorí kí òfin tó dé <UNK> ti wá <UNK>
+
+- source: sugbon ebunofe ko dabi ese
+- expected: ṣùgbọn ẹbùnọfẹ kò dàbí ẹṣẹ
+- got: <UNK> <UNK> kò dàbí <UNK>
+
+- source: iku si ese iye ninu kirisiti
+- expected: ikú sí ẹsẹ ìyè nínú kírísítì
+- got: ikú sí <UNK> iye nínú kírísítì
+
+- source: nje awa o ha ti wi
+- expected: ǹjẹ àwa ó ha ti wí
+- got: <UNK> àwa ó ha ti wí
+
+- source: kirisiti ti ji dide kuro ninu oku
+- expected: kírísítì ti jí dìde kúrò nínú òkú
+- got: kírísítì ti jí dìde nínú òkú
+
+- source: oun ko si ni ku mo
+- expected: òun kò sì ní kú mọ
+- got: òun kò sì ní kú mọ
+
+- source: iku ko si le ni agbara lori re mo
+- expected: ikú kò sì lè ní agbára lórí rẹ mọ
+- got: ikú kò sì le ní agbára lórí agbára rẹ
+
+- source: kirisiti ku leekan soso lati segun agbara ese
+- expected: kírísítì kú lẹẹkan soso láti sẹgun agbára ẹṣẹ
+- got: kírísítì kú <UNK> ṣoṣo láti <UNK> agbára <UNK>
+
+- source: sugbon e yonda won fun olorun patapata
+- expected: ṣùgbọn ẹ yọǹda wọn fún ọlọrun pátápátá
+- got: <UNK> ẹ <UNK> wọn fún <UNK> pátapáta
+
+- source: e le yan ese tabi igboran
+- expected: ẹ lè yan ẹṣẹ tàbí ìgbọràn
+- got: ẹ lè yan <UNK> tàbí <UNK>
+
+- source: ati pe ki ni iyorisi re
+- expected: àti pé kí ni ìyọrísí rẹ
+- got: àti pé kí ni <UNK> rẹ
+
+- source: dajudaju abajade re ko dara
+- expected: dájúdájú àbájáde rẹ kò dára
+- got: dájúdájú <UNK> rẹ kò dára
+
+- source: apejuwe kan lati inu igbeyawo
+- expected: àpèjúwe kan láti inú ìgbèyàwó
+- got: <UNK> kan láti inú èso
+
+- source: eyin ko ha mo ara
+- expected: ẹyin kò ha mọ ara
+- got: ẹyin kò ha mọ ara
+
+- source: nje awa o ha ti wi nigba naa
+- expected: ǹjẹ àwa o ha ti wí nígbà náà
+- got: <UNK> àwa ó ha ti wí nígbà náà
+
+- source: ofin ha n se ese bi
+- expected: òfin ha ń ṣe ẹṣẹ bí
+- got: òfin ha ń ṣe <UNK> bí
+
+- source: nitori laisi ofin ese je iku
+- expected: nítorí láìsí òfin ẹṣẹ jẹ ikú
+- got: nítorí láìsí <UNK> òfin jẹ ikú
+
+- source: nitori awa mo pe ohun emi ni ofin
+- expected: nítorí àwa mọ pé ohun ẹmí ni òfin
+- got: nítorí àwa mọ pé ohun èmi ni òfin
+
+- source: emi paapaa ko mo ohun ti emi n se
+- expected: èmi pàápàá kò mọ ohun tí èmi ń se
+- got: èmi pàápàá kò mọ ohun tí èmi ń ṣe
+
+- source: sugbon ko ri bee rara
+- expected: ṣùgbọn kò rí bẹẹ rárá
+- got: <UNK> kò rí <UNK> rárá
+
+- source: sugbon a ni lati huwa bi omo olorun
+- expected: ṣùgbọn a ní láti hùwà bí ọmọ ọlọrun
+- got: <UNK> a ni láti hùwà bí ọmọ <UNK>
+
+- source: nitori ireti ti a fi gba wa la
+- expected: nítorí ìrètí tí a fi gbà wá là
+- got: nítorí ìrètí tí a fi gbà wá là
+
+- source: nje olorun yoo da wa lebi
+- expected: ǹjẹ ọlọrun yóò dá wa lẹbi
+- got: <UNK> <UNK> yóò dá wà <UNK>
+
+- source: ta ni eni naa ti yoo da wa lebi
+- expected: ta ni ẹni náà tí yóò dá wa lẹbi
+- got: ta ni ẹni náà tí yóò dá <UNK> wà
+
+- source: nje kirisiti yoo da wa lebi
+- expected: ǹjẹ kírísítì yóò dá wa lẹbi
+- got: <UNK> kírísítì yóò dá wà <UNK>
+
+- source: oun si n bebe fun wa lorun nibe
+- expected: òun sì ń bẹbẹ fún wa lọrun níbẹ
+- got: òun sì ń <UNK> fún wa <UNK> <UNK>
+
+- source: bee ko nitori iwe mimo so fun wa pe
+- expected: bẹẹ kọ nítorí ìwé mímọ sọ fún wa pé
+- got: <UNK> kò nítorí ìwé <UNK> sọ fún wa pé
+
+- source: awa dabi aguntan ti n duro de pipa
+- expected: àwa dàbí àgùntàn tí ń dúró de pípa
+- got: àwa dàbí àgùntàn tí ń dúró de pípa
+
+- source: ki i se iku tabi iye
+- expected: kì í se ikú tàbí ìyè
+- got: kì í ṣe ikú tàbí ìyè
+
+- source: iberu fun wa lonii wahala nipa ti ojo ola
+- expected: ìbẹrù fún wa lónìí wàhálà nípa ti ọjọ ọla
+- got: <UNK> fún wa lónìí nípa wàhálà ti <UNK> ọlá
+
+- source: oro lori ipinnu ati imotele olorun
+- expected: ọrọ lórí ìpinnu àti ìmọtẹlẹ ọlọrun
+- got: <UNK> lórí <UNK> àti <UNK> <UNK>
+
+- source: opolopo nnkan ni olorun ti fi fun yin
+- expected: ọpọlọpọ nǹkan ni ọlọrun ti fi fún yín
+- got: <UNK> nǹkan ni <UNK> ti fi fún yín
+
+- source: sugbon sibe e ki yoo teti si i
+- expected: ṣùgbọn síbẹ ẹ kì yóò tẹtí sí i
+- got: <UNK> <UNK> ẹ kì yóò <UNK> sí i
+
+- source: o yan yin bi eni oto fun ara re
+- expected: ó yàn yín bí ẹni ọtọ fún ara rẹ
+- got: ó yàn yín bí ẹni <UNK> fún ara rẹ
+
+- source: baba yin ni awon onigbagbo jankanjankan atijo je
+- expected: baba yín ni àwọn onígbàgbọ jàǹkànjàǹkàn àtijọ jẹ
+- got: baba yín ni àwọn <UNK> <UNK> jẹ <UNK>
+
+- source: okan ninu yin ni kirisiti funrara re je
+- expected: ọkan nínú yín ni kírísítì fúnrara rẹ jẹ
+- got: ọkàn nínú yín ni kírísítì <UNK> rẹ jẹ
+
+- source: iyin lo ye ki e maa fifun olorun laelae
+- expected: ìyìn ló yẹ kí ẹ máa fifún ọlọrun láéláé
+- got: ìyìn lọ yẹ kí ẹ máa <UNK> láéláé
+
+- source: sugbon ki i se pe oro olorun di asan
+- expected: ṣùgbọn kì í ṣe pé ọrọ ọlọrun di asán
+- got: <UNK> kì í ṣe pé <UNK> di asán
+
+- source: nitori oro ileri ni eyi
+- expected: nítorí ọrọ ìlérí ni èyí
+- got: nítorí <UNK> ìlérí ni èyí
+
+- source: ki si ise kiki eyi
+- expected: kì sì íṣe kìkì èyí
+- got: kí sí <UNK> kìkì èyí
+
+- source: gege bi a ti ko o pe
+- expected: gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> bí a ti kọ ọ pé
+
+- source: jakobu ni mo feran sugbon isau ni mo korira
+- expected: jákọbù ni mo fẹràn ṣùgbọn ísáù ni mo kóríra
+- got: <UNK> ni mo <UNK> <UNK> <UNK> ni mo <UNK>
+
+- source: nje awa yoo ha ti wi
+- expected: njẹ àwa yóò ha ti wí
+- got: <UNK> àwa yóò ha ti wí
+
+- source: aisododo ha wa lodo olorun bi
+- expected: àìsòdodo ha wà lọdọ ọlọrun bí
+- got: <UNK> ha wà <UNK> <UNK> bí
+
+- source: nitori tani o n de ife re lona
+- expected: nítorí tani ó ń de ìfẹ rẹ lọnà
+- got: nítorí tani ó ń dé <UNK> rẹ <UNK>
+
+- source: isaia si ki gbe nnitori isireli pe
+- expected: ìsáíà sì kí gbe nnítorí ísírẹlì pé
+- got: <UNK> sí kí <UNK> <UNK> <UNK> pé
+
+- source: ati bi isaia ti wi tele
+- expected: àti bí ìsáià ti wí tẹlẹ
+- got: àti bí <UNK> ti wí <UNK>
+
+- source: nje kili awa o ha wi
+- expected: ǹjẹ kílí àwa ó ha wí
+- got: <UNK> <UNK> àwa ó ha wí
+
+- source: nitori won kose lara okuta ni
+- expected: nítorí wọn kọsẹ lára òkúta ni
+- got: nítorí wọn <UNK> lára òkúta ni
+
+- source: gege bi a ti ko o pe
+- expected: gẹgẹ bí a ti kọ ọ pé
+- got: <UNK> bí a ti kọ ọ pé
+
+- source: nitori ki ni e fi fe wa pelu mi
+- expected: nítorí kí ni ẹ fi fẹ wá pẹlú mi
+- got: nítorí kí ni ẹ fi <UNK> fi wá <UNK> mi
+
+- source: leekan si i won tun sunkun kikoro
+- expected: lẹẹkan sí i wọn tún sunkún kíkorò
+- got: <UNK> sì í wọn tún sunkún kíkorò
+
+- source: won gunle si betilehemu ni ibere ikore oka bali
+- expected: wọn gúnlẹ sí bẹtílẹhẹmù ní ìbẹrẹ ìkórè ọkà bálì
+- got: wọn <UNK> sí <UNK> ni <UNK> ìkórè ọkà <UNK>
+
+- source: duro nibi pelu awon iransebinrin mi
+- expected: dúró níbí pẹlú àwọn ìránṣẹbìnrin mi
+- got: dúró <UNK> níbi àwọn <UNK> mi
+
+- source: o si je o yo o si tun seku
+- expected: ó sì jẹ ó yó ó sì tún ṣẹkù
+- got: ó sì jẹ ó yọ ó sì tún <UNK>
+
+- source: ati wi pe oko ta ni iwo gbe sise
+- expected: àti wí pé oko ta ni ìwọ gbé ṣiṣẹ
+- got: àti wí pé ọkọ ta ni ìwọ gbé <UNK>
+
+- source: o si n gbe pelu iya oko re
+- expected: ó sì ń gbé pẹlú ìyá ọkọ rẹ
+- got: ó sì ń gbé <UNK> ìyá rẹ ọkọ rẹ
+
+- source: ruutu ati boasi ni ile ipaka
+- expected: rúùtù àti bóásì ní ilẹ ìpakà
+- got: <UNK> àti <UNK> ni ilẹ <UNK>
+
+- source: o si beere pe ta ni iwo i se
+- expected: ó sì béèrè pé ta ni ìwọ í ṣe
+- got: ó sì béèrè pé ta ni ìwọ í ṣe
+
+- source: nje nisinsin yii iwo omobinrin mi ma beru
+- expected: ǹjẹ nísinsìn yìí ìwọ ọmọbìnrin mi má bẹrù
+- got: <UNK> nísinsìn yìí ìwọ ọmọbìnrin mi má <UNK>
+
+- source: nigba naa ni o pada si igboro
+- expected: nígbà náà ni ó padà sí ìgboro
+- got: nígbà náà ni ó padà sí <UNK>
+
+- source: boasi gbe ruutu ni iyawo
+- expected: bóásì gbé rúùtù ní ìyàwó
+- got: <UNK> gbé <UNK> ni ìyàwó
+
+- source: bi iwo yoo ba ra a pada ra a
+- expected: bí ìwọ yóò bá rà á padà rà á
+- got: bí ìwọ yóò bá ra a padà rà á
+
+- source: malioni ati kilioni lowo naomi
+- expected: málíónì àti kílíónì lọwọ náómì
+- got: <UNK> àti <UNK> <UNK> <UNK>
+
+- source: eyin ni elerii ni oni
+- expected: ẹyin ni ẹlẹrìí ní òní
+- got: ẹyin ní <UNK> ni òní òní
+
+- source: ki omo naa di olokiki ni isireli
+- expected: kí ọmọ náà di olókìkí ní ísírẹlì
+- got: kí ọmọ náà di <UNK> ni <UNK>
+
+- source: won si pe oruko re ni obedi
+- expected: wọn sì pe orúkọ rẹ ní óbédì
+- got: wọn sì pe orúkọ rẹ ní <UNK>
+
+- source: awa yo inu wa si dun si o
+- expected: àwa yọ inú wa sì dùn sí ọ
+- got: àwa yọ inú wá sí dùn sí ọ
+
+- source: a gbe ife re ga ju oti waini lo
+- expected: a gbé ìfẹ rẹ ga ju ọtí wáìnì lọ
+- got: a gbé <UNK> rẹ ga ju ọtí wáìnì lọ
+
+- source: ba ona ti agbo eran rin lo
+- expected: bá ọnà ti agbo ẹran rìn lọ
+- got: bá ọnà tí agbo ẹran rìn lọ
+
+- source: ki o si bo awon omo ewure re
+- expected: kí o sì bọ àwọn ọmọ ewúrẹ rẹ
+- got: kí ó sì bo àwọn ọmọ <UNK> rẹ
+
+- source: ni eba ago awon oluso aguntan
+- expected: ní ẹbá àgọ àwọn olùsọ àgùntàn
+- got: ní <UNK> <UNK> àwọn <UNK> àgùntàn
+
+- source: nigba ti oba wa ni ori ijokoo re
+- expected: nígbà tí ọba wà ní orí ìjókòó rẹ
+- got: nígbà tí ọba wá ni orí <UNK> rẹ
+
+- source: ororo ikunra mi tu oorun jade
+- expected: òróró ìkunra mi tú òórùn jáde
+- got: òróró <UNK> mi tú jáde jáde
+
+- source: idi ojia ni olufe mi je si mi
+- expected: ìdì òjíá ni olùfẹ mi jẹ sí mi
+- got: ìdí <UNK> ni <UNK> mi jẹ sí mi
+
+- source: oun o sinmi le aarin omu mi
+- expected: òun ó sinmi lé àárin ọmú mi
+- got: òun ó sinmi lé àárin <UNK> mi
+
+- source: fi agbara adun akara da mi duro
+- expected: fi agbára adùn àkàrà dá mi dúró
+- got: fi agbára <UNK> àkàrà dá mi dúró
+
+- source: wo o  igba otutu ti koja
+- expected: wò ó  ìgbà otútù ti kọjá
+- got: wò ó ìgbà <UNK> ti kọjá
+
+- source: ojo ti ro dawo o si ti lo
+- expected: òjò ti rọ dawọ ó sì ti lọ
+- got: <UNK> ti rọ òjò ó sì ti lọ
+
+- source: arewa mi nikan soso wa pelu mi
+- expected: arẹwà mi nìkan ṣoṣo wá pẹlú mi
+- got: <UNK> mi nìkan ṣoṣo wà <UNK> mi
+
+- source: olufe mi ni temi emi si ni tire
+- expected: olùfẹ mi ni tèmi èmi sì ni tirẹ
+- got: <UNK> mi ni tèmi ni èmi sì ni <UNK>
+
+- source: o n je laarin awon lili
+- expected: ó ń jẹ láàrin àwọn lílì
+- got: ó ń jẹ láàrin àwọn <UNK>
+
+- source: mo wa a sugbon emi ko ri i
+- expected: mo wá a ṣùgbọn èmi kò rí i
+- got: mo wá a <UNK> èmi kò rí i
+
+- source: emi yoo wa eni ti okan mi fe
+- expected: èmi yóò wá ẹni tí ọkàn mi fẹ
+- got: èmi yóò wá ẹni tí ọkàn mi <UNK>
+
+- source: nje iwo ti ri eni ti okan mi fe
+- expected: ǹjẹ ìwọ ti rí ẹni tí ọkàn mi fẹ
+- got: <UNK> ìwọ ti rí ẹni tí ọkàn mi <UNK>
+
+- source: o fi igi lebanoni se e
+- expected: ó fi igi lébánónì ṣe é
+- got: ó fi igi <UNK> ṣe é
+
+- source: ti o so kale lori oke giliadi
+- expected: tí ó sọ kalẹ lórí òkè gílíádì
+- got: tí ó sọ lórí <UNK> òkè gílíádì
+
+- source: ko si okan ninu won ti o yagan
+- expected: kò sí ọkan nínú wọn tí ó yàgàn
+- got: kò sí <UNK> nínú wọn tí ó <UNK>
+
+- source: ete re dabi owu ododo
+- expected: ètè rẹ dàbí òwú òdòdó
+- got: ètè rẹ dàbí òdodo <UNK>
+
+- source: gbogbo ara re je kiki ewa olufe mi
+- expected: gbogbo ara rẹ jẹ kìkì ẹwa olùfẹ mi
+- got: gbogbo ara rẹ jẹ kìkì <UNK> mi <UNK>
+
+- source: ko si si abawon lara re
+- expected: kò sì sí àbàwọn lára rẹ
+- got: kò sì sí <UNK> lára rẹ
+
+- source: iwo ti gba okan mi arabinrin mi iyawo mi
+- expected: ìwọ ti gba ọkàn mi arábìnrin mi ìyàwó mi
+- got: ìwọ ti gba ọkàn mi arábìnrin mi ìyàwó mi
+
+- source: wara ati oyin wa labe ahon re
+- expected: wàrà àti oyin wà lábẹ ahọn rẹ
+- got: wàrà àti oyin wà <UNK> <UNK> rẹ
+
+- source: oorun aso re si dabi oorun lebanoni
+- expected: òórùn aṣọ rẹ sì dàbí òórùn lébánónì
+- got: aṣọ rẹ sì dàbí òórùn òórùn dídùn
+
+- source: mo ti ko ojia pelu oorun didun mi jo
+- expected: mo ti kó òjíá pẹlú òórùn dídùn mi jọ
+- got: mo tí kò <UNK> <UNK> òórùn dídùn mi jọ
+
+- source: mo ti je afara mi pelu oyin mi
+- expected: mo ti jẹ afárá mi pẹlú oyin mi
+- got: mo ti jẹ <UNK> mi <UNK> oyin mi
+
+- source: mo ti mu oti waini mi pelu wara mi
+- expected: mo ti mu ọtí wáìnì mi pẹlú wàrà mi
+- got: mo ti mú ọtí wáìnì mi <UNK> wàrà mi
+
+- source: gbo  olufe mi n kan ilekun
+- expected: gbọ  olùfẹ mi ń kan ilẹkùn
+- got: <UNK> <UNK> mi ń kan <UNK>
+
+- source: mo wa a kiri sugbon n ko ri i
+- expected: mo wá a kiri ṣùgbọn n kò rí i
+- got: mo wá kiri a kiri <UNK> n kò rí
+
+- source: won na mi won sa mi logbe
+- expected: wọn nà mí wọn ṣá mi lọgbẹ
+- got: wọn nà mi sá wọn <UNK> mi
+
+- source: won gba iborun mi lowo mi
+- expected: wọn gba ìborùn mi lọwọ mi
+- got: wọn gba <UNK> mi <UNK> mi
+
+- source: yi oju re kuro lara mi
+- expected: yí ojú rẹ kúrò lára mi
+- got: yí ojú rẹ kúrò lára mi
+
+- source: nitori oju re bori mi
+- expected: nítorí ojú rẹ borí mi
+- got: nítorí ojú rẹ borí mi
+
+- source: pada wa pada wa iwo sulamati
+- expected: padà wá padà wá ìwọ ṣúlámátì
+- got: padà wá padà wá ìwọ <UNK>
+
+- source: orun re ri bi ile iso eyinerin
+- expected: ọrùn rẹ rí bí ilé ìṣọ eyínerin
+- got: ọrun rẹ rí bí ilé <UNK> <UNK>
+
+- source: mo ni emi yoo gun igi ope lo
+- expected: mo ní èmi yóò gun igi ọpẹ lọ
+- got: mo ni èmi yóò gún igi <UNK> lọ
+
+- source: nibe ni eni ti n robi bi o si
+- expected: níbẹ ni ẹni tí ń rọbí bí ọ sí
+- got: <UNK> ni ẹni tí ń <UNK> bí sí ọ
+
+- source: omi pupo ko le pana ife
+- expected: omi púpọ kò le paná ìfẹ
+- got: omi <UNK> kò lè <UNK> <UNK>
+
+- source: bee ni gbigba omi ko le gba a lo
+- expected: bẹẹ ni gbígbá omi kò le gbá a lọ
+- got: <UNK> ni <UNK> omi kò lè gbà á lọ
+
+- source: eyi ni won n se fun ere aisododo
+- expected: èyí ni wọn ń ṣe fún ere àìsòdodo
+- got: èyí ni wọn ń ṣe fún èrè <UNK>
+
+- source: awon eko ti a gbodo ko ni oniruuru akojopo
+- expected: àwọn èkọ tí a gbọdọ kọ ní onírúurú àkójọpọ
+- got: àwọn <UNK> tí a <UNK> kò ní <UNK> àwọn <UNK>
+
+- source: mae je ki enikeni ki o gan o
+- expected: máe jẹ kí ẹnikẹni kí ó gàn ọ
+- got: <UNK> jẹ kí <UNK> kí ó gan ọ
+
+- source: sise ohun ti o tona
+- expected: ṣíṣe ohun tí ó tọnà
+- got: <UNK> ohun tí ó <UNK>
+
+- source: gbogbo awon ti n be lodo mi ki o
+- expected: gbogbo àwọn tí ń bẹ lọdọ mi kí ọ
+- got: gbogbo àwọn tí ń bẹ <UNK> mi kí ọ
+
+- source: ki ooreofe olorun wa pelu gbogbo yin
+- expected: kí ooreọfẹ ọlọrun wà pẹlú gbogbo yín
+- got: kí <UNK> <UNK> wà <UNK> gbogbo yín
+
+- source: ipe lati pada si odo olorun
+- expected: ìpè láti padà sí ọdọ ọlọrun
+- got: ìpè padà sí <UNK> sí <UNK>
+
+- source: oluwa ti binu si awon baba nla yin
+- expected: olúwa ti bínú sí àwọn baba ńlá yín
+- got: olúwa ti bínú sí àwọn baba ńlá yín
+
+- source: nitori naa so fun awon eniyan
+- expected: nítorí náà sọ fún àwọn ènìyàn
+- got: nítorí náà sọ fún àwọn ènìyàn
+
+- source: eyi ni ohun ti oluwa awon omoogun wi
+- expected: èyí ni ohun tí olúwa àwọn ọmọogun wí
+- got: èyí ni ohun tí olúwa àwọn <UNK> wí
+
+- source: bayii ni oluwa awon omo ogun wi
+- expected: báyìí ní olúwa àwọn ọmọ ogun wí
+- got: báyìí ni olúwa àwọn ọmọ ogun wí
+
+- source: awon baba yin nibo ni won wa
+- expected: àwọn baba yín níbo ni wọn wà
+- got: àwọn baba yín níbo ni wọn wà
+
+- source: ati awon wolii won ha wa titi aye
+- expected: àti àwọn wòlíì wọn ha wà títí ayé
+- got: àti àwọn wòlíì wọn ha wà títí ayé
+
+- source: bayii ni oluwa awon omoogun wi
+- expected: báyìí ni olúwa àwọn ọmọogun wí
+- got: báyìí ni olúwa àwọn <UNK> wí
+
+- source: nitori naa bayii ni oluwa wi
+- expected: nítorí náà báyìí ni olúwa wí
+- got: nítorí náà báyìí ni olúwa wí
+
+- source: mo pada to jerusalemu wa pelu aanu
+- expected: mo padà tọ jérúsálẹmù wá pẹlú àánú
+- got: mo padà tọ <UNK> wá <UNK> àánú
+
+- source: ma a ke sibe pe
+- expected: má a ké síbẹ pé
+- got: má a ké <UNK> pé
+
+- source: bayii ni oluwa awon omoogun wi
+- expected: báyìí ni olúwa àwọn ọmọogun wí
+- got: báyìí ni olúwa àwọn <UNK> wí
+
+- source: a o maa fi ire kun ilunla mi sibe
+- expected: a o máa fi ire kun ilúńlà mi ṣíbẹ
+- got: a ó máa fi ire kún <UNK> mi <UNK>
+
+- source: oluwa si fi alagbede merin kan han mi
+- expected: olúwa sì fi alágbẹdẹ mẹrin kan hàn mí
+- got: olúwa sì fi <UNK> <UNK> kan hàn mí
+
+- source: e beere ojo nigba arokuro ni owo oluwa
+- expected: ẹ bèèrè òjò nígbà àrọkúrò ni ọwọ olúwa
+- got: ẹ béèrè <UNK> nígbà <UNK> ni <UNK> olúwa
+
+- source: nitori emi ti ra won pada
+- expected: nítorí èmi tí rà wọn padà
+- got: nítorí èmi ti ra wọn padà
+
+- source: sibe won o si ranti mi ni ile jinjin
+- expected: ṣíbẹ wọn ó sì rántí mi ni ilẹ jínjìn
+- got: <UNK> wọn ó sì rántí mi ní ilé <UNK>
+
+- source: emi o si mu won ni agbara ninu oluwa
+- expected: èmi ó sì mú wọn ní agbára nínú olúwa
+- got: èmi ó sì mú wọn ní agbára nínú agbára
+
+- source: gbo ohun igbe awon olusoaguntan
+- expected: gbọ ohun igbe àwọn olùṣọàgùntàn
+- got: <UNK> ohùn igbe àwọn <UNK>
+
+- source: bayii ni oluwa olorun mi wi bo owoeran abopa
+- expected: báyìí ni olúwa ọlọrun mi wí bọ ọwọẹran àbọpa
+- got: báyìí ni olúwa <UNK> mi wí <UNK> bò <UNK>
+
+- source: mo si mu opa meji sodo
+- expected: mo sì mu ọpá méjì ṣọdọ
+- got: mo sì mú <UNK> méjì <UNK>
+
+- source: mo si bo owoeran naa
+- expected: mo sì bọ ọwọẹran náa
+- got: mo sì bo <UNK> náà
+
+- source: mo si wi pe emi ki yoo bo yin
+- expected: mo sì wí pé èmi kì yóò bọ yin
+- got: mo sì wí pé èmi kì yóò bọ yín
+
+- source: ki olukuluku ninu awon iyoku je eranara enikeji re
+- expected: ki olúkúlùkù nínú àwọn ìyókù jẹ ẹranara ẹnìkejì rẹ
+- got: kí <UNK> nínú àwọn ìyókù jẹ <UNK> ẹnìkejì rẹ
+
+- source: bi bee ko e mu un lowo
+- expected: bí bẹẹ kọ ẹ mú un lọwọ
+- got: bí <UNK> kọ ẹ mú un <UNK>
+
+- source: ile naa yoo sofo idile idile lotooto
+- expected: ilẹ náà yóò ṣọfọ ìdílé ìdílé lọtọọtọ
+- got: ilẹ náà yóò <UNK> ìdílé ìdílé <UNK>
+
+- source: ati awon aya won loto
+- expected: àti àwọn aya wọn lọtọ
+- got: àti àwọn aya wọn <UNK>
+
+- source: idile natani loto ati awon aya won loto
+- expected: ìdílé nátanì lọtọ àti àwọn aya wọn lọtọ
+- got: ìdílé <UNK> nátanì àti àwọn aya <UNK> wọn
+
+- source: idile lefi loto ati awon aya won loto
+- expected: ìdílé léfì lọtọ àti àwọn aya wọn lọtọ
+- got: ìdílé léfì <UNK> àti àwọn aya <UNK> wọn
+
+- source: idile simei loto ati awon aya won loto
+- expected: ìdílé ṣimei lọtọ àti àwọn aya wọn lọtọ
+- got: ìdílé <UNK> <UNK> àti àwọn aya <UNK> wọn
+
+- source: nitori iwo n so oro eke ni oruko oluwa
+- expected: nítorí ìwọ ń sọ ọrọ èké ni orúkọ olúwa
+- got: nítorí ìwọ ń sọ <UNK> èké ni orúkọ olúwa
+
+- source: kolu olusoaguntan awon aguntan a si tuka
+- expected: kọlu olùṣọàgùntàn àwọn àgùntàn a sì túká
+- got: kọlù <UNK> àwọn àgùntàn a sì <UNK>
+
+- source: emi o si yi owo mi si awon kekeke
+- expected: èmi o sì yí ọwọ mi sí àwọn kékèké
+- got: èmi ó sì yí <UNK> mi sí àwọn <UNK>
+
+- source: sugbon apa keta yoo ku ninu re
+- expected: ṣùgbọn apá kẹta yóò kù nínú rẹ
+- got: <UNK> apá kẹta yóò kú nínú rẹ
+
+- source: eyin o si sa si afonifoji awon oke mi
+- expected: ẹyin ó sì ṣá sí àfonífojì àwọn òkè mi
+- got: ẹyin ó sì sá àfonífojì sí àfonífojì àwọn òkè mi
+
+- source: nitori pe afonifoji oke naa yoo de asali
+- expected: nítorí pé àfonífojì òkè náà yóò dé àṣàlì
+- got: nítorí pé àfonífojì òkè náà yóò dé <UNK>
+
+- source: sugbon yoo se pe ni asale imole yoo wa
+- expected: ṣùgbọn yóò ṣe pé ni àṣálẹ ìmọlẹ yóò wà
+- got: <UNK> yóò ṣe pé <UNK> ni <UNK> yóò wà
+
+- source: nigba erun ati nigba otutu ni yoo ri bee
+- expected: nígbà ẹrùn àti nígbà òtútù ni yóò rí bẹẹ
+- got: nígbà <UNK> àti nígbà <UNK> ni yóò rí <UNK>
+
+- source: oluwa yoo si joba lori gbogbo aye
+- expected: olúwa yóò sì jọba lórí gbogbo ayé
+- got: olúwa yóò sì jọba lórí gbogbo ayé
+
+- source: sugbon a o maa gbe jerusalemu lailewu
+- expected: ṣùgbọn a o máa gbé jérúsálẹmù láìléwu
+- got: <UNK> a ó máa gbé <UNK> <UNK>
+
+- source: juda pelu yoo si ja ni jerusalemu
+- expected: júdà pẹlú yóò sì jà ni jérúsálẹmù
+- got: júdà <UNK> yóò sì já ni <UNK>
+
+- source: mo si wi pe nibo ni iwo n lo
+- expected: mo sí wí pé níbo ni ìwọ ń lọ
+- got: mo sì wí pé níbo ni ìwọ ń lọ
+
+- source: nitori bayii ni oluwa awon omoogun wi
+- expected: nítorí bayìí ni olúwa àwọn ọmọogun wí
+- got: nítorí báyìí ni olúwa àwọn <UNK> wí
+
+- source: korin ki o si yo iwo omobinrin sioni
+- expected: kọrin kí o sì yọ ìwọ ọmọbìnrin síónì
+- got: kọrin kí o sì yọ ìwọ ọmọbìnrin síónì
+
+- source: e dake gbogbo eranara niwaju oluwa
+- expected: ẹ dákẹ gbogbo ẹranara níwájú olúwa
+- got: ẹ <UNK> gbogbo <UNK> níwájú olúwa
+
+- source: nitori a ji i lati ibugbe mimo re wa
+- expected: nítorí a jí i láti ibùgbé mímọ rẹ wá
+- got: nítorí a jí i láti ibùgbé <UNK> rẹ wá
+
+- source: aso mimo fun olori alufaa
+- expected: asọ mímọ fún olórí àlùfáà
+- got: aṣọ <UNK> fún àlùfáà
+
+- source: angeli oluwa si duro ti i
+- expected: ańgẹlì olúwa sì dúró tì í
+- got: <UNK> olúwa sì dúró tì í
+
+- source: angeli oluwa si tenumo on fun josua pe
+- expected: ańgẹlì olúwa sì tẹnumọ ọn fún jóṣúà pé
+- got: <UNK> olúwa sì <UNK> ọn fún jóṣúà pé
+
+- source: bayii ni oluwa awon omoogun wi
+- expected: báyìí ni olúwa àwọn ọmọogun wí
+- got: báyìí ni olúwa àwọn <UNK> wí
+
+- source: nitori eni iyanu ni won
+- expected: nítorí ẹni ìyanu ni wọn
+- got: nítorí ẹni <UNK> ni wọn
+
+- source: lori okuta kan ni oju meje wa
+- expected: lórí òkúta kán ni ojú méje wà
+- got: lórí òkúta kan ní ojú méje wà
+
+- source: opa fitila wura ati awon igi olifi meji
+- expected: ọpá fìtílà wúrà àti àwọn igi ólífì méjì
+- got: <UNK> fìtílà wúrà àti àwọn igi ólífì méjì
+
+- source: iwo yoo di petele niwaju serubabeli
+- expected: ìwọ yóò di pẹtẹlẹ níwájú serubábélì
+- got: ìwọ yóò di <UNK> níwájú <UNK>
+
+- source: sugbon ta ni ha kegan ojo ohun kekere
+- expected: ṣùgbọn ta ni ha kẹgàn ọjọ ohun kékeré
+- got: <UNK> ta ni ha <UNK> <UNK> ohun kékeré
+
+- source: nitori won o yo ni iwon lowo serubabeli
+- expected: nítorí wọn ó yọ ní ìwọn lọwọ serubábélì
+- got: nítorí wọn ó yọ ní <UNK> <UNK> <UNK>
+
+- source: mo si wi pe bee ko oluwa a mi
+- expected: mo sì wí pé bẹẹ kọ olúwa à mi
+- got: mo sì wí pé <UNK> kọ olúwa mi
+
+- source: mo si wi pe ki ni nnkan naa
+- expected: mo sì wí pé kí ni nǹkan náà
+- got: mo sì wí pé kí ni nǹkan náà
+
+- source: si kiyesi i a gbe talenti oje soke
+- expected: sì kíyèsí i a gbé talẹńtì òjé sókè
+- got: sì kíyèsí i á gbé <UNK> <UNK> sókè
+
+- source: o si wi pe eyi ni iwabuburu
+- expected: ó sì wí pé èyí ni ìwàbúburú
+- got: ó sì wí pé èyí ni <UNK>
+
+- source: o si ju u si aarin osuwon efa
+- expected: ó sì jù ú sí àárin òṣùwọn éfà
+- got: ó sì ju u sí àárin <UNK> òde
+
+- source: o si ju osuwon oje si enu re
+- expected: ó sì ju òṣùwọn òjé sí ẹnu rẹ
+- got: ó sì ju <UNK> <UNK> sí ẹnu rẹ
+
+- source: nitori won ni iye bi iye ako
+- expected: nítorí wọn ní ìyẹ bí ìyẹ àkọ
+- got: nítorí wọn ní iye bí iye akọ akọ
+
+- source: keke ogun merin ti idajo olorun
+- expected: kẹkẹ ogun mẹrin tí ìdàjọ ọlọrun
+- got: <UNK> ogun <UNK> ti <UNK> <UNK>
+
+- source: awon esin pupa wa ni keke ekinni
+- expected: àwọn ẹṣin pupa wà ní kẹkẹ èkínní
+- got: àwọn ẹṣin kó ẹṣin wà ní <UNK>
+
+- source: ati awon esin dudu ni keke ekeji
+- expected: àti àwọn ẹṣin dúdú ní kẹkẹ èkejì
+- got: àti àwọn ẹṣin <UNK> ni <UNK> èkejì
+
+- source: ati awon esin funfun ni keke eketa
+- expected: àti àwọn ẹṣin funfun ní kẹkẹ ẹkẹta
+- got: àti àwọn ẹṣin funfun ni <UNK> <UNK>
+
+- source: ati awon adikala ati alagbara esin ni keke ekerin
+- expected: àti àwọn adíkálà àti alágbára ẹṣin ní kẹkẹ ẹkẹrin
+- got: àti àwọn <UNK> àti alágbára ni ẹṣin <UNK> <UNK>
+
+- source: awon funfun si jade tele won
+- expected: àwọn funfun sì jáde tẹlé wọn
+- got: àwọn funfun sì jáde <UNK> wọn
+
+- source: awon adikala si jade lo si iha ile gusu
+- expected: àwọn adíkálà sì jáde lọ sí ìhà ilẹ gúsù
+- got: àwọn <UNK> sì jáde lọ sí ìhà gúsù
+
+- source: oro oluwa si to mi wa wi pe
+- expected: ọrọ olúwa sì tọ mí wá wí pé
+- got: <UNK> olúwa sì tọ mí wá wí pé
+
+- source: si so fun un pe
+- expected: sì sọ fún un pé
+- got: sí sọ fún un pé
+
+- source: oun o si je alufaa lori ite re
+- expected: òun ó sì jẹ àlùfáà lorí ìtẹ rẹ
+- got: òun ó sì jẹ àlùfáà lórí <UNK> rẹ
+
+- source: imo alaafia yoo si wa laarin awon mejeeje
+- expected: ìmọ àlàáfíà yóò sì wá láàrin àwọn méjèèje
+- got: <UNK> àlàáfíà yóò sì wà láàrin àwọn <UNK>
+
+- source: ododo ati aanu ki i se aawe
+- expected: òdodo àti àánú kì í ṣe ààwẹ
+- got: òdodo àti àánú kì í ṣe <UNK>
+
+- source: oro oluwa si to sekaraya wa wi pe
+- expected: ọrọ olúwa sì tọ sekaráyà wá wí pé
+- got: <UNK> olúwa sì tọ <UNK> wá wí pé
+
+- source: bayii ni oluwa awon omoogun wi pe
+- expected: báyìí ni olúwa àwọn ọmọogun wí pé
+- got: báyìí ni olúwa àwọn <UNK> wí pé
+
+- source: won si so ile aayo naa dahoro
+- expected: wọn sì sọ ilẹ ààyò náà dáhoro
+- got: wọn sì sọ ilé <UNK> náà <UNK>
+
+- source: olorun se ipinnu lati bukun jerusalemu
+- expected: ọlọrun ṣe ìpinnu láti bùkún jérúsálẹmù
+- got: <UNK> ṣe <UNK> láti bùkún <UNK>
+
+- source: bayii ni oluwa awon omoogun wi
+- expected: báyìí ni olúwa àwọn ọmọogun wí
+- got: báyìí ni olúwa àwọn <UNK> wí
+
+- source: bayii ni oluwa awon omoogun wi pe
+- expected: báyìí ni olúwa àwọn ọmọogun wí pé
+- got: báyìí ni olúwa àwọn <UNK> wí pé
+
+- source: ni oluwa awon omoogun wi
+- expected: ni olúwa àwọn ọmọogun wí
+- got: ni olúwa àwọn <UNK> wí
+
+- source: bayii ni oluwa awon omoogun wi pe
+- expected: báyìí ní olúwa àwọn ọmọogun wí pé
+- got: báyìí ni olúwa àwọn <UNK> wí pé
+
+- source: bayii ni oluwa awon omoogun wi pe
+- expected: báyìí ni olúwa àwọn ọmọogun wí pé
+- got: báyìí ni olúwa àwọn <UNK> wí pé
+
+- source: nitori mo doju gbogbo eniyan olukuluku ko aladuugbo re
+- expected: nítorí mo dojú gbogbo ènìyàn olukuluku kọ aládùúgbò rẹ
+- got: nítorí mo dojú gbogbo ènìyàn kọ <UNK> rẹ wò
+
+- source: eyin o si je ibukun
+- expected: ẹyin o sì jẹ ìbùkún
+- got: ẹyin ó sì jẹ ìbùkún
+
+- source: e ma beru sugbon je ki owo yin le
+- expected: ẹ má bẹrù ṣùgbọn jẹ ki ọwọ yín le
+- got: ẹ má <UNK> jẹ <UNK> kí <UNK> le yín
+
+- source: nitori bayii ni oluwa awon omoogun wi
+- expected: nítorí báyìí ni olúwa àwọn ọmọogun wí
+- got: nítorí báyìí ni olúwa àwọn <UNK> wí
+
+- source: wonyi ni nnkan ti eyin o se
+- expected: wọnyí ni nǹkan tí ẹyin ó ṣe
+- got: <UNK> ni nǹkan tí ẹyin ó ṣe
+
+- source: e soro otito olukuluku si enikeji re
+- expected: ẹ ṣọrọ òtítọ olúkúlúkù sí ẹnikejì rẹ
+- got: ẹ <UNK> <UNK> <UNK> sí ẹnìkejì rẹ
+
+- source: se idajo tooto ati alaafia ni awon ibode yin
+- expected: ṣe ìdájọ tòótọ àti àlàáfíà ní àwọn ibodè yín
+- got: ṣe <UNK> <UNK> àti àlàáfíà ni àwọn ibodè yín
+
+- source: e ma fe ibura eke
+- expected: ẹ má fẹ ìbúra èké
+- got: ẹ má <UNK> ṣe èké
+
